@@ -1,0 +1,1518 @@
+# RDF file for 795110.ttl
+@base <http://sparqlr.co.uk/IS/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> . 
+@prefix q: <http://sparqlr.co.uk/q/> . 
+<795110>	rdf:type	q:ISQuery .
+<795110>	q:QueryId	"795110" . 
+<795110>	q:Title	"795110" . 
+<795110>	q:Endpoint	"http://sparqlr.co.uk/endpoint.php" . 
+<795110>	q:DateSaved	"1362692122" . 
+
+<795110/rowId=0>	rdf:type	q:795110	.
+<795110/rowId=0>	<795110/amount>	 "49000"	.
+<795110/rowId=0>	<795110/street>	 "CRESCENT AVENUE"	.
+<795110/rowId=0>	<795110/postcode>	 "M27 8TL"	.
+<795110/rowId=0>	<795110/date>	 "2012-06-26"	.
+
+<795110/rowId=1>	rdf:type	q:795110	.
+<795110/rowId=1>	<795110/amount>	 "49000"	.
+<795110/rowId=1>	<795110/street>	 "LEIGH ROAD"	.
+<795110/rowId=1>	<795110/postcode>	 "M46 0PW"	.
+<795110/rowId=1>	<795110/date>	 "2012-10-05"	.
+
+<795110/rowId=2>	rdf:type	q:795110	.
+<795110/rowId=2>	<795110/amount>	 "49000"	.
+<795110/rowId=2>	<795110/street>	 "BLUESTONE ROAD"	.
+<795110/rowId=2>	<795110/postcode>	 "M40 9HZ"	.
+<795110/rowId=2>	<795110/date>	 "2012-02-03"	.
+
+<795110/rowId=3>	rdf:type	q:795110	.
+<795110/rowId=3>	<795110/amount>	 "49000"	.
+<795110/rowId=3>	<795110/street>	 "LIVERPOOL ROAD"	.
+<795110/rowId=3>	<795110/postcode>	 "M44 5GQ"	.
+<795110/rowId=3>	<795110/date>	 "2003-01-16"	.
+
+<795110/rowId=4>	rdf:type	q:795110	.
+<795110/rowId=4>	<795110/amount>	 "49000"	.
+<795110/rowId=4>	<795110/street>	 "NOWELL ROAD"	.
+<795110/rowId=4>	<795110/postcode>	 "M24 6EJ"	.
+<795110/rowId=4>	<795110/date>	 "2012-04-30"	.
+
+<795110/rowId=5>	rdf:type	q:795110	.
+<795110/rowId=5>	<795110/amount>	 "49000"	.
+<795110/rowId=5>	<795110/street>	 "ST JOHNS AVENUE"	.
+<795110/rowId=5>	<795110/postcode>	 "M43 7HE"	.
+<795110/rowId=5>	<795110/date>	 "2012-11-30"	.
+
+<795110/rowId=6>	rdf:type	q:795110	.
+<795110/rowId=6>	<795110/amount>	 "49000"	.
+<795110/rowId=6>	<795110/street>	 "KENDAL GROVE"	.
+<795110/rowId=6>	<795110/postcode>	 "M28 7FW"	.
+<795110/rowId=6>	<795110/date>	 "2012-05-04"	.
+
+<795110/rowId=7>	rdf:type	q:795110	.
+<795110/rowId=7>	<795110/amount>	 "27000"	.
+<795110/rowId=7>	<795110/street>	 "SWINBURN STREET"	.
+<795110/rowId=7>	<795110/postcode>	 "M9 4FS"	.
+<795110/rowId=7>	<795110/date>	 "2012-05-30"	.
+
+<795110/rowId=8>	rdf:type	q:795110	.
+<795110/rowId=8>	<795110/amount>	 "27000"	.
+<795110/rowId=8>	<795110/street>	 "BRINKLOW CLOSE"	.
+<795110/rowId=8>	<795110/postcode>	 "M11 1NH"	.
+<795110/rowId=8>	<795110/date>	 "2012-06-25"	.
+
+<795110/rowId=9>	rdf:type	q:795110	.
+<795110/rowId=9>	<795110/amount>	 "27000"	.
+<795110/rowId=9>	<795110/street>	 "SANDBROOK WAY"	.
+<795110/rowId=9>	<795110/postcode>	 "M34 3TU"	.
+<795110/rowId=9>	<795110/date>	 "2012-06-26"	.
+
+<795110/rowId=10>	rdf:type	q:795110	.
+<795110/rowId=10>	<795110/amount>	 "41000"	.
+<795110/rowId=10>	<795110/street>	 "ARGYLE STREET"	.
+<795110/rowId=10>	<795110/postcode>	 "M18 8EJ"	.
+<795110/rowId=10>	<795110/date>	 "2012-01-19"	.
+
+<795110/rowId=11>	rdf:type	q:795110	.
+<795110/rowId=11>	<795110/amount>	 "41000"	.
+<795110/rowId=11>	<795110/street>	 "SHANKLYN AVENUE"	.
+<795110/rowId=11>	<795110/postcode>	 "M41 9BZ"	.
+<795110/rowId=11>	<795110/date>	 "1998-10-26"	.
+
+<795110/rowId=12>	rdf:type	q:795110	.
+<795110/rowId=12>	<795110/amount>	 "41000"	.
+<795110/rowId=12>	<795110/street>	 "VICTORIA AVENUE"	.
+<795110/rowId=12>	<795110/postcode>	 "M9 0RB"	.
+<795110/rowId=12>	<795110/date>	 "2012-09-14"	.
+
+<795110/rowId=13>	rdf:type	q:795110	.
+<795110/rowId=13>	<795110/amount>	 "41000"	.
+<795110/rowId=13>	<795110/street>	 "VICTORIA AVENUE"	.
+<795110/rowId=13>	<795110/postcode>	 "M9 0RB"	.
+<795110/rowId=13>	<795110/date>	 "2012-09-14"	.
+
+<795110/rowId=14>	rdf:type	q:795110	.
+<795110/rowId=14>	<795110/amount>	 "41000"	.
+<795110/rowId=14>	<795110/street>	 "VICTORIA AVENUE"	.
+<795110/rowId=14>	<795110/postcode>	 "M9 0RB"	.
+<795110/rowId=14>	<795110/date>	 "2012-09-14"	.
+
+<795110/rowId=15>	rdf:type	q:795110	.
+<795110/rowId=15>	<795110/amount>	 "41000"	.
+<795110/rowId=15>	<795110/street>	 "ERRWOOD ROAD"	.
+<795110/rowId=15>	<795110/postcode>	 "M19 1HS"	.
+<795110/rowId=15>	<795110/date>	 "2012-04-24"	.
+
+<795110/rowId=16>	rdf:type	q:795110	.
+<795110/rowId=16>	<795110/amount>	 "41000"	.
+<795110/rowId=16>	<795110/street>	 "LIVERPOOL ROAD"	.
+<795110/rowId=16>	<795110/postcode>	 "M44 6FN"	.
+<795110/rowId=16>	<795110/date>	 "1999-10-29"	.
+
+<795110/rowId=17>	rdf:type	q:795110	.
+<795110/rowId=17>	<795110/amount>	 "41000"	.
+<795110/rowId=17>	<795110/street>	 "ALMA STREET"	.
+<795110/rowId=17>	<795110/postcode>	 "M26 4ET"	.
+<795110/rowId=17>	<795110/date>	 "2012-07-09"	.
+
+<795110/rowId=18>	rdf:type	q:795110	.
+<795110/rowId=18>	<795110/amount>	 "41000"	.
+<795110/rowId=18>	<795110/street>	 "ALMA STREET"	.
+<795110/rowId=18>	<795110/postcode>	 "M26 4ET"	.
+<795110/rowId=18>	<795110/date>	 "2012-07-09"	.
+
+<795110/rowId=19>	rdf:type	q:795110	.
+<795110/rowId=19>	<795110/amount>	 "41000"	.
+<795110/rowId=19>	<795110/street>	 "DEMESNE ROAD"	.
+<795110/rowId=19>	<795110/postcode>	 "M16 8HG"	.
+<795110/rowId=19>	<795110/date>	 "2005-05-11"	.
+
+<795110/rowId=20>	rdf:type	q:795110	.
+<795110/rowId=20>	<795110/amount>	 "41000"	.
+<795110/rowId=20>	<795110/street>	 "JOHN HEYWOOD STREET"	.
+<795110/rowId=20>	<795110/postcode>	 "M11 4HW"	.
+<795110/rowId=20>	<795110/date>	 "2012-06-28"	.
+
+<795110/rowId=21>	rdf:type	q:795110	.
+<795110/rowId=21>	<795110/amount>	 "41000"	.
+<795110/rowId=21>	<795110/street>	 "AGNEW ROAD"	.
+<795110/rowId=21>	<795110/postcode>	 "M18 7AR"	.
+<795110/rowId=21>	<795110/date>	 "2012-11-09"	.
+
+<795110/rowId=22>	rdf:type	q:795110	.
+<795110/rowId=22>	<795110/amount>	 "41000"	.
+<795110/rowId=22>	<795110/street>	 "THE DOWNS"	.
+<795110/rowId=22>	<795110/postcode>	 "M24 1TT"	.
+<795110/rowId=22>	<795110/date>	 "2012-08-01"	.
+
+<795110/rowId=23>	rdf:type	q:795110	.
+<795110/rowId=23>	<795110/amount>	 "41000"	.
+<795110/rowId=23>	<795110/street>	 "THE DOWNS"	.
+<795110/rowId=23>	<795110/postcode>	 "M24 1TT"	.
+<795110/rowId=23>	<795110/date>	 "2012-08-01"	.
+
+<795110/rowId=24>	rdf:type	q:795110	.
+<795110/rowId=24>	<795110/amount>	 "41000"	.
+<795110/rowId=24>	<795110/street>	 "EAST ROAD"	.
+<795110/rowId=24>	<795110/postcode>	 "M12 5GY"	.
+<795110/rowId=24>	<795110/date>	 "2012-06-18"	.
+
+<795110/rowId=25>	rdf:type	q:795110	.
+<795110/rowId=25>	<795110/amount>	 "41000"	.
+<795110/rowId=25>	<795110/street>	 "UPPER GEORGE STREET"	.
+<795110/rowId=25>	<795110/postcode>	 "M29 8HR"	.
+<795110/rowId=25>	<795110/date>	 "2012-09-28"	.
+
+<795110/rowId=26>	rdf:type	q:795110	.
+<795110/rowId=26>	<795110/amount>	 "52000"	.
+<795110/rowId=26>	<795110/street>	 "RIDYARD STREET"	.
+<795110/rowId=26>	<795110/postcode>	 "M38 9LN"	.
+<795110/rowId=26>	<795110/date>	 "2012-09-24"	.
+
+<795110/rowId=27>	rdf:type	q:795110	.
+<795110/rowId=27>	<795110/amount>	 "52000"	.
+<795110/rowId=27>	<795110/street>	 "BOLTON ROAD"	.
+<795110/rowId=27>	<795110/postcode>	 "M28 3BN"	.
+<795110/rowId=27>	<795110/date>	 "2012-05-14"	.
+
+<795110/rowId=28>	rdf:type	q:795110	.
+<795110/rowId=28>	<795110/amount>	 "52000"	.
+<795110/rowId=28>	<795110/street>	 "OLDHAM ROAD"	.
+<795110/rowId=28>	<795110/postcode>	 "M24 2FA"	.
+<795110/rowId=28>	<795110/date>	 "2012-11-16"	.
+
+<795110/rowId=29>	rdf:type	q:795110	.
+<795110/rowId=29>	<795110/amount>	 "52000"	.
+<795110/rowId=29>	<795110/street>	 "EWAN STREET"	.
+<795110/rowId=29>	<795110/postcode>	 "M18 8NS"	.
+<795110/rowId=29>	<795110/date>	 "2010-05-06"	.
+
+<795110/rowId=30>	rdf:type	q:795110	.
+<795110/rowId=30>	<795110/amount>	 "52000"	.
+<795110/rowId=30>	<795110/street>	 "EWAN STREET"	.
+<795110/rowId=30>	<795110/postcode>	 "M18 8NS"	.
+<795110/rowId=30>	<795110/date>	 "2010-05-06"	.
+
+<795110/rowId=31>	rdf:type	q:795110	.
+<795110/rowId=31>	<795110/amount>	 "52000"	.
+<795110/rowId=31>	<795110/street>	 "BEARDWOOD ROAD"	.
+<795110/rowId=31>	<795110/postcode>	 "M9 6RW"	.
+<795110/rowId=31>	<795110/date>	 "2012-08-23"	.
+
+<795110/rowId=32>	rdf:type	q:795110	.
+<795110/rowId=32>	<795110/amount>	 "52000"	.
+<795110/rowId=32>	<795110/street>	 "WORDSWORTH ROAD"	.
+<795110/rowId=32>	<795110/postcode>	 "M27 0SN"	.
+<795110/rowId=32>	<795110/date>	 "2012-11-23"	.
+
+<795110/rowId=33>	rdf:type	q:795110	.
+<795110/rowId=33>	<795110/amount>	 "52000"	.
+<795110/rowId=33>	<795110/street>	 "PINK BANK LANE"	.
+<795110/rowId=33>	<795110/postcode>	 "M12 5RF"	.
+<795110/rowId=33>	<795110/date>	 "2012-06-26"	.
+
+<795110/rowId=34>	rdf:type	q:795110	.
+<795110/rowId=34>	<795110/amount>	 "52000"	.
+<795110/rowId=34>	<795110/street>	 "MOUNT SKIP LANE"	.
+<795110/rowId=34>	<795110/postcode>	 "M38 9WR"	.
+<795110/rowId=34>	<795110/date>	 "2012-04-26"	.
+
+<795110/rowId=35>	rdf:type	q:795110	.
+<795110/rowId=35>	<795110/amount>	 "52000"	.
+<795110/rowId=35>	<795110/street>	 "ASHTON OLD ROAD"	.
+<795110/rowId=35>	<795110/postcode>	 "M11 1HL"	.
+<795110/rowId=35>	<795110/date>	 "2002-08-19"	.
+
+<795110/rowId=36>	rdf:type	q:795110	.
+<795110/rowId=36>	<795110/amount>	 "52000"	.
+<795110/rowId=36>	<795110/street>	 "MANCHESTER ROAD"	.
+<795110/rowId=36>	<795110/postcode>	 "M34 2AF"	.
+<795110/rowId=36>	<795110/date>	 "2006-11-20"	.
+
+<795110/rowId=37>	rdf:type	q:795110	.
+<795110/rowId=37>	<795110/amount>	 "52000"	.
+<795110/rowId=37>	<795110/street>	 "CORKLAND ROAD"	.
+<795110/rowId=37>	<795110/postcode>	 "M21 8XW"	.
+<795110/rowId=37>	<795110/date>	 "2001-06-26"	.
+
+<795110/rowId=38>	rdf:type	q:795110	.
+<795110/rowId=38>	<795110/amount>	 "52000"	.
+<795110/rowId=38>	<795110/street>	 "LONGDEN ROAD"	.
+<795110/rowId=38>	<795110/postcode>	 "M12 5SG"	.
+<795110/rowId=38>	<795110/date>	 "2012-03-15"	.
+
+<795110/rowId=39>	rdf:type	q:795110	.
+<795110/rowId=39>	<795110/amount>	 "52000"	.
+<795110/rowId=39>	<795110/street>	 "HARRISON STREET"	.
+<795110/rowId=39>	<795110/postcode>	 "M30 7DL"	.
+<795110/rowId=39>	<795110/date>	 "2012-06-29"	.
+
+<795110/rowId=40>	rdf:type	q:795110	.
+<795110/rowId=40>	<795110/amount>	 "52000"	.
+<795110/rowId=40>	<795110/street>	 "WILLIAM STREET"	.
+<795110/rowId=40>	<795110/postcode>	 "M35 9BF"	.
+<795110/rowId=40>	<795110/date>	 "2012-08-31"	.
+
+<795110/rowId=41>	rdf:type	q:795110	.
+<795110/rowId=41>	<795110/amount>	 "52000"	.
+<795110/rowId=41>	<795110/street>	 "DUCHESS ROAD"	.
+<795110/rowId=41>	<795110/postcode>	 "M8 5UP"	.
+<795110/rowId=41>	<795110/date>	 "2012-07-12"	.
+
+<795110/rowId=42>	rdf:type	q:795110	.
+<795110/rowId=42>	<795110/amount>	 "52000"	.
+<795110/rowId=42>	<795110/street>	 "OXHILL WALK"	.
+<795110/rowId=42>	<795110/postcode>	 "M40 0EZ"	.
+<795110/rowId=42>	<795110/date>	 "2012-10-22"	.
+
+<795110/rowId=43>	rdf:type	q:795110	.
+<795110/rowId=43>	<795110/amount>	 "52000"	.
+<795110/rowId=43>	<795110/street>	 "TOTTINGTON STREET"	.
+<795110/rowId=43>	<795110/postcode>	 "M11 4WT"	.
+<795110/rowId=43>	<795110/date>	 "2012-05-29"	.
+
+<795110/rowId=44>	rdf:type	q:795110	.
+<795110/rowId=44>	<795110/amount>	 "52000"	.
+<795110/rowId=44>	<795110/street>	 "CROFTGATES ROAD"	.
+<795110/rowId=44>	<795110/postcode>	 "M24 4PH"	.
+<795110/rowId=44>	<795110/date>	 "2012-01-31"	.
+
+<795110/rowId=45>	rdf:type	q:795110	.
+<795110/rowId=45>	<795110/amount>	 "52000"	.
+<795110/rowId=45>	<795110/street>	 "WARRINGTON ROAD"	.
+<795110/rowId=45>	<795110/postcode>	 "M9 8LN"	.
+<795110/rowId=45>	<795110/date>	 "2012-11-01"	.
+
+<795110/rowId=46>	rdf:type	q:795110	.
+<795110/rowId=46>	<795110/amount>	 "52000"	.
+<795110/rowId=46>	<795110/street>	 "HEMSLEY STREET"	.
+<795110/rowId=46>	<795110/postcode>	 "M9 4AU"	.
+<795110/rowId=46>	<795110/date>	 "2012-02-10"	.
+
+<795110/rowId=47>	rdf:type	q:795110	.
+<795110/rowId=47>	<795110/amount>	 "52000"	.
+<795110/rowId=47>	<795110/street>	 "LLOYD STREET SOUTH"	.
+<795110/rowId=47>	<795110/postcode>	 "M14 7HT"	.
+<795110/rowId=47>	<795110/date>	 "2012-10-26"	.
+
+<795110/rowId=48>	rdf:type	q:795110	.
+<795110/rowId=48>	<795110/amount>	 "52000"	.
+<795110/rowId=48>	<795110/street>	 "TINNINGHAM CLOSE"	.
+<795110/rowId=48>	<795110/postcode>	 "M11 1NB"	.
+<795110/rowId=48>	<795110/date>	 "2012-02-14"	.
+
+<795110/rowId=49>	rdf:type	q:795110	.
+<795110/rowId=49>	<795110/amount>	 "52000"	.
+<795110/rowId=49>	<795110/street>	 "BURTINSHAW STREET"	.
+<795110/rowId=49>	<795110/postcode>	 "M18 8PB"	.
+<795110/rowId=49>	<795110/date>	 "2012-02-15"	.
+
+<795110/rowId=50>	rdf:type	q:795110	.
+<795110/rowId=50>	<795110/amount>	 "52000"	.
+<795110/rowId=50>	<795110/street>	 "DORSET ROAD"	.
+<795110/rowId=50>	<795110/postcode>	 "M46 9PP"	.
+<795110/rowId=50>	<795110/date>	 "2012-02-06"	.
+
+<795110/rowId=51>	rdf:type	q:795110	.
+<795110/rowId=51>	<795110/amount>	 "68000"	.
+<795110/rowId=51>	<795110/street>	 "ACRE STREET"	.
+<795110/rowId=51>	<795110/postcode>	 "M34 2BB"	.
+<795110/rowId=51>	<795110/date>	 "2012-04-17"	.
+
+<795110/rowId=52>	rdf:type	q:795110	.
+<795110/rowId=52>	<795110/amount>	 "68000"	.
+<795110/rowId=52>	<795110/street>	 "MAKKAH CLOSE"	.
+<795110/rowId=52>	<795110/postcode>	 "M40 2SW"	.
+<795110/rowId=52>	<795110/date>	 "2012-06-25"	.
+
+<795110/rowId=53>	rdf:type	q:795110	.
+<795110/rowId=53>	<795110/amount>	 "68000"	.
+<795110/rowId=53>	<795110/street>	 "CARR AVENUE"	.
+<795110/rowId=53>	<795110/postcode>	 "M25 9TW"	.
+<795110/rowId=53>	<795110/date>	 "2012-03-30"	.
+
+<795110/rowId=54>	rdf:type	q:795110	.
+<795110/rowId=54>	<795110/amount>	 "68000"	.
+<795110/rowId=54>	<795110/street>	 "SPRINGSIDE CLOSE"	.
+<795110/rowId=54>	<795110/postcode>	 "M28 3PS"	.
+<795110/rowId=54>	<795110/date>	 "2012-01-20"	.
+
+<795110/rowId=55>	rdf:type	q:795110	.
+<795110/rowId=55>	<795110/amount>	 "68000"	.
+<795110/rowId=55>	<795110/street>	 "KELMARSH CLOSE"	.
+<795110/rowId=55>	<795110/postcode>	 "M11 1NL"	.
+<795110/rowId=55>	<795110/date>	 "2012-06-21"	.
+
+<795110/rowId=56>	rdf:type	q:795110	.
+<795110/rowId=56>	<795110/amount>	 "68000"	.
+<795110/rowId=56>	<795110/street>	 "COOMASSIE STREET"	.
+<795110/rowId=56>	<795110/postcode>	 "M26 3BF"	.
+<795110/rowId=56>	<795110/date>	 "2012-03-09"	.
+
+<795110/rowId=57>	rdf:type	q:795110	.
+<795110/rowId=57>	<795110/amount>	 "68000"	.
+<795110/rowId=57>	<795110/street>	 "OLDWOOD ROAD"	.
+<795110/rowId=57>	<795110/postcode>	 "M23 2ZE"	.
+<795110/rowId=57>	<795110/date>	 "2012-11-12"	.
+
+<795110/rowId=58>	rdf:type	q:795110	.
+<795110/rowId=58>	<795110/amount>	 "68000"	.
+<795110/rowId=58>	<795110/street>	 "EARLESDON CRESCENT"	.
+<795110/rowId=58>	<795110/postcode>	 "M38 9HF"	.
+<795110/rowId=58>	<795110/date>	 "2012-10-12"	.
+
+<795110/rowId=59>	rdf:type	q:795110	.
+<795110/rowId=59>	<795110/amount>	 "68000"	.
+<795110/rowId=59>	<795110/street>	 "PARKFIELD ROAD NORTH"	.
+<795110/rowId=59>	<795110/postcode>	 "M40 3RQ"	.
+<795110/rowId=59>	<795110/date>	 "2012-05-14"	.
+
+<795110/rowId=60>	rdf:type	q:795110	.
+<795110/rowId=60>	<795110/amount>	 "68000"	.
+<795110/rowId=60>	<795110/street>	 "STANTON STREET"	.
+<795110/rowId=60>	<795110/postcode>	 "M11 4NH"	.
+<795110/rowId=60>	<795110/date>	 "2012-10-12"	.
+
+<795110/rowId=61>	rdf:type	q:795110	.
+<795110/rowId=61>	<795110/amount>	 "68000"	.
+<795110/rowId=61>	<795110/street>	 "SUTHERS STREET"	.
+<795110/rowId=61>	<795110/postcode>	 "M26 1JW"	.
+<795110/rowId=61>	<795110/date>	 "2012-01-31"	.
+
+<795110/rowId=62>	rdf:type	q:795110	.
+<795110/rowId=62>	<795110/amount>	 "68000"	.
+<795110/rowId=62>	<795110/street>	 "RAYSONHILL DRIVE"	.
+<795110/rowId=62>	<795110/postcode>	 "M9 8PW"	.
+<795110/rowId=62>	<795110/date>	 "2012-01-31"	.
+
+<795110/rowId=63>	rdf:type	q:795110	.
+<795110/rowId=63>	<795110/amount>	 "68000"	.
+<795110/rowId=63>	<795110/street>	 "MARGARET ASHTON CLOSE"	.
+<795110/rowId=63>	<795110/postcode>	 "M9 4PZ"	.
+<795110/rowId=63>	<795110/date>	 "2012-07-26"	.
+
+<795110/rowId=64>	rdf:type	q:795110	.
+<795110/rowId=64>	<795110/amount>	 "68000"	.
+<795110/rowId=64>	<795110/street>	 "JOHN HEYWOOD STREET"	.
+<795110/rowId=64>	<795110/postcode>	 "M11 4FN"	.
+<795110/rowId=64>	<795110/date>	 "2012-06-28"	.
+
+<795110/rowId=65>	rdf:type	q:795110	.
+<795110/rowId=65>	<795110/amount>	 "68000"	.
+<795110/rowId=65>	<795110/street>	 "CUDWORTH ROAD"	.
+<795110/rowId=65>	<795110/postcode>	 "M9 8PE"	.
+<795110/rowId=65>	<795110/date>	 "2012-01-20"	.
+
+<795110/rowId=66>	rdf:type	q:795110	.
+<795110/rowId=66>	<795110/amount>	 "68000"	.
+<795110/rowId=66>	<795110/street>	 "MIDDLETON AVENUE"	.
+<795110/rowId=66>	<795110/postcode>	 "M35 0FE"	.
+<795110/rowId=66>	<795110/date>	 "2012-02-17"	.
+
+<795110/rowId=67>	rdf:type	q:795110	.
+<795110/rowId=67>	<795110/amount>	 "68000"	.
+<795110/rowId=67>	<795110/street>	 "MUIRFIELD CLOSE"	.
+<795110/rowId=67>	<795110/postcode>	 "M40 3ND"	.
+<795110/rowId=67>	<795110/date>	 "2012-07-20"	.
+
+<795110/rowId=68>	rdf:type	q:795110	.
+<795110/rowId=68>	<795110/amount>	 "68000"	.
+<795110/rowId=68>	<795110/street>	 "EDGE LANE"	.
+<795110/rowId=68>	<795110/postcode>	 "M43 6BA"	.
+<795110/rowId=68>	<795110/date>	 "2012-08-01"	.
+
+<795110/rowId=69>	rdf:type	q:795110	.
+<795110/rowId=69>	<795110/amount>	 "68000"	.
+<795110/rowId=69>	<795110/street>	 "BERESFORD STREET"	.
+<795110/rowId=69>	<795110/postcode>	 "M14 4RZ"	.
+<795110/rowId=69>	<795110/date>	 "2012-05-17"	.
+
+<795110/rowId=70>	rdf:type	q:795110	.
+<795110/rowId=70>	<795110/amount>	 "68000"	.
+<795110/rowId=70>	<795110/street>	 "DOUGLAS STREET"	.
+<795110/rowId=70>	<795110/postcode>	 "M46 9FB"	.
+<795110/rowId=70>	<795110/date>	 "2012-10-05"	.
+
+<795110/rowId=71>	rdf:type	q:795110	.
+<795110/rowId=71>	<795110/amount>	 "68000"	.
+<795110/rowId=71>	<795110/street>	 "WINDERMERE ROAD"	.
+<795110/rowId=71>	<795110/postcode>	 "M24 5PX"	.
+<795110/rowId=71>	<795110/date>	 "2012-03-16"	.
+
+<795110/rowId=72>	rdf:type	q:795110	.
+<795110/rowId=72>	<795110/amount>	 "68000"	.
+<795110/rowId=72>	<795110/street>	 "TINTERN ROAD"	.
+<795110/rowId=72>	<795110/postcode>	 "M24 6JP"	.
+<795110/rowId=72>	<795110/date>	 "2012-11-16"	.
+
+<795110/rowId=73>	rdf:type	q:795110	.
+<795110/rowId=73>	<795110/amount>	 "68000"	.
+<795110/rowId=73>	<795110/street>	 "RANBY AVENUE"	.
+<795110/rowId=73>	<795110/postcode>	 "M9 6LW"	.
+<795110/rowId=73>	<795110/date>	 "2012-06-01"	.
+
+<795110/rowId=74>	rdf:type	q:795110	.
+<795110/rowId=74>	<795110/amount>	 "68000"	.
+<795110/rowId=74>	<795110/street>	 "BUNYARD STREET"	.
+<795110/rowId=74>	<795110/postcode>	 "M8 0RE"	.
+<795110/rowId=74>	<795110/date>	 "2012-03-08"	.
+
+<795110/rowId=75>	rdf:type	q:795110	.
+<795110/rowId=75>	<795110/amount>	 "68000"	.
+<795110/rowId=75>	<795110/street>	 "MARDALE CLOSE"	.
+<795110/rowId=75>	<795110/postcode>	 "M46 9WZ"	.
+<795110/rowId=75>	<795110/date>	 "2012-08-03"	.
+
+<795110/rowId=76>	rdf:type	q:795110	.
+<795110/rowId=76>	<795110/amount>	 "68000"	.
+<795110/rowId=76>	<795110/street>	 "MANCHESTER ROAD EAST"	.
+<795110/rowId=76>	<795110/postcode>	 "M38 9WH"	.
+<795110/rowId=76>	<795110/date>	 "2012-04-10"	.
+
+<795110/rowId=77>	rdf:type	q:795110	.
+<795110/rowId=77>	<795110/amount>	 "68000"	.
+<795110/rowId=77>	<795110/street>	 "MANCHESTER ROAD"	.
+<795110/rowId=77>	<795110/postcode>	 "M27 5EP"	.
+<795110/rowId=77>	<795110/date>	 "2012-03-09"	.
+
+<795110/rowId=78>	rdf:type	q:795110	.
+<795110/rowId=78>	<795110/amount>	 "68000"	.
+<795110/rowId=78>	<795110/street>	 "LONGDEN ROAD"	.
+<795110/rowId=78>	<795110/postcode>	 "M12 5SG"	.
+<795110/rowId=78>	<795110/date>	 "2012-01-13"	.
+
+<795110/rowId=79>	rdf:type	q:795110	.
+<795110/rowId=79>	<795110/amount>	 "68000"	.
+<795110/rowId=79>	<795110/street>	 "BRINSOP SQUARE"	.
+<795110/rowId=79>	<795110/postcode>	 "M12 5PL"	.
+<795110/rowId=79>	<795110/date>	 "2012-11-30"	.
+
+<795110/rowId=80>	rdf:type	q:795110	.
+<795110/rowId=80>	<795110/amount>	 "68000"	.
+<795110/rowId=80>	<795110/street>	 "GRESHAM STREET"	.
+<795110/rowId=80>	<795110/postcode>	 "M34 3AW"	.
+<795110/rowId=80>	<795110/date>	 "2012-04-04"	.
+
+<795110/rowId=81>	rdf:type	q:795110	.
+<795110/rowId=81>	<795110/amount>	 "68000"	.
+<795110/rowId=81>	<795110/street>	 "RINGWOOD AVENUE"	.
+<795110/rowId=81>	<795110/postcode>	 "M26 1BP"	.
+<795110/rowId=81>	<795110/date>	 "2012-05-04"	.
+
+<795110/rowId=82>	rdf:type	q:795110	.
+<795110/rowId=82>	<795110/amount>	 "68000"	.
+<795110/rowId=82>	<795110/street>	 "THE FAIRWAY"	.
+<795110/rowId=82>	<795110/postcode>	 "M40 3WA"	.
+<795110/rowId=82>	<795110/date>	 "2003-08-14"	.
+
+<795110/rowId=83>	rdf:type	q:795110	.
+<795110/rowId=83>	<795110/amount>	 "68000"	.
+<795110/rowId=83>	<795110/street>	 "ELSDON DRIVE"	.
+<795110/rowId=83>	<795110/postcode>	 "M18 8WG"	.
+<795110/rowId=83>	<795110/date>	 "2012-11-02"	.
+
+<795110/rowId=84>	rdf:type	q:795110	.
+<795110/rowId=84>	<795110/amount>	 "68000"	.
+<795110/rowId=84>	<795110/street>	 "SHERBORNE STREET"	.
+<795110/rowId=84>	<795110/postcode>	 "M8 8ND"	.
+<795110/rowId=84>	<795110/date>	 "2012-07-06"	.
+
+<795110/rowId=85>	rdf:type	q:795110	.
+<795110/rowId=85>	<795110/amount>	 "68000"	.
+<795110/rowId=85>	<795110/street>	 "ST ANNES COURT"	.
+<795110/rowId=85>	<795110/postcode>	 "M34 5AL"	.
+<795110/rowId=85>	<795110/date>	 "2012-11-27"	.
+
+<795110/rowId=86>	rdf:type	q:795110	.
+<795110/rowId=86>	<795110/amount>	 "68000"	.
+<795110/rowId=86>	<795110/street>	 "ROCHDALE ROAD"	.
+<795110/rowId=86>	<795110/postcode>	 "M24 2PT"	.
+<795110/rowId=86>	<795110/date>	 "2012-03-23"	.
+
+<795110/rowId=87>	rdf:type	q:795110	.
+<795110/rowId=87>	<795110/amount>	 "68000"	.
+<795110/rowId=87>	<795110/street>	 "DOUGLAS CHASE"	.
+<795110/rowId=87>	<795110/postcode>	 "M26 1RT"	.
+<795110/rowId=87>	<795110/date>	 "2012-05-18"	.
+
+<795110/rowId=88>	rdf:type	q:795110	.
+<795110/rowId=88>	<795110/amount>	 "46000"	.
+<795110/rowId=88>	<795110/street>	 "MELLING STREET"	.
+<795110/rowId=88>	<795110/postcode>	 "M12 4PH"	.
+<795110/rowId=88>	<795110/date>	 "2012-09-11"	.
+
+<795110/rowId=89>	rdf:type	q:795110	.
+<795110/rowId=89>	<795110/amount>	 "46000"	.
+<795110/rowId=89>	<795110/street>	 "STUART STREET"	.
+<795110/rowId=89>	<795110/postcode>	 "M11 4DQ"	.
+<795110/rowId=89>	<795110/date>	 "2012-03-01"	.
+
+<795110/rowId=90>	rdf:type	q:795110	.
+<795110/rowId=90>	<795110/amount>	 "46000"	.
+<795110/rowId=90>	<795110/street>	 "SULLIVAN STREET"	.
+<795110/rowId=90>	<795110/postcode>	 "M12 4WS"	.
+<795110/rowId=90>	<795110/date>	 "2012-02-17"	.
+
+<795110/rowId=91>	rdf:type	q:795110	.
+<795110/rowId=91>	<795110/amount>	 "46000"	.
+<795110/rowId=91>	<795110/street>	 "DEAN STREET"	.
+<795110/rowId=91>	<795110/postcode>	 "M35 0DW"	.
+<795110/rowId=91>	<795110/date>	 "2012-02-22"	.
+
+<795110/rowId=92>	rdf:type	q:795110	.
+<795110/rowId=92>	<795110/amount>	 "46000"	.
+<795110/rowId=92>	<795110/street>	 "SPRING LANE"	.
+<795110/rowId=92>	<795110/postcode>	 "M26 2SZ"	.
+<795110/rowId=92>	<795110/date>	 "2012-11-29"	.
+
+<795110/rowId=93>	rdf:type	q:795110	.
+<795110/rowId=93>	<795110/amount>	 "46000"	.
+<795110/rowId=93>	<795110/street>	 "WILMSLOW ROAD"	.
+<795110/rowId=93>	<795110/postcode>	 "M14 6HG"	.
+<795110/rowId=93>	<795110/date>	 "2012-07-23"	.
+
+<795110/rowId=94>	rdf:type	q:795110	.
+<795110/rowId=94>	<795110/amount>	 "46000"	.
+<795110/rowId=94>	<795110/street>	 "CLYDE ROAD"	.
+<795110/rowId=94>	<795110/postcode>	 "M20 2WH"	.
+<795110/rowId=94>	<795110/date>	 "1998-01-12"	.
+
+<795110/rowId=95>	rdf:type	q:795110	.
+<795110/rowId=95>	<795110/amount>	 "46000"	.
+<795110/rowId=95>	<795110/street>	 "FOLD STREET"	.
+<795110/rowId=95>	<795110/postcode>	 "M40 9LJ"	.
+<795110/rowId=95>	<795110/date>	 "2012-06-22"	.
+
+<795110/rowId=96>	rdf:type	q:795110	.
+<795110/rowId=96>	<795110/amount>	 "46000"	.
+<795110/rowId=96>	<795110/street>	 "GORDON STREET"	.
+<795110/rowId=96>	<795110/postcode>	 "M18 8SL"	.
+<795110/rowId=96>	<795110/date>	 "2012-03-30"	.
+
+<795110/rowId=97>	rdf:type	q:795110	.
+<795110/rowId=97>	<795110/amount>	 "46000"	.
+<795110/rowId=97>	<795110/street>	 "OSCAR STREET"	.
+<795110/rowId=97>	<795110/postcode>	 "M40 9EG"	.
+<795110/rowId=97>	<795110/date>	 "2012-09-05"	.
+
+<795110/rowId=98>	rdf:type	q:795110	.
+<795110/rowId=98>	<795110/amount>	 "46000"	.
+<795110/rowId=98>	<795110/street>	 "BEVERLEY STREET"	.
+<795110/rowId=98>	<795110/postcode>	 "M9 4FB"	.
+<795110/rowId=98>	<795110/date>	 "2005-07-14"	.
+
+<795110/rowId=99>	rdf:type	q:795110	.
+<795110/rowId=99>	<795110/amount>	 "46000"	.
+<795110/rowId=99>	<795110/street>	 "PARK STREET"	.
+<795110/rowId=99>	<795110/postcode>	 "M26 2GJ"	.
+<795110/rowId=99>	<795110/date>	 "2012-06-19"	.
+
+<795110/rowId=100>	rdf:type	q:795110	.
+<795110/rowId=100>	<795110/amount>	 "69000"	.
+<795110/rowId=100>	<795110/street>	 "OLD MARKET STREET"	.
+<795110/rowId=100>	<795110/postcode>	 "M9 8QJ"	.
+<795110/rowId=100>	<795110/date>	 "2012-06-26"	.
+
+<795110/rowId=101>	rdf:type	q:795110	.
+<795110/rowId=101>	<795110/amount>	 "69000"	.
+<795110/rowId=101>	<795110/street>	 "BIRCH LANE"	.
+<795110/rowId=101>	<795110/postcode>	 "M13 0NW"	.
+<795110/rowId=101>	<795110/date>	 "2006-04-28"	.
+
+<795110/rowId=102>	rdf:type	q:795110	.
+<795110/rowId=102>	<795110/amount>	 "69000"	.
+<795110/rowId=102>	<795110/street>	 "BIRCH LANE"	.
+<795110/rowId=102>	<795110/postcode>	 "M13 0NW"	.
+<795110/rowId=102>	<795110/date>	 "2006-04-28"	.
+
+<795110/rowId=103>	rdf:type	q:795110	.
+<795110/rowId=103>	<795110/amount>	 "69000"	.
+<795110/rowId=103>	<795110/street>	 "GREENBROW ROAD"	.
+<795110/rowId=103>	<795110/postcode>	 "M23 1EX"	.
+<795110/rowId=103>	<795110/date>	 "2005-02-11"	.
+
+<795110/rowId=104>	rdf:type	q:795110	.
+<795110/rowId=104>	<795110/amount>	 "69000"	.
+<795110/rowId=104>	<795110/street>	 "BIRCH LANE"	.
+<795110/rowId=104>	<795110/postcode>	 "M13 0NW"	.
+<795110/rowId=104>	<795110/date>	 "2006-04-28"	.
+
+<795110/rowId=105>	rdf:type	q:795110	.
+<795110/rowId=105>	<795110/amount>	 "69000"	.
+<795110/rowId=105>	<795110/street>	 "OLD MARKET STREET"	.
+<795110/rowId=105>	<795110/postcode>	 "M9 8QJ"	.
+<795110/rowId=105>	<795110/date>	 "2012-06-20"	.
+
+<795110/rowId=106>	rdf:type	q:795110	.
+<795110/rowId=106>	<795110/amount>	 "69000"	.
+<795110/rowId=106>	<795110/street>	 "BIRCH LANE"	.
+<795110/rowId=106>	<795110/postcode>	 "M13 0NW"	.
+<795110/rowId=106>	<795110/date>	 "2006-04-28"	.
+
+<795110/rowId=107>	rdf:type	q:795110	.
+<795110/rowId=107>	<795110/amount>	 "69000"	.
+<795110/rowId=107>	<795110/street>	 "COCK CLOD STREET"	.
+<795110/rowId=107>	<795110/postcode>	 "M26 2PS"	.
+<795110/rowId=107>	<795110/date>	 "2012-09-21"	.
+
+<795110/rowId=108>	rdf:type	q:795110	.
+<795110/rowId=108>	<795110/amount>	 "69000"	.
+<795110/rowId=108>	<795110/street>	 "GREENWOOD ROAD"	.
+<795110/rowId=108>	<795110/postcode>	 "M22 8BT"	.
+<795110/rowId=108>	<795110/date>	 "2012-04-26"	.
+
+<795110/rowId=109>	rdf:type	q:795110	.
+<795110/rowId=109>	<795110/amount>	 "69000"	.
+<795110/rowId=109>	<795110/street>	 "OLD MARKET STREET"	.
+<795110/rowId=109>	<795110/postcode>	 "M9 8QJ"	.
+<795110/rowId=109>	<795110/date>	 "2012-06-15"	.
+
+<795110/rowId=110>	rdf:type	q:795110	.
+<795110/rowId=110>	<795110/amount>	 "69000"	.
+<795110/rowId=110>	<795110/street>	 "OLD MANOR PARK"	.
+<795110/rowId=110>	<795110/postcode>	 "M46 0GP"	.
+<795110/rowId=110>	<795110/date>	 "2012-06-27"	.
+
+<795110/rowId=111>	rdf:type	q:795110	.
+<795110/rowId=111>	<795110/amount>	 "69000"	.
+<795110/rowId=111>	<795110/street>	 "OLD MARKET STREET"	.
+<795110/rowId=111>	<795110/postcode>	 "M9 8QJ"	.
+<795110/rowId=111>	<795110/date>	 "2012-06-29"	.
+
+<795110/rowId=112>	rdf:type	q:795110	.
+<795110/rowId=112>	<795110/amount>	 "69000"	.
+<795110/rowId=112>	<795110/street>	 "LIME GROVE"	.
+<795110/rowId=112>	<795110/postcode>	 "M34 3AN"	.
+<795110/rowId=112>	<795110/date>	 "2012-02-09"	.
+
+<795110/rowId=113>	rdf:type	q:795110	.
+<795110/rowId=113>	<795110/amount>	 "69000"	.
+<795110/rowId=113>	<795110/street>	 "BOLTON ROAD"	.
+<795110/rowId=113>	<795110/postcode>	 "M26 3QN"	.
+<795110/rowId=113>	<795110/date>	 "2012-08-03"	.
+
+<795110/rowId=114>	rdf:type	q:795110	.
+<795110/rowId=114>	<795110/amount>	 "69000"	.
+<795110/rowId=114>	<795110/street>	 "VICTORIA STREET"	.
+<795110/rowId=114>	<795110/postcode>	 "M35 0HZ"	.
+<795110/rowId=114>	<795110/date>	 "2012-02-17"	.
+
+<795110/rowId=115>	rdf:type	q:795110	.
+<795110/rowId=115>	<795110/amount>	 "69000"	.
+<795110/rowId=115>	<795110/street>	 "OLD MARKET STREET"	.
+<795110/rowId=115>	<795110/postcode>	 "M9 8QJ"	.
+<795110/rowId=115>	<795110/date>	 "2012-06-26"	.
+
+<795110/rowId=116>	rdf:type	q:795110	.
+<795110/rowId=116>	<795110/amount>	 "69000"	.
+<795110/rowId=116>	<795110/street>	 "OLD MARKET STREET"	.
+<795110/rowId=116>	<795110/postcode>	 "M9 8QJ"	.
+<795110/rowId=116>	<795110/date>	 "2012-06-29"	.
+
+<795110/rowId=117>	rdf:type	q:795110	.
+<795110/rowId=117>	<795110/amount>	 "69000"	.
+<795110/rowId=117>	<795110/street>	 "JUBILEE TERRACE"	.
+<795110/rowId=117>	<795110/postcode>	 "M24 2LU"	.
+<795110/rowId=117>	<795110/date>	 "2012-07-26"	.
+
+<795110/rowId=118>	rdf:type	q:795110	.
+<795110/rowId=118>	<795110/amount>	 "69000"	.
+<795110/rowId=118>	<795110/street>	 "BUTTERCUP AVENUE"	.
+<795110/rowId=118>	<795110/postcode>	 "M38 0LR"	.
+<795110/rowId=118>	<795110/date>	 "2012-01-20"	.
+
+<795110/rowId=119>	rdf:type	q:795110	.
+<795110/rowId=119>	<795110/amount>	 "69000"	.
+<795110/rowId=119>	<795110/street>	 "BUCKLOW AVENUE"	.
+<795110/rowId=119>	<795110/postcode>	 "M14 7AR"	.
+<795110/rowId=119>	<795110/date>	 "2012-01-26"	.
+
+<795110/rowId=120>	rdf:type	q:795110	.
+<795110/rowId=120>	<795110/amount>	 "69000"	.
+<795110/rowId=120>	<795110/street>	 "CORRAN CLOSE"	.
+<795110/rowId=120>	<795110/postcode>	 "M30 8LP"	.
+<795110/rowId=120>	<795110/date>	 "2012-07-06"	.
+
+<795110/rowId=121>	rdf:type	q:795110	.
+<795110/rowId=121>	<795110/amount>	 "69000"	.
+<795110/rowId=121>	<795110/street>	 "WORSLEY ROAD"	.
+<795110/rowId=121>	<795110/postcode>	 "M30 8HQ"	.
+<795110/rowId=121>	<795110/date>	 "2012-06-06"	.
+
+<795110/rowId=122>	rdf:type	q:795110	.
+<795110/rowId=122>	<795110/amount>	 "69000"	.
+<795110/rowId=122>	<795110/street>	 "WORSLEY ROAD"	.
+<795110/rowId=122>	<795110/postcode>	 "M30 8HQ"	.
+<795110/rowId=122>	<795110/date>	 "2012-06-06"	.
+
+<795110/rowId=123>	rdf:type	q:795110	.
+<795110/rowId=123>	<795110/amount>	 "69000"	.
+<795110/rowId=123>	<795110/street>	 "WORSLEY ROAD"	.
+<795110/rowId=123>	<795110/postcode>	 "M30 8HQ"	.
+<795110/rowId=123>	<795110/date>	 "2012-06-06"	.
+
+<795110/rowId=124>	rdf:type	q:795110	.
+<795110/rowId=124>	<795110/amount>	 "69000"	.
+<795110/rowId=124>	<795110/street>	 "GILL STREET"	.
+<795110/rowId=124>	<795110/postcode>	 "M9 4FU"	.
+<795110/rowId=124>	<795110/date>	 "2012-07-30"	.
+
+<795110/rowId=125>	rdf:type	q:795110	.
+<795110/rowId=125>	<795110/amount>	 "69000"	.
+<795110/rowId=125>	<795110/street>	 "GILL STREET"	.
+<795110/rowId=125>	<795110/postcode>	 "M9 4FU"	.
+<795110/rowId=125>	<795110/date>	 "2012-07-30"	.
+
+<795110/rowId=126>	rdf:type	q:795110	.
+<795110/rowId=126>	<795110/amount>	 "69000"	.
+<795110/rowId=126>	<795110/street>	 "GILL STREET"	.
+<795110/rowId=126>	<795110/postcode>	 "M9 4FU"	.
+<795110/rowId=126>	<795110/date>	 "2012-07-30"	.
+
+<795110/rowId=127>	rdf:type	q:795110	.
+<795110/rowId=127>	<795110/amount>	 "69000"	.
+<795110/rowId=127>	<795110/street>	 "WINCOMBE STREET"	.
+<795110/rowId=127>	<795110/postcode>	 "M14 7PJ"	.
+<795110/rowId=127>	<795110/date>	 "2012-04-26"	.
+
+<795110/rowId=128>	rdf:type	q:795110	.
+<795110/rowId=128>	<795110/amount>	 "69000"	.
+<795110/rowId=128>	<795110/street>	 "OLD MARKET STREET"	.
+<795110/rowId=128>	<795110/postcode>	 "M9 8QJ"	.
+<795110/rowId=128>	<795110/date>	 "2012-06-20"	.
+
+<795110/rowId=129>	rdf:type	q:795110	.
+<795110/rowId=129>	<795110/amount>	 "69000"	.
+<795110/rowId=129>	<795110/street>	 "OLD MARKET STREET"	.
+<795110/rowId=129>	<795110/postcode>	 "M9 8QJ"	.
+<795110/rowId=129>	<795110/date>	 "2012-06-15"	.
+
+<795110/rowId=130>	rdf:type	q:795110	.
+<795110/rowId=130>	<795110/amount>	 "37000"	.
+<795110/rowId=130>	<795110/street>	 "CHURCH STREET"	.
+<795110/rowId=130>	<795110/postcode>	 "M4 1PN"	.
+<795110/rowId=130>	<795110/date>	 "2011-10-28"	.
+
+<795110/rowId=131>	rdf:type	q:795110	.
+<795110/rowId=131>	<795110/amount>	 "37000"	.
+<795110/rowId=131>	<795110/street>	 "COPPLERIDGE DRIVE"	.
+<795110/rowId=131>	<795110/postcode>	 "M8 4PB"	.
+<795110/rowId=131>	<795110/date>	 "2012-01-14"	.
+
+<795110/rowId=132>	rdf:type	q:795110	.
+<795110/rowId=132>	<795110/amount>	 "37000"	.
+<795110/rowId=132>	<795110/street>	 "WORSLEY ROAD"	.
+<795110/rowId=132>	<795110/postcode>	 "M30 8LY"	.
+<795110/rowId=132>	<795110/date>	 "2012-07-20"	.
+
+<795110/rowId=133>	rdf:type	q:795110	.
+<795110/rowId=133>	<795110/amount>	 "31000"	.
+<795110/rowId=133>	<795110/street>	 "GADDUM ROAD"	.
+<795110/rowId=133>	<795110/postcode>	 "M20 6SZ"	.
+<795110/rowId=133>	<795110/date>	 "2012-03-23"	.
+
+<795110/rowId=134>	rdf:type	q:795110	.
+<795110/rowId=134>	<795110/amount>	 "31000"	.
+<795110/rowId=134>	<795110/street>	 "THE DOWNS"	.
+<795110/rowId=134>	<795110/postcode>	 "M24 1TT"	.
+<795110/rowId=134>	<795110/date>	 "2012-02-22"	.
+
+<795110/rowId=135>	rdf:type	q:795110	.
+<795110/rowId=135>	<795110/amount>	 "31000"	.
+<795110/rowId=135>	<795110/street>	 "ALDERSIDE ROAD"	.
+<795110/rowId=135>	<795110/postcode>	 "M9 5XQ"	.
+<795110/rowId=135>	<795110/date>	 "2012-11-01"	.
+
+<795110/rowId=136>	rdf:type	q:795110	.
+<795110/rowId=136>	<795110/amount>	 "31000"	.
+<795110/rowId=136>	<795110/street>	 "ALDERSIDE ROAD"	.
+<795110/rowId=136>	<795110/postcode>	 "M9 5XQ"	.
+<795110/rowId=136>	<795110/date>	 "2012-11-01"	.
+
+<795110/rowId=137>	rdf:type	q:795110	.
+<795110/rowId=137>	<795110/amount>	 "74000"	.
+<795110/rowId=137>	<795110/street>	 "HAZEL TERRACE"	.
+<795110/rowId=137>	<795110/postcode>	 "M9 6RX"	.
+<795110/rowId=137>	<795110/date>	 "2012-09-21"	.
+
+<795110/rowId=138>	rdf:type	q:795110	.
+<795110/rowId=138>	<795110/amount>	 "74000"	.
+<795110/rowId=138>	<795110/street>	 "TWEEDLE HILL ROAD"	.
+<795110/rowId=138>	<795110/postcode>	 "M9 8LQ"	.
+<795110/rowId=138>	<795110/date>	 "2012-03-23"	.
+
+<795110/rowId=139>	rdf:type	q:795110	.
+<795110/rowId=139>	<795110/amount>	 "74000"	.
+<795110/rowId=139>	<795110/street>	 "HAWKESHEAD ROAD"	.
+<795110/rowId=139>	<795110/postcode>	 "M8 0GY"	.
+<795110/rowId=139>	<795110/date>	 "2012-11-02"	.
+
+<795110/rowId=140>	rdf:type	q:795110	.
+<795110/rowId=140>	<795110/amount>	 "74000"	.
+<795110/rowId=140>	<795110/street>	 "MILLBECK ROAD"	.
+<795110/rowId=140>	<795110/postcode>	 "M24 4HR"	.
+<795110/rowId=140>	<795110/date>	 "2012-06-11"	.
+
+<795110/rowId=141>	rdf:type	q:795110	.
+<795110/rowId=141>	<795110/amount>	 "74000"	.
+<795110/rowId=141>	<795110/street>	 "ST KILDAS AVENUE"	.
+<795110/rowId=141>	<795110/postcode>	 "M43 7SF"	.
+<795110/rowId=141>	<795110/date>	 "2012-06-29"	.
+
+<795110/rowId=142>	rdf:type	q:795110	.
+<795110/rowId=142>	<795110/amount>	 "74000"	.
+<795110/rowId=142>	<795110/street>	 "CLEGGS LANE"	.
+<795110/rowId=142>	<795110/postcode>	 "M38 9RQ"	.
+<795110/rowId=142>	<795110/date>	 "2012-03-12"	.
+
+<795110/rowId=143>	rdf:type	q:795110	.
+<795110/rowId=143>	<795110/amount>	 "74000"	.
+<795110/rowId=143>	<795110/street>	 "WOODFIELD"	.
+<795110/rowId=143>	<795110/postcode>	 "M22 5TD"	.
+<795110/rowId=143>	<795110/date>	 "2012-08-24"	.
+
+<795110/rowId=144>	rdf:type	q:795110	.
+<795110/rowId=144>	<795110/amount>	 "74000"	.
+<795110/rowId=144>	<795110/street>	 "SURBITON ROAD"	.
+<795110/rowId=144>	<795110/postcode>	 "M40 2US"	.
+<795110/rowId=144>	<795110/date>	 "2012-05-03"	.
+
+<795110/rowId=145>	rdf:type	q:795110	.
+<795110/rowId=145>	<795110/amount>	 "74000"	.
+<795110/rowId=145>	<795110/street>	 "DALTON ROAD"	.
+<795110/rowId=145>	<795110/postcode>	 "M24 4RL"	.
+<795110/rowId=145>	<795110/date>	 "2012-01-20"	.
+
+<795110/rowId=146>	rdf:type	q:795110	.
+<795110/rowId=146>	<795110/amount>	 "74000"	.
+<795110/rowId=146>	<795110/street>	 "METHUEN STREET"	.
+<795110/rowId=146>	<795110/postcode>	 "M12 5TF"	.
+<795110/rowId=146>	<795110/date>	 "2012-01-30"	.
+
+<795110/rowId=147>	rdf:type	q:795110	.
+<795110/rowId=147>	<795110/amount>	 "74000"	.
+<795110/rowId=147>	<795110/street>	 "CAMBRIDGE STREET"	.
+<795110/rowId=147>	<795110/postcode>	 "M46 0AL"	.
+<795110/rowId=147>	<795110/date>	 "2012-01-23"	.
+
+<795110/rowId=148>	rdf:type	q:795110	.
+<795110/rowId=148>	<795110/amount>	 "74000"	.
+<795110/rowId=148>	<795110/street>	 "WORTHING STREET"	.
+<795110/rowId=148>	<795110/postcode>	 "M14 7PR"	.
+<795110/rowId=148>	<795110/date>	 "2012-03-02"	.
+
+<795110/rowId=149>	rdf:type	q:795110	.
+<795110/rowId=149>	<795110/amount>	 "74000"	.
+<795110/rowId=149>	<795110/street>	 "PORTWAY"	.
+<795110/rowId=149>	<795110/postcode>	 "M22 1QP"	.
+<795110/rowId=149>	<795110/date>	 "2012-02-10"	.
+
+<795110/rowId=150>	rdf:type	q:795110	.
+<795110/rowId=150>	<795110/amount>	 "74000"	.
+<795110/rowId=150>	<795110/street>	 "TWO TREES LANE"	.
+<795110/rowId=150>	<795110/postcode>	 "M34 7AJ"	.
+<795110/rowId=150>	<795110/date>	 "2012-01-13"	.
+
+<795110/rowId=151>	rdf:type	q:795110	.
+<795110/rowId=151>	<795110/amount>	 "74000"	.
+<795110/rowId=151>	<795110/street>	 "TWO TREES LANE"	.
+<795110/rowId=151>	<795110/postcode>	 "M34 7AJ"	.
+<795110/rowId=151>	<795110/date>	 "2012-01-13"	.
+
+<795110/rowId=152>	rdf:type	q:795110	.
+<795110/rowId=152>	<795110/amount>	 "74000"	.
+<795110/rowId=152>	<795110/street>	 "ST MARYS ROAD"	.
+<795110/rowId=152>	<795110/postcode>	 "M40 0BJ"	.
+<795110/rowId=152>	<795110/date>	 "2012-05-01"	.
+
+<795110/rowId=153>	rdf:type	q:795110	.
+<795110/rowId=153>	<795110/amount>	 "74000"	.
+<795110/rowId=153>	<795110/street>	 "MORLEY STREET"	.
+<795110/rowId=153>	<795110/postcode>	 "M46 0AN"	.
+<795110/rowId=153>	<795110/date>	 "2012-10-26"	.
+
+<795110/rowId=154>	rdf:type	q:795110	.
+<795110/rowId=154>	<795110/amount>	 "74000"	.
+<795110/rowId=154>	<795110/street>	 "PORLOCK ROAD"	.
+<795110/rowId=154>	<795110/postcode>	 "M23 1LZ"	.
+<795110/rowId=154>	<795110/date>	 "2012-08-17"	.
+
+<795110/rowId=155>	rdf:type	q:795110	.
+<795110/rowId=155>	<795110/amount>	 "74000"	.
+<795110/rowId=155>	<795110/street>	 "SUSSEX DRIVE"	.
+<795110/rowId=155>	<795110/postcode>	 "M43 7PD"	.
+<795110/rowId=155>	<795110/date>	 "2012-08-09"	.
+
+<795110/rowId=156>	rdf:type	q:795110	.
+<795110/rowId=156>	<795110/amount>	 "74000"	.
+<795110/rowId=156>	<795110/street>	 "GRASMERE ROAD"	.
+<795110/rowId=156>	<795110/postcode>	 "M27 5WR"	.
+<795110/rowId=156>	<795110/date>	 "2012-01-31"	.
+
+<795110/rowId=157>	rdf:type	q:795110	.
+<795110/rowId=157>	<795110/amount>	 "74000"	.
+<795110/rowId=157>	<795110/street>	 "SEDDON STREET"	.
+<795110/rowId=157>	<795110/postcode>	 "M38 9RN"	.
+<795110/rowId=157>	<795110/date>	 "2012-10-12"	.
+
+<795110/rowId=158>	rdf:type	q:795110	.
+<795110/rowId=158>	<795110/amount>	 "74000"	.
+<795110/rowId=158>	<795110/street>	 "RAVENSCAR CRESCENT"	.
+<795110/rowId=158>	<795110/postcode>	 "M22 0HY"	.
+<795110/rowId=158>	<795110/date>	 "2012-09-25"	.
+
+<795110/rowId=159>	rdf:type	q:795110	.
+<795110/rowId=159>	<795110/amount>	 "74000"	.
+<795110/rowId=159>	<795110/street>	 "RAVENSCAR CRESCENT"	.
+<795110/rowId=159>	<795110/postcode>	 "M22 0HY"	.
+<795110/rowId=159>	<795110/date>	 "2012-09-25"	.
+
+<795110/rowId=160>	rdf:type	q:795110	.
+<795110/rowId=160>	<795110/amount>	 "74000"	.
+<795110/rowId=160>	<795110/street>	 "RAVENSCAR CRESCENT"	.
+<795110/rowId=160>	<795110/postcode>	 "M22 0HY"	.
+<795110/rowId=160>	<795110/date>	 "2012-09-25"	.
+
+<795110/rowId=161>	rdf:type	q:795110	.
+<795110/rowId=161>	<795110/amount>	 "74000"	.
+<795110/rowId=161>	<795110/street>	 "ANDOVER AVENUE"	.
+<795110/rowId=161>	<795110/postcode>	 "M24 1JG"	.
+<795110/rowId=161>	<795110/date>	 "2012-05-17"	.
+
+<795110/rowId=162>	rdf:type	q:795110	.
+<795110/rowId=162>	<795110/amount>	 "74000"	.
+<795110/rowId=162>	<795110/street>	 "ANDOVER AVENUE"	.
+<795110/rowId=162>	<795110/postcode>	 "M24 1JG"	.
+<795110/rowId=162>	<795110/date>	 "2012-05-17"	.
+
+<795110/rowId=163>	rdf:type	q:795110	.
+<795110/rowId=163>	<795110/amount>	 "74000"	.
+<795110/rowId=163>	<795110/street>	 "ANDOVER AVENUE"	.
+<795110/rowId=163>	<795110/postcode>	 "M24 1JG"	.
+<795110/rowId=163>	<795110/date>	 "2012-05-17"	.
+
+<795110/rowId=164>	rdf:type	q:795110	.
+<795110/rowId=164>	<795110/amount>	 "74000"	.
+<795110/rowId=164>	<795110/street>	 "HAMPDEN ROAD"	.
+<795110/rowId=164>	<795110/postcode>	 "M25 1LQ"	.
+<795110/rowId=164>	<795110/date>	 "2012-05-22"	.
+
+<795110/rowId=165>	rdf:type	q:795110	.
+<795110/rowId=165>	<795110/amount>	 "67000"	.
+<795110/rowId=165>	<795110/street>	 "PLOWDEN ROAD"	.
+<795110/rowId=165>	<795110/postcode>	 "M22 1QU"	.
+<795110/rowId=165>	<795110/date>	 "2012-10-31"	.
+
+<795110/rowId=166>	rdf:type	q:795110	.
+<795110/rowId=166>	<795110/amount>	 "67000"	.
+<795110/rowId=166>	<795110/street>	 "ANN STREET"	.
+<795110/rowId=166>	<795110/postcode>	 "M34 2GJ"	.
+<795110/rowId=166>	<795110/date>	 "2012-09-28"	.
+
+<795110/rowId=167>	rdf:type	q:795110	.
+<795110/rowId=167>	<795110/amount>	 "67000"	.
+<795110/rowId=167>	<795110/street>	 "CARLTON STREET"	.
+<795110/rowId=167>	<795110/postcode>	 "M30 9QE"	.
+<795110/rowId=167>	<795110/date>	 "2012-01-13"	.
+
+<795110/rowId=168>	rdf:type	q:795110	.
+<795110/rowId=168>	<795110/amount>	 "67000"	.
+<795110/rowId=168>	<795110/street>	 "HALLIWELL ROAD"	.
+<795110/rowId=168>	<795110/postcode>	 "M25 9SZ"	.
+<795110/rowId=168>	<795110/date>	 "2012-04-25"	.
+
+<795110/rowId=169>	rdf:type	q:795110	.
+<795110/rowId=169>	<795110/amount>	 "67000"	.
+<795110/rowId=169>	<795110/street>	 "WILLAN ROAD"	.
+<795110/rowId=169>	<795110/postcode>	 "M9 8LL"	.
+<795110/rowId=169>	<795110/date>	 "2012-04-20"	.
+
+<795110/rowId=170>	rdf:type	q:795110	.
+<795110/rowId=170>	<795110/amount>	 "67000"	.
+<795110/rowId=170>	<795110/street>	 "ANDREW STREET"	.
+<795110/rowId=170>	<795110/postcode>	 "M24 2AN"	.
+<795110/rowId=170>	<795110/date>	 "2012-01-27"	.
+
+<795110/rowId=171>	rdf:type	q:795110	.
+<795110/rowId=171>	<795110/amount>	 "67000"	.
+<795110/rowId=171>	<795110/street>	 "BOWLER STREET"	.
+<795110/rowId=171>	<795110/postcode>	 "M19 2UA"	.
+<795110/rowId=171>	<795110/date>	 "2012-10-18"	.
+
+<795110/rowId=172>	rdf:type	q:795110	.
+<795110/rowId=172>	<795110/amount>	 "67000"	.
+<795110/rowId=172>	<795110/street>	 "VICTORIA STREET"	.
+<795110/rowId=172>	<795110/postcode>	 "M26 3AZ"	.
+<795110/rowId=172>	<795110/date>	 "2012-10-12"	.
+
+<795110/rowId=173>	rdf:type	q:795110	.
+<795110/rowId=173>	<795110/amount>	 "67000"	.
+<795110/rowId=173>	<795110/street>	 "CLEVELAND ROAD"	.
+<795110/rowId=173>	<795110/postcode>	 "M8 4GS"	.
+<795110/rowId=173>	<795110/date>	 "2012-08-20"	.
+
+<795110/rowId=174>	rdf:type	q:795110	.
+<795110/rowId=174>	<795110/amount>	 "67000"	.
+<795110/rowId=174>	<795110/street>	 "AYRES ROAD"	.
+<795110/rowId=174>	<795110/postcode>	 "M16 9GE"	.
+<795110/rowId=174>	<795110/date>	 "2009-12-09"	.
+
+<795110/rowId=175>	rdf:type	q:795110	.
+<795110/rowId=175>	<795110/amount>	 "67000"	.
+<795110/rowId=175>	<795110/street>	 "SHAKESPEARE ROAD"	.
+<795110/rowId=175>	<795110/postcode>	 "M27 9QA"	.
+<795110/rowId=175>	<795110/date>	 "2012-05-31"	.
+
+<795110/rowId=176>	rdf:type	q:795110	.
+<795110/rowId=176>	<795110/amount>	 "67000"	.
+<795110/rowId=176>	<795110/street>	 "BRINDLEY STREET"	.
+<795110/rowId=176>	<795110/postcode>	 "M27 6FS"	.
+<795110/rowId=176>	<795110/date>	 "2012-07-20"	.
+
+<795110/rowId=177>	rdf:type	q:795110	.
+<795110/rowId=177>	<795110/amount>	 "67000"	.
+<795110/rowId=177>	<795110/street>	 "BRINDLEY STREET"	.
+<795110/rowId=177>	<795110/postcode>	 "M27 6FS"	.
+<795110/rowId=177>	<795110/date>	 "2012-07-20"	.
+
+<795110/rowId=178>	rdf:type	q:795110	.
+<795110/rowId=178>	<795110/amount>	 "67000"	.
+<795110/rowId=178>	<795110/street>	 "JUBILEE ROAD"	.
+<795110/rowId=178>	<795110/postcode>	 "M24 2LT"	.
+<795110/rowId=178>	<795110/date>	 "2012-06-29"	.
+
+<795110/rowId=179>	rdf:type	q:795110	.
+<795110/rowId=179>	<795110/amount>	 "67000"	.
+<795110/rowId=179>	<795110/street>	 "MARKET STREET"	.
+<795110/rowId=179>	<795110/postcode>	 "M24 5TX"	.
+<795110/rowId=179>	<795110/date>	 "2012-12-03"	.
+
+<795110/rowId=180>	rdf:type	q:795110	.
+<795110/rowId=180>	<795110/amount>	 "67000"	.
+<795110/rowId=180>	<795110/street>	 "MAISMORE ROAD"	.
+<795110/rowId=180>	<795110/postcode>	 "M22 1SB"	.
+<795110/rowId=180>	<795110/date>	 "2012-04-05"	.
+
+<795110/rowId=181>	rdf:type	q:795110	.
+<795110/rowId=181>	<795110/amount>	 "67000"	.
+<795110/rowId=181>	<795110/street>	 "RYDAL GROVE"	.
+<795110/rowId=181>	<795110/postcode>	 "M45 6FD"	.
+<795110/rowId=181>	<795110/date>	 "2012-03-30"	.
+
+<795110/rowId=182>	rdf:type	q:795110	.
+<795110/rowId=182>	<795110/amount>	 "67000"	.
+<795110/rowId=182>	<795110/street>	 "GREENWOOD ROAD"	.
+<795110/rowId=182>	<795110/postcode>	 "M22 8BF"	.
+<795110/rowId=182>	<795110/date>	 "2012-02-15"	.
+
+<795110/rowId=183>	rdf:type	q:795110	.
+<795110/rowId=183>	<795110/amount>	 "67000"	.
+<795110/rowId=183>	<795110/street>	 "WIGHURST WALK"	.
+<795110/rowId=183>	<795110/postcode>	 "M22 0FF"	.
+<795110/rowId=183>	<795110/date>	 "2012-11-28"	.
+
+<795110/rowId=184>	rdf:type	q:795110	.
+<795110/rowId=184>	<795110/amount>	 "67000"	.
+<795110/rowId=184>	<795110/street>	 "WORSLEY ROAD"	.
+<795110/rowId=184>	<795110/postcode>	 "M30 8HQ"	.
+<795110/rowId=184>	<795110/date>	 "2012-07-27"	.
+
+<795110/rowId=185>	rdf:type	q:795110	.
+<795110/rowId=185>	<795110/amount>	 "67000"	.
+<795110/rowId=185>	<795110/street>	 "GRANGE AVENUE"	.
+<795110/rowId=185>	<795110/postcode>	 "M19 2FZ"	.
+<795110/rowId=185>	<795110/date>	 "1997-09-16"	.
+
+<795110/rowId=186>	rdf:type	q:795110	.
+<795110/rowId=186>	<795110/amount>	 "67000"	.
+<795110/rowId=186>	<795110/street>	 "MERSEY ROAD NORTH"	.
+<795110/rowId=186>	<795110/postcode>	 "M35 9LT"	.
+<795110/rowId=186>	<795110/date>	 "2011-12-14"	.
+
+<795110/rowId=187>	rdf:type	q:795110	.
+<795110/rowId=187>	<795110/amount>	 "67000"	.
+<795110/rowId=187>	<795110/street>	 "RUSHBROOKE AVENUE"	.
+<795110/rowId=187>	<795110/postcode>	 "M11 4JW"	.
+<795110/rowId=187>	<795110/date>	 "2012-09-14"	.
+
+<795110/rowId=188>	rdf:type	q:795110	.
+<795110/rowId=188>	<795110/amount>	 "67000"	.
+<795110/rowId=188>	<795110/street>	 "LIGHTBOWNE ROAD"	.
+<795110/rowId=188>	<795110/postcode>	 "M40 0HJ"	.
+<795110/rowId=188>	<795110/date>	 "2012-07-03"	.
+
+<795110/rowId=189>	rdf:type	q:795110	.
+<795110/rowId=189>	<795110/amount>	 "67000"	.
+<795110/rowId=189>	<795110/street>	 "ALMA STREET"	.
+<795110/rowId=189>	<795110/postcode>	 "M26 4FX"	.
+<795110/rowId=189>	<795110/date>	 "2012-04-18"	.
+
+<795110/rowId=190>	rdf:type	q:795110	.
+<795110/rowId=190>	<795110/amount>	 "67000"	.
+<795110/rowId=190>	<795110/street>	 "TATTENHALL WALK"	.
+<795110/rowId=190>	<795110/postcode>	 "M14 6YS"	.
+<795110/rowId=190>	<795110/date>	 "2012-03-16"	.
+
+<795110/rowId=191>	rdf:type	q:795110	.
+<795110/rowId=191>	<795110/amount>	 "67000"	.
+<795110/rowId=191>	<795110/street>	 "FORTROSE AVENUE"	.
+<795110/rowId=191>	<795110/postcode>	 "M9 8JG"	.
+<795110/rowId=191>	<795110/date>	 "2012-07-30"	.
+
+<795110/rowId=192>	rdf:type	q:795110	.
+<795110/rowId=192>	<795110/amount>	 "67000"	.
+<795110/rowId=192>	<795110/street>	 "SEDGLEY ROAD"	.
+<795110/rowId=192>	<795110/postcode>	 "M8 5AG"	.
+<795110/rowId=192>	<795110/date>	 "2012-10-25"	.
+
+<795110/rowId=193>	rdf:type	q:795110	.
+<795110/rowId=193>	<795110/amount>	 "67000"	.
+<795110/rowId=193>	<795110/street>	 "WILFRED STREET"	.
+<795110/rowId=193>	<795110/postcode>	 "M40 9LQ"	.
+<795110/rowId=193>	<795110/date>	 "2012-04-27"	.
+
+<795110/rowId=194>	rdf:type	q:795110	.
+<795110/rowId=194>	<795110/amount>	 "67000"	.
+<795110/rowId=194>	<795110/street>	 "CHARD DRIVE"	.
+<795110/rowId=194>	<795110/postcode>	 "M22 1WG"	.
+<795110/rowId=194>	<795110/date>	 "2012-05-04"	.
+
+<795110/rowId=195>	rdf:type	q:795110	.
+<795110/rowId=195>	<795110/amount>	 "67000"	.
+<795110/rowId=195>	<795110/street>	 "HOLMPARK ROAD"	.
+<795110/rowId=195>	<795110/postcode>	 "M11 1JR"	.
+<795110/rowId=195>	<795110/date>	 "2012-04-27"	.
+
+<795110/rowId=196>	rdf:type	q:795110	.
+<795110/rowId=196>	<795110/amount>	 "67000"	.
+<795110/rowId=196>	<795110/street>	 "MANCHESTER ROAD"	.
+<795110/rowId=196>	<795110/postcode>	 "M34 3PR"	.
+<795110/rowId=196>	<795110/date>	 "2009-05-12"	.
+
+<795110/rowId=197>	rdf:type	q:795110	.
+<795110/rowId=197>	<795110/amount>	 "67000"	.
+<795110/rowId=197>	<795110/street>	 "GROSVENOR STREET"	.
+<795110/rowId=197>	<795110/postcode>	 "M27 6FW"	.
+<795110/rowId=197>	<795110/date>	 "2012-03-09"	.
+
+<795110/rowId=198>	rdf:type	q:795110	.
+<795110/rowId=198>	<795110/amount>	 "67000"	.
+<795110/rowId=198>	<795110/street>	 "BOLTON ROAD"	.
+<795110/rowId=198>	<795110/postcode>	 "M28 3FJ"	.
+<795110/rowId=198>	<795110/date>	 "2012-03-22"	.
+
+<795110/rowId=199>	rdf:type	q:795110	.
+<795110/rowId=199>	<795110/amount>	 "67000"	.
+<795110/rowId=199>	<795110/street>	 "MENDIP AVENUE"	.
+<795110/rowId=199>	<795110/postcode>	 "M22 9YA"	.
+<795110/rowId=199>	<795110/date>	 "2012-05-03"	.
+
+<795110/rowId=200>	rdf:type	q:795110	.
+<795110/rowId=200>	<795110/amount>	 "67000"	.
+<795110/rowId=200>	<795110/street>	 "MINOR STREET"	.
+<795110/rowId=200>	<795110/postcode>	 "M35 9DZ"	.
+<795110/rowId=200>	<795110/date>	 "2012-09-28"	.
+
+<795110/rowId=201>	rdf:type	q:795110	.
+<795110/rowId=201>	<795110/amount>	 "67000"	.
+<795110/rowId=201>	<795110/street>	 "LEYWELL ROAD"	.
+<795110/rowId=201>	<795110/postcode>	 "M9 4QR"	.
+<795110/rowId=201>	<795110/date>	 "2012-09-17"	.
+
+<795110/rowId=202>	rdf:type	q:795110	.
+<795110/rowId=202>	<795110/amount>	 "67000"	.
+<795110/rowId=202>	<795110/street>	 "MANCHESTER ROAD"	.
+<795110/rowId=202>	<795110/postcode>	 "M34 3PR"	.
+<795110/rowId=202>	<795110/date>	 "2009-05-12"	.
+
+<795110/rowId=203>	rdf:type	q:795110	.
+<795110/rowId=203>	<795110/amount>	 "67000"	.
+<795110/rowId=203>	<795110/street>	 "DORSET ROAD"	.
+<795110/rowId=203>	<795110/postcode>	 "M46 9GJ"	.
+<795110/rowId=203>	<795110/date>	 "2012-08-24"	.
+
+<795110/rowId=204>	rdf:type	q:795110	.
+<795110/rowId=204>	<795110/amount>	 "67000"	.
+<795110/rowId=204>	<795110/street>	 "LYNTHORPE ROAD"	.
+<795110/rowId=204>	<795110/postcode>	 "M40 0JS"	.
+<795110/rowId=204>	<795110/date>	 "2012-11-23"	.
+
+<795110/rowId=205>	rdf:type	q:795110	.
+<795110/rowId=205>	<795110/amount>	 "67000"	.
+<795110/rowId=205>	<795110/street>	 "KATHKIN AVENUE"	.
+<795110/rowId=205>	<795110/postcode>	 "M8 4QL"	.
+<795110/rowId=205>	<795110/date>	 "2012-09-28"	.
+
+<795110/rowId=206>	rdf:type	q:795110	.
+<795110/rowId=206>	<795110/amount>	 "47000"	.
+<795110/rowId=206>	<795110/street>	 "ROSSINGTON STREET"	.
+<795110/rowId=206>	<795110/postcode>	 "M40 1PG"	.
+<795110/rowId=206>	<795110/date>	 "2012-11-16"	.
+
+<795110/rowId=207>	rdf:type	q:795110	.
+<795110/rowId=207>	<795110/amount>	 "47000"	.
+<795110/rowId=207>	<795110/street>	 "CHURCH ROAD"	.
+<795110/rowId=207>	<795110/postcode>	 "M28 3LW"	.
+<795110/rowId=207>	<795110/date>	 "2012-11-12"	.
+
+<795110/rowId=208>	rdf:type	q:795110	.
+<795110/rowId=208>	<795110/amount>	 "47000"	.
+<795110/rowId=208>	<795110/street>	 "MANCHESTER ROAD EAST"	.
+<795110/rowId=208>	<795110/postcode>	 "M38 9NS"	.
+<795110/rowId=208>	<795110/date>	 "2012-10-25"	.
+
+<795110/rowId=209>	rdf:type	q:795110	.
+<795110/rowId=209>	<795110/amount>	 "47000"	.
+<795110/rowId=209>	<795110/street>	 "ST GEORGES STREET"	.
+<795110/rowId=209>	<795110/postcode>	 "M29 8HH"	.
+<795110/rowId=209>	<795110/date>	 "2012-05-24"	.
+
+<795110/rowId=210>	rdf:type	q:795110	.
+<795110/rowId=210>	<795110/amount>	 "47000"	.
+<795110/rowId=210>	<795110/street>	 "BEVERLEY STREET"	.
+<795110/rowId=210>	<795110/postcode>	 "M9 4ED"	.
+<795110/rowId=210>	<795110/date>	 "2012-10-16"	.
+
+<795110/rowId=211>	rdf:type	q:795110	.
+<795110/rowId=211>	<795110/amount>	 "47000"	.
+<795110/rowId=211>	<795110/street>	 "MATHER STREET"	.
+<795110/rowId=211>	<795110/postcode>	 "M26 4TL"	.
+<795110/rowId=211>	<795110/date>	 "2012-07-20"	.
+
+<795110/rowId=212>	rdf:type	q:795110	.
+<795110/rowId=212>	<795110/amount>	 "47000"	.
+<795110/rowId=212>	<795110/street>	 "GALE DRIVE"	.
+<795110/rowId=212>	<795110/postcode>	 "M24 5GJ"	.
+<795110/rowId=212>	<795110/date>	 "2012-02-24"	.
+
+<795110/rowId=213>	rdf:type	q:795110	.
+<795110/rowId=213>	<795110/amount>	 "47000"	.
+<795110/rowId=213>	<795110/street>	 "TINNINGHAM CLOSE"	.
+<795110/rowId=213>	<795110/postcode>	 "M11 1NB"	.
+<795110/rowId=213>	<795110/date>	 "2011-09-07"	.
+
+<795110/rowId=214>	rdf:type	q:795110	.
+<795110/rowId=214>	<795110/amount>	 "47000"	.
+<795110/rowId=214>	<795110/street>	 "THE MOSS"	.
+<795110/rowId=214>	<795110/postcode>	 "M24 1TF"	.
+<795110/rowId=214>	<795110/date>	 "2012-04-11"	.
+
+<795110/rowId=215>	rdf:type	q:795110	.
+<795110/rowId=215>	<795110/amount>	 "47000"	.
+<795110/rowId=215>	<795110/street>	 "HESKETH STREET"	.
+<795110/rowId=215>	<795110/postcode>	 "M46 9JJ"	.
+<795110/rowId=215>	<795110/date>	 "2012-07-27"	.
+
+<795110/rowId=216>	rdf:type	q:795110	.
+<795110/rowId=216>	<795110/amount>	 "47000"	.
+<795110/rowId=216>	<795110/street>	 "FOG LANE"	.
+<795110/rowId=216>	<795110/postcode>	 "M20 6UL"	.
+<795110/rowId=216>	<795110/date>	 "1998-02-19"	.
+
+<795110/rowId=217>	rdf:type	q:795110	.
+<795110/rowId=217>	<795110/amount>	 "47000"	.
+<795110/rowId=217>	<795110/street>	 "BIRCH STREET"	.
+<795110/rowId=217>	<795110/postcode>	 "M12 5NT"	.
+<795110/rowId=217>	<795110/date>	 "2012-08-24"	.
+
+<795110/rowId=218>	rdf:type	q:795110	.
+<795110/rowId=218>	<795110/amount>	 "47000"	.
+<795110/rowId=218>	<795110/street>	 "GLEN AVENUE"	.
+<795110/rowId=218>	<795110/postcode>	 "M9 4EE"	.
+<795110/rowId=218>	<795110/date>	 "2011-01-19"	.
+
+<795110/rowId=219>	rdf:type	q:795110	.
+<795110/rowId=219>	<795110/amount>	 "65000"	.
+<795110/rowId=219>	<795110/street>	 "STATION ROAD"	.
+<795110/rowId=219>	<795110/postcode>	 "M30 0GA"	.
+<795110/rowId=219>	<795110/date>	 "2012-09-12"	.
+
+<795110/rowId=220>	rdf:type	q:795110	.
+<795110/rowId=220>	<795110/amount>	 "65000"	.
+<795110/rowId=220>	<795110/street>	 "QUEEN STREET"	.
+<795110/rowId=220>	<795110/postcode>	 "M35 0HA"	.
+<795110/rowId=220>	<795110/date>	 "2012-03-09"	.
+
+<795110/rowId=221>	rdf:type	q:795110	.
+<795110/rowId=221>	<795110/amount>	 "65000"	.
+<795110/rowId=221>	<795110/street>	 "MANCHESTER ROAD"	.
+<795110/rowId=221>	<795110/postcode>	 "M27 9BA"	.
+<795110/rowId=221>	<795110/date>	 "2012-11-30"	.
+
+<795110/rowId=222>	rdf:type	q:795110	.
+<795110/rowId=222>	<795110/amount>	 "65000"	.
+<795110/rowId=222>	<795110/street>	 "YEWLANDS AVENUE"	.
+<795110/rowId=222>	<795110/postcode>	 "M9 6GG"	.
+<795110/rowId=222>	<795110/date>	 "2012-09-14"	.
+
+<795110/rowId=223>	rdf:type	q:795110	.
+<795110/rowId=223>	<795110/amount>	 "65000"	.
+<795110/rowId=223>	<795110/street>	 "OWENINGTON GROVE"	.
+<795110/rowId=223>	<795110/postcode>	 "M38 9FA"	.
+<795110/rowId=223>	<795110/date>	 "2012-11-02"	.
+
+<795110/rowId=224>	rdf:type	q:795110	.
+<795110/rowId=224>	<795110/amount>	 "65000"	.
+<795110/rowId=224>	<795110/street>	 "SHELLEY GROVE"	.
+<795110/rowId=224>	<795110/postcode>	 "M43 7YE"	.
+<795110/rowId=224>	<795110/date>	 "2012-06-25"	.
+
+<795110/rowId=225>	rdf:type	q:795110	.
+<795110/rowId=225>	<795110/amount>	 "65000"	.
+<795110/rowId=225>	<795110/street>	 "LOWTON STREET"	.
+<795110/rowId=225>	<795110/postcode>	 "M26 4DQ"	.
+<795110/rowId=225>	<795110/date>	 "2012-02-03"	.
+
+<795110/rowId=226>	rdf:type	q:795110	.
+<795110/rowId=226>	<795110/amount>	 "65000"	.
+<795110/rowId=226>	<795110/street>	 "HOLBETON CLOSE"	.
+<795110/rowId=226>	<795110/postcode>	 "M8 8BA"	.
+<795110/rowId=226>	<795110/date>	 "2012-03-23"	.
+
+<795110/rowId=227>	rdf:type	q:795110	.
+<795110/rowId=227>	<795110/amount>	 "65000"	.
+<795110/rowId=227>	<795110/street>	 "DORNING STREET"	.
+<795110/rowId=227>	<795110/postcode>	 "M29 8FS"	.
+<795110/rowId=227>	<795110/date>	 "2012-02-29"	.
+
+<795110/rowId=228>	rdf:type	q:795110	.
+<795110/rowId=228>	<795110/amount>	 "65000"	.
+<795110/rowId=228>	<795110/street>	 "DALTON STREET"	.
+<795110/rowId=228>	<795110/postcode>	 "M40 7ED"	.
+<795110/rowId=228>	<795110/date>	 "2012-03-30"	.
+
+<795110/rowId=229>	rdf:type	q:795110	.
+<795110/rowId=229>	<795110/amount>	 "65000"	.
+<795110/rowId=229>	<795110/street>	 "DALTON STREET"	.
+<795110/rowId=229>	<795110/postcode>	 "M40 7ED"	.
+<795110/rowId=229>	<795110/date>	 "2012-03-30"	.
+
+<795110/rowId=230>	rdf:type	q:795110	.
+<795110/rowId=230>	<795110/amount>	 "65000"	.
+<795110/rowId=230>	<795110/street>	 "DALTON STREET"	.
+<795110/rowId=230>	<795110/postcode>	 "M40 7ED"	.
+<795110/rowId=230>	<795110/date>	 "2012-03-30"	.
+
+<795110/rowId=231>	rdf:type	q:795110	.
+<795110/rowId=231>	<795110/amount>	 "65000"	.
+<795110/rowId=231>	<795110/street>	 "WAYLAND ROAD"	.
+<795110/rowId=231>	<795110/postcode>	 "M18 7HB"	.
+<795110/rowId=231>	<795110/date>	 "2012-05-14"	.
+
+<795110/rowId=232>	rdf:type	q:795110	.
+<795110/rowId=232>	<795110/amount>	 "65000"	.
+<795110/rowId=232>	<795110/street>	 "HOLBETON CLOSE"	.
+<795110/rowId=232>	<795110/postcode>	 "M8 8BA"	.
+<795110/rowId=232>	<795110/date>	 "2012-03-07"	.
+
+<795110/rowId=233>	rdf:type	q:795110	.
+<795110/rowId=233>	<795110/amount>	 "65000"	.
+<795110/rowId=233>	<795110/street>	 "SHAKERLEY ROAD"	.
+<795110/rowId=233>	<795110/postcode>	 "M29 8FG"	.
+<795110/rowId=233>	<795110/date>	 "2012-09-13"	.
+
+<795110/rowId=234>	rdf:type	q:795110	.
+<795110/rowId=234>	<795110/amount>	 "65000"	.
+<795110/rowId=234>	<795110/street>	 "MERTON ROAD"	.
+<795110/rowId=234>	<795110/postcode>	 "M25 1PL"	.
+<795110/rowId=234>	<795110/date>	 "2012-07-25"	.
+
+<795110/rowId=235>	rdf:type	q:795110	.
+<795110/rowId=235>	<795110/amount>	 "65000"	.
+<795110/rowId=235>	<795110/street>	 "ELLEN WILKINSON CRESCENT"	.
+<795110/rowId=235>	<795110/postcode>	 "M12 4JU"	.
+<795110/rowId=235>	<795110/date>	 "2012-09-21"	.
+
+<795110/rowId=236>	rdf:type	q:795110	.
+<795110/rowId=236>	<795110/amount>	 "65000"	.
+<795110/rowId=236>	<795110/street>	 "HOLBETON CLOSE"	.
+<795110/rowId=236>	<795110/postcode>	 "M8 8BA"	.
+<795110/rowId=236>	<795110/date>	 "2012-03-13"	.
+
+<795110/rowId=237>	rdf:type	q:795110	.
+<795110/rowId=237>	<795110/amount>	 "65000"	.
+<795110/rowId=237>	<795110/street>	 "MANCHESTER ROAD"	.
+<795110/rowId=237>	<795110/postcode>	 "M28 3HL"	.
+<795110/rowId=237>	<795110/date>	 "2012-11-08"	.
+
+<795110/rowId=238>	rdf:type	q:795110	.
+<795110/rowId=238>	<795110/amount>	 "65000"	.
+<795110/rowId=238>	<795110/street>	 "SENIOR ROAD"	.
+<795110/rowId=238>	<795110/postcode>	 "M30 7PU"	.
+<795110/rowId=238>	<795110/date>	 "2012-08-30"	.
+
+<795110/rowId=239>	rdf:type	q:795110	.
+<795110/rowId=239>	<795110/amount>	 "65000"	.
+<795110/rowId=239>	<795110/street>	 "PERSHORE ROAD"	.
+<795110/rowId=239>	<795110/postcode>	 "M24 6EW"	.
+<795110/rowId=239>	<795110/date>	 "2012-06-22"	.
+
+<795110/rowId=240>	rdf:type	q:795110	.
+<795110/rowId=240>	<795110/amount>	 "65000"	.
+<795110/rowId=240>	<795110/street>	 "SANDYHILL ROAD"	.
+<795110/rowId=240>	<795110/postcode>	 "M9 8GL"	.
+<795110/rowId=240>	<795110/date>	 "2012-08-20"	.
+
+<795110/rowId=241>	rdf:type	q:795110	.
+<795110/rowId=241>	<795110/amount>	 "65000"	.
+<795110/rowId=241>	<795110/street>	 "GREENBROW ROAD"	.
+<795110/rowId=241>	<795110/postcode>	 "M23 1EX"	.
+<795110/rowId=241>	<795110/date>	 "2012-05-01"	.
+
+<795110/rowId=242>	rdf:type	q:795110	.
+<795110/rowId=242>	<795110/amount>	 "65000"	.
+<795110/rowId=242>	<795110/street>	 "KIRKMAN AVENUE"	.
+<795110/rowId=242>	<795110/postcode>	 "M30 7AH"	.
+<795110/rowId=242>	<795110/date>	 "2012-11-12"	.
+
+<795110/rowId=243>	rdf:type	q:795110	.
+<795110/rowId=243>	<795110/amount>	 "65000"	.
+<795110/rowId=243>	<795110/street>	 "OWLWOOD CLOSE"	.
+<795110/rowId=243>	<795110/postcode>	 "M38 0FR"	.
+<795110/rowId=243>	<795110/date>	 "2012-05-11"	.
+
+<795110/rowId=244>	rdf:type	q:795110	.
+<795110/rowId=244>	<795110/amount>	 "65000"	.
+<795110/rowId=244>	<795110/street>	 "RENSHAW STREET"	.
+<795110/rowId=244>	<795110/postcode>	 "M30 0PQ"	.
+<795110/rowId=244>	<795110/date>	 "2012-04-25"	.
+
+<795110/rowId=245>	rdf:type	q:795110	.
+<795110/rowId=245>	<795110/amount>	 "65000"	.
+<795110/rowId=245>	<795110/street>	 "GLOUCESTER AVENUE"	.
+<795110/rowId=245>	<795110/postcode>	 "M45 6BX"	.
+<795110/rowId=245>	<795110/date>	 "2012-03-07"	.
+
+<795110/rowId=246>	rdf:type	q:795110	.
+<795110/rowId=246>	<795110/amount>	 "65000"	.
+<795110/rowId=246>	<795110/street>	 "ARMITAGE GROVE"	.
+<795110/rowId=246>	<795110/postcode>	 "M38 0EB"	.
+<795110/rowId=246>	<795110/date>	 "2012-08-20"	.
+
+<795110/rowId=247>	rdf:type	q:795110	.
+<795110/rowId=247>	<795110/amount>	 "65000"	.
+<795110/rowId=247>	<795110/street>	 "DUNSTABLE STREET"	.
+<795110/rowId=247>	<795110/postcode>	 "M19 3BU"	.
+<795110/rowId=247>	<795110/date>	 "2012-08-15"	.
+
+<795110/rowId=248>	rdf:type	q:795110	.
+<795110/rowId=248>	<795110/amount>	 "65000"	.
+<795110/rowId=248>	<795110/street>	 "ALBERT AVENUE"	.
+<795110/rowId=248>	<795110/postcode>	 "M18 7JX"	.
+<795110/rowId=248>	<795110/date>	 "2012-06-08"	.
+
+<795110/rowId=249>	rdf:type	q:795110	.
+<795110/rowId=249>	<795110/amount>	 "65000"	.
+<795110/rowId=249>	<795110/street>	 "JOSEPHINE DRIVE"	.
+<795110/rowId=249>	<795110/postcode>	 "M27 5UL"	.
+<795110/rowId=249>	<795110/date>	 "2012-10-31"	.
+
+<795110>	q:QuerySPARQL	"SELECT ?amount ?street ?postcode ?date
+WHERE {
+	?row <http://sparqlr.co.uk/IS/795110/amount> ?amount . 
+	OPTIONAL { ?row <http://sparqlr.co.uk/IS/795110/street> ?street . } .
+	OPTIONAL { ?row <http://sparqlr.co.uk/IS/795110/postcode> ?postcode . } .
+	OPTIONAL { ?row <http://sparqlr.co.uk/IS/795110/date> ?date . } .
+}" . 
+

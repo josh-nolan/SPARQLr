@@ -1,0 +1,32 @@
+# RDF file for QUERY: NumberofHouseholdsbyAuthorities.ttl
+@base <http://sparqlr.co.uk/q/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> . 
+@prefix q: <http://sparqlr.co.uk/q/> . 
+<NumberofHouseholdsbyAuthorities>	q:QueryId	"NumberofHouseholdsbyAuthorities" . 
+<NumberofHouseholdsbyAuthorities>	q:Title	"Number of Households by Authorities" . 
+<NumberofHouseholdsbyAuthorities>	q:Endpoint	"http://opendatacommunities.org/sparql" . 
+<NumberofHouseholdsbyAuthorities>	q:Classification	"Government" . 
+<NumberofHouseholdsbyAuthorities>	q:DateSaved	"1358797116" . 
+<NumberofHouseholdsbyAuthorities>	q:Description	"The number of households in each authority in the UK. Taken from the fantastic OpenDataCommunity: http://opendatacommunities.org/doc/dataset/housing/households/2008" . 
+<NumberofHouseholdsbyAuthorities>	q:QuerySPARQL	"PREFIX sdmx: <http://purl.org/linked-data/sdmx/2009/dimension#>
+PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX qb: <http://purl.org/linked-data/cube#>
+PREFIX housing: <http://opendatacommunities.org/def/housing/>
+PREFIX lg: <http://opendatacommunities.org/def/local-government/>
+
+SELECT ?authority_name ?households WHERE {
+  ?obs qb:dataSet <http://opendatacommunities.org/id/dataset/housing/households/2008> .
+  ?obs sdmx:refArea ?area .
+  ?obs housing:households ?households .
+  ?authority lg:governs ?area .
+  ?authority  rdfs:label ?authority_name
+ }
+ORDER BY ?authority_name" . 
+<NumberofHouseholdsbyAuthorities>	rdf:type	q:Query .
+<NumberofHouseholdsbyAuthorities>	q:Tag	"NUMBER OF HOUSEHOLDS" . 
+<NumberofHouseholdsbyAuthorities>	q:Tag	"HOUSEHOLDS" . 
+<NumberofHouseholdsbyAuthorities>	q:Tag	"AUTHORITY" . 
+<NumberofHouseholdsbyAuthorities>	q:Tag	"AUTHORITIES" . 
+<NumberofHouseholdsbyAuthorities>	q:Tag	"HOUSES" . 
+<NumberofHouseholdsbyAuthorities>	q:Tag	"POPULATION" . 
+<NumberofHouseholdsbyAuthorities>	q:Tag	"UK" . 

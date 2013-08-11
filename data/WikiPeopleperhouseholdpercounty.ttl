@@ -1,0 +1,24 @@
+# RDF file for QUERY: WikiPeopleperhouseholdpercounty.ttl
+@base <http://sparqlr.co.uk/q/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> . 
+@prefix q: <http://sparqlr.co.uk/q/> . 
+<WikiPeopleperhouseholdpercounty>	q:QueryId	"WikiPeopleperhouseholdpercounty" . 
+<WikiPeopleperhouseholdpercounty>	q:Title	"WikiPeople per household per county" . 
+<WikiPeopleperhouseholdpercounty>	q:Endpoint	"http://sparqlr.co.uk/endpoint.php" . 
+<WikiPeopleperhouseholdpercounty>	q:Classification	"SPARQLr" . 
+<WikiPeopleperhouseholdpercounty>	q:DateSaved	"1358806181" . 
+<WikiPeopleperhouseholdpercounty>	q:Description	"This is my first attempt at mapping two queries together, with work needed to match the rows as only two results are returned :(" . 
+<WikiPeopleperhouseholdpercounty>	q:QuerySPARQL	"SELECT ?name ?households ?wikiEntries
+WHERE
+{
+  ?q1 <http://sparqlr.co.uk/q/vw_NumberofHouseholdsbyAuthorities/authority_name> ?name . 
+  ?q1 <http://sparqlr.co.uk/q/vw_NumberofHouseholdsbyAuthorities/households> ?households . 
+  ?q2 <http://sparqlr.co.uk/q/vw_WikiPeopleperukcounty/name> ?name . 
+  ?q2 <http://sparqlr.co.uk/q/vw_WikiPeopleperukcounty/wikiEntries> ?wikiEntries .
+}" . 
+<WikiPeopleperhouseholdpercounty>	rdf:type	q:Query .
+<WikiPeopleperhouseholdpercounty>	q:Tag	"WIKIPEOPLE" . 
+<WikiPeopleperhouseholdpercounty>	q:Tag	"HOUSEHOLD" . 
+<WikiPeopleperhouseholdpercounty>	q:Tag	"COUNTY" . 
+<WikiPeopleperhouseholdpercounty>	q:Tag	"UK" . 
+<WikiPeopleperhouseholdpercounty>	q:Tag	"MASH" . 

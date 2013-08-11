@@ -1,0 +1,172 @@
+# RDF file for 011113.ttl
+@base <http://sparqlr.co.uk/IS/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> . 
+@prefix q: <http://sparqlr.co.uk/q/> . 
+<011113>	rdf:type	q:ISQuery .
+<011113>	q:QueryId	"011113" . 
+<011113>	q:Title	"011113" . 
+<011113>	q:Endpoint	"http://sparqlr.co.uk/endpoint.php" . 
+<011113>	q:DateSaved	"1362775065" . 
+
+<011113/rowId=0>	rdf:type	q:011113	.
+<011113/rowId=0>	<011113/name>	 "Oxfordshire"	.
+<011113/rowId=0>	<011113/wikiEntries>	 "236"	.
+
+<011113/rowId=1>	rdf:type	q:011113	.
+<011113/rowId=1>	<011113/name>	 "Norfolk"	.
+<011113/rowId=1>	<011113/wikiEntries>	 "339"	.
+
+<011113/rowId=2>	rdf:type	q:011113	.
+<011113/rowId=2>	<011113/name>	 "The Royal County of Berkshire"	.
+<011113/rowId=2>	<011113/wikiEntries>	 "287"	.
+
+<011113/rowId=3>	rdf:type	q:011113	.
+<011113/rowId=3>	<011113/name>	 "Buckinghamshire"	.
+<011113/rowId=3>	<011113/wikiEntries>	 "259"	.
+
+<011113/rowId=4>	rdf:type	q:011113	.
+<011113/rowId=4>	<011113/name>	 "Merseyside"	.
+<011113/rowId=4>	<011113/wikiEntries>	 "155"	.
+
+<011113/rowId=5>	rdf:type	q:011113	.
+<011113/rowId=5>	<011113/name>	 "North Yorkshire"	.
+<011113/rowId=5>	<011113/wikiEntries>	 "114"	.
+
+<011113/rowId=6>	rdf:type	q:011113	.
+<011113/rowId=6>	<011113/name>	 "Cheshire"	.
+<011113/rowId=6>	<011113/wikiEntries>	 "518"	.
+
+<011113/rowId=7>	rdf:type	q:011113	.
+<011113/rowId=7>	<011113/name>	 "East Sussex"	.
+<011113/rowId=7>	<011113/wikiEntries>	 "84"	.
+
+<011113/rowId=8>	rdf:type	q:011113	.
+<011113/rowId=8>	<011113/name>	 "Somerset"	.
+<011113/rowId=8>	<011113/wikiEntries>	 "410"	.
+
+<011113/rowId=9>	rdf:type	q:011113	.
+<011113/rowId=9>	<011113/name>	 "Worcestershire"	.
+<011113/rowId=9>	<011113/wikiEntries>	 "270"	.
+
+<011113/rowId=10>	rdf:type	q:011113	.
+<011113/rowId=10>	<011113/name>	 "Lincolnshire"	.
+<011113/rowId=10>	<011113/wikiEntries>	 "316"	.
+
+<011113/rowId=11>	rdf:type	q:011113	.
+<011113/rowId=11>	<011113/name>	 "90px 60px"	.
+<011113/rowId=11>	<011113/wikiEntries>	 "1"	.
+
+<011113/rowId=12>	rdf:type	q:011113	.
+<011113/rowId=12>	<011113/name>	 "Warwickshire"	.
+<011113/rowId=12>	<011113/wikiEntries>	 "452"	.
+
+<011113/rowId=13>	rdf:type	q:011113	.
+<011113/rowId=13>	<011113/name>	 "Nottinghamshire"	.
+<011113/rowId=13>	<011113/wikiEntries>	 "379"	.
+
+<011113/rowId=14>	rdf:type	q:011113	.
+<011113/rowId=14>	<011113/name>	 "Lancashire"	.
+<011113/rowId=14>	<011113/wikiEntries>	 "1498"	.
+
+<011113/rowId=15>	rdf:type	q:011113	.
+<011113/rowId=15>	<011113/name>	 "South Yorkshire"	.
+<011113/rowId=15>	<011113/wikiEntries>	 "163"	.
+
+<011113/rowId=16>	rdf:type	q:011113	.
+<011113/rowId=16>	<011113/name>	 "Tyne and Wear"	.
+<011113/rowId=16>	<011113/wikiEntries>	 "86"	.
+
+<011113/rowId=17>	rdf:type	q:011113	.
+<011113/rowId=17>	<011113/name>	 "Essex"	.
+<011113/rowId=17>	<011113/wikiEntries>	 "737"	.
+
+<011113/rowId=18>	rdf:type	q:011113	.
+<011113/rowId=18>	<011113/name>	 "Kent"	.
+<011113/rowId=18>	<011113/wikiEntries>	 "979"	.
+
+<011113/rowId=19>	rdf:type	q:011113	.
+<011113/rowId=19>	<011113/name>	 "Lilford Hall"	.
+<011113/rowId=19>	<011113/wikiEntries>	 "5"	.
+
+<011113/rowId=20>	rdf:type	q:011113	.
+<011113/rowId=20>	<011113/name>	 "Hertfordshire"	.
+<011113/rowId=20>	<011113/wikiEntries>	 "455"	.
+
+<011113/rowId=21>	rdf:type	q:011113	.
+<011113/rowId=21>	<011113/name>	 "Dorset"	.
+<011113/rowId=21>	<011113/wikiEntries>	 "219"	.
+
+<011113/rowId=22>	rdf:type	q:011113	.
+<011113/rowId=22>	<011113/name>	 "West Midlands"	.
+<011113/rowId=22>	<011113/wikiEntries>	 "166"	.
+
+<011113/rowId=23>	rdf:type	q:011113	.
+<011113/rowId=23>	<011113/name>	 "Isle of Wight"	.
+<011113/rowId=23>	<011113/wikiEntries>	 "94"	.
+
+<011113/rowId=24>	rdf:type	q:011113	.
+<011113/rowId=24>	<011113/name>	 "Rutland"	.
+<011113/rowId=24>	<011113/wikiEntries>	 "13"	.
+
+<011113/rowId=25>	rdf:type	q:011113	.
+<011113/rowId=25>	<011113/name>	 "Bedfordshire"	.
+<011113/rowId=25>	<011113/wikiEntries>	 "148"	.
+
+<011113/rowId=26>	rdf:type	q:011113	.
+<011113/rowId=26>	<011113/name>	 "West Sussex"	.
+<011113/rowId=26>	<011113/wikiEntries>	 "73"	.
+
+<011113/rowId=27>	rdf:type	q:011113	.
+<011113/rowId=27>	<011113/name>	 "Devon"	.
+<011113/rowId=27>	<011113/wikiEntries>	 "493"	.
+
+<011113/rowId=28>	rdf:type	q:011113	.
+<011113/rowId=28>	<011113/name>	 "Chewton Glen Hotel & Spa"	.
+<011113/rowId=28>	<011113/wikiEntries>	 "1"	.
+
+<011113/rowId=29>	rdf:type	q:011113	.
+<011113/rowId=29>	<011113/name>	 "Surrey"	.
+<011113/rowId=29>	<011113/wikiEntries>	 "957"	.
+
+<011113/rowId=30>	rdf:type	q:011113	.
+<011113/rowId=30>	<011113/name>	 "West Yorkshire"	.
+<011113/rowId=30>	<011113/wikiEntries>	 "369"	.
+
+<011113/rowId=31>	rdf:type	q:011113	.
+<011113/rowId=31>	<011113/name>	 "RAF Mildenhall"	.
+<011113/rowId=31>	<011113/wikiEntries>	 "1"	.
+
+<011113/rowId=32>	rdf:type	q:011113	.
+<011113/rowId=32>	<011113/name>	 "Northamptonshire"	.
+<011113/rowId=32>	<011113/wikiEntries>	 "242"	.
+
+<011113/rowId=33>	rdf:type	q:011113	.
+<011113/rowId=33>	<011113/name>	 "Greater Manchester"	.
+<011113/rowId=33>	<011113/wikiEntries>	 "227"	.
+
+<011113/rowId=34>	rdf:type	q:011113	.
+<011113/rowId=34>	<011113/name>	 "Leicestershire"	.
+<011113/rowId=34>	<011113/wikiEntries>	 "301"	.
+
+<011113/rowId=35>	rdf:type	q:011113	.
+<011113/rowId=35>	<011113/name>	 "Gloucestershire"	.
+<011113/rowId=35>	<011113/wikiEntries>	 "314"	.
+
+<011113/rowId=36>	rdf:type	q:011113	.
+<011113/rowId=36>	<011113/name>	 "Staffordshire"	.
+<011113/rowId=36>	<011113/wikiEntries>	 "603"	.
+
+<011113/rowId=37>	rdf:type	q:011113	.
+<011113/rowId=37>	<011113/name>	 "RAF Lakenheath"	.
+<011113/rowId=37>	<011113/wikiEntries>	 "2"	.
+
+<011113/rowId=38>	rdf:type	q:011113	.
+<011113/rowId=38>	<011113/name>	 "90px60px"	.
+<011113/rowId=38>	<011113/wikiEntries>	 "2"	.
+
+<011113>	q:QuerySPARQL	"SELECT ?name ?wikiEntries
+WHERE {
+	?row <http://sparqlr.co.uk/IS/011113/name> ?name . 
+	OPTIONAL { ?row <http://sparqlr.co.uk/IS/011113/wikiEntries> ?wikiEntries . } .
+}" . 
+

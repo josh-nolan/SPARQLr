@@ -1,0 +1,71 @@
+# RDF file for 435336.ttl
+@base <http://sparqlr.co.uk/IS/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> . 
+@prefix q: <http://sparqlr.co.uk/q/> . 
+<435336>	rdf:type	q:ISQuery .
+<435336>	q:QueryId	"435336" . 
+<435336>	q:Title	"435336" . 
+<435336>	q:Endpoint	"http://sparqlr.co.uk/endpoint.php" . 
+<435336>	q:DateSaved	"1362396445" . 
+
+<435336/rowId=0>	rdf:type	q:435336	.
+<435336/rowId=0>	<435336/s>	 "http://sparqlr.co.uk/q/vw_WikiPeopleperukcounty"	.
+<435336/rowId=0>	<435336/p>	 "http://sparqlr.co.uk/q/QuerySPARQL"	.
+<435336/rowId=0>	<435336/o>	 "SELECT ?name ?wikiEntries
+WHERE {
+	?row <http://sparqlr.co.uk/q/vw_WikiPeopleperukcounty/name> ?name . 
+	OPTIONAL { ?row <http://sparqlr.co.uk/q/vw_WikiPeopleperukcounty/wikiEntries> ?wikiEntries . } .
+}"	.
+
+<435336/rowId=1>	rdf:type	q:435336	.
+<435336/rowId=1>	<435336/s>	 "http://sparqlr.co.uk/q/vw_WikiPeopleperukcounty/rowId=38"	.
+<435336/rowId=1>	<435336/p>	 "http://sparqlr.co.uk/q/vw_WikiPeopleperukcounty/wikiEntries"	.
+<435336/rowId=1>	<435336/o>	 "379"	.
+
+<435336/rowId=2>	rdf:type	q:435336	.
+<435336/rowId=2>	<435336/s>	 "http://sparqlr.co.uk/q/vw_WikiPeopleperukcounty/rowId=38"	.
+<435336/rowId=2>	<435336/p>	 "http://sparqlr.co.uk/q/vw_WikiPeopleperukcounty/name"	.
+<435336/rowId=2>	<435336/o>	 "Nottinghamshire"	.
+
+<435336/rowId=3>	rdf:type	q:435336	.
+<435336/rowId=3>	<435336/s>	 "http://sparqlr.co.uk/q/vw_WikiPeopleperukcounty/rowId=38"	.
+<435336/rowId=3>	<435336/p>	 "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"	.
+<435336/rowId=3>	<435336/o>	 "http://sparqlr.co.uk/q/vw_WikiPeopleperukcounty"	.
+
+<435336/rowId=4>	rdf:type	q:435336	.
+<435336/rowId=4>	<435336/s>	 "http://sparqlr.co.uk/q/vw_WikiPeopleperukcounty/rowId=37"	.
+<435336/rowId=4>	<435336/p>	 "http://sparqlr.co.uk/q/vw_WikiPeopleperukcounty/wikiEntries"	.
+<435336/rowId=4>	<435336/o>	 "453"	.
+
+<435336/rowId=5>	rdf:type	q:435336	.
+<435336/rowId=5>	<435336/s>	 "http://sparqlr.co.uk/q/vw_WikiPeopleperukcounty/rowId=37"	.
+<435336/rowId=5>	<435336/p>	 "http://sparqlr.co.uk/q/vw_WikiPeopleperukcounty/name"	.
+<435336/rowId=5>	<435336/o>	 "Warwickshire"	.
+
+<435336/rowId=6>	rdf:type	q:435336	.
+<435336/rowId=6>	<435336/s>	 "http://sparqlr.co.uk/q/vw_WikiPeopleperukcounty/rowId=37"	.
+<435336/rowId=6>	<435336/p>	 "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"	.
+<435336/rowId=6>	<435336/o>	 "http://sparqlr.co.uk/q/vw_WikiPeopleperukcounty"	.
+
+<435336/rowId=7>	rdf:type	q:435336	.
+<435336/rowId=7>	<435336/s>	 "http://sparqlr.co.uk/q/vw_WikiPeopleperukcounty/rowId=36"	.
+<435336/rowId=7>	<435336/p>	 "http://sparqlr.co.uk/q/vw_WikiPeopleperukcounty/wikiEntries"	.
+<435336/rowId=7>	<435336/o>	 "411"	.
+
+<435336/rowId=8>	rdf:type	q:435336	.
+<435336/rowId=8>	<435336/s>	 "http://sparqlr.co.uk/q/vw_WikiPeopleperukcounty/rowId=36"	.
+<435336/rowId=8>	<435336/p>	 "http://sparqlr.co.uk/q/vw_WikiPeopleperukcounty/name"	.
+<435336/rowId=8>	<435336/o>	 "Somerset"	.
+
+<435336/rowId=9>	rdf:type	q:435336	.
+<435336/rowId=9>	<435336/s>	 "http://sparqlr.co.uk/q/vw_WikiPeopleperukcounty/rowId=36"	.
+<435336/rowId=9>	<435336/p>	 "http://www.w3.org/1999/02/22-rdf-syntax-ns#type"	.
+<435336/rowId=9>	<435336/o>	 "http://sparqlr.co.uk/q/vw_WikiPeopleperukcounty"	.
+
+<435336>	q:QuerySPARQL	"SELECT ?s ?p ?o
+WHERE {
+	?row <http://sparqlr.co.uk/IS/435336/s> ?s . 
+	OPTIONAL { ?row <http://sparqlr.co.uk/IS/435336/p> ?p . } .
+	OPTIONAL { ?row <http://sparqlr.co.uk/IS/435336/o> ?o . } .
+}" . 
+

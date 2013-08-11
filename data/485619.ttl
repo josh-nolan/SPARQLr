@@ -1,0 +1,132 @@
+# RDF file for 485619.ttl
+@base <http://sparqlr.co.uk/IS/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> . 
+@prefix q: <http://sparqlr.co.uk/q/> . 
+<485619>	rdf:type	q:ISQuery .
+<485619>	q:QueryId	"485619" . 
+<485619>	q:Title	"485619" . 
+<485619>	q:Endpoint	"http://sparqlr.co.uk/endpoint.php" . 
+<485619>	q:DateSaved	"1362395573" . 
+
+<485619/rowId=0>	rdf:type	q:485619	.
+<485619/rowId=0>	<485619/name>	 "Worcestershire"	.
+
+<485619/rowId=1>	rdf:type	q:485619	.
+<485619/rowId=1>	<485619/name>	 "Lincolnshire"	.
+
+<485619/rowId=2>	rdf:type	q:485619	.
+<485619/rowId=2>	<485619/name>	 "Norfolk"	.
+
+<485619/rowId=3>	rdf:type	q:485619	.
+<485619/rowId=3>	<485619/name>	 "North Yorkshire"	.
+
+<485619/rowId=4>	rdf:type	q:485619	.
+<485619/rowId=4>	<485619/name>	 "Cheshire"	.
+
+<485619/rowId=5>	rdf:type	q:485619	.
+<485619/rowId=5>	<485619/name>	 "90px 60px"	.
+
+<485619/rowId=6>	rdf:type	q:485619	.
+<485619/rowId=6>	<485619/name>	 "East Sussex"	.
+
+<485619/rowId=7>	rdf:type	q:485619	.
+<485619/rowId=7>	<485619/name>	 "Somerset"	.
+
+<485619/rowId=8>	rdf:type	q:485619	.
+<485619/rowId=8>	<485619/name>	 "Warwickshire"	.
+
+<485619/rowId=9>	rdf:type	q:485619	.
+<485619/rowId=9>	<485619/name>	 "Nottinghamshire"	.
+
+<485619/rowId=10>	rdf:type	q:485619	.
+<485619/rowId=10>	<485619/name>	 "Surrey"	.
+
+<485619/rowId=11>	rdf:type	q:485619	.
+<485619/rowId=11>	<485619/name>	 "Hertfordshire"	.
+
+<485619/rowId=12>	rdf:type	q:485619	.
+<485619/rowId=12>	<485619/name>	 "Merseyside"	.
+
+<485619/rowId=13>	rdf:type	q:485619	.
+<485619/rowId=13>	<485619/name>	 "West Yorkshire"	.
+
+<485619/rowId=14>	rdf:type	q:485619	.
+<485619/rowId=14>	<485619/name>	 "Dorset"	.
+
+<485619/rowId=15>	rdf:type	q:485619	.
+<485619/rowId=15>	<485619/name>	 "Oxfordshire"	.
+
+<485619/rowId=16>	rdf:type	q:485619	.
+<485619/rowId=16>	<485619/name>	 "Devon"	.
+
+<485619/rowId=17>	rdf:type	q:485619	.
+<485619/rowId=17>	<485619/name>	 "West Midlands"	.
+
+<485619/rowId=18>	rdf:type	q:485619	.
+<485619/rowId=18>	<485619/name>	 "The Royal County of Berkshire"	.
+
+<485619/rowId=19>	rdf:type	q:485619	.
+<485619/rowId=19>	<485619/name>	 "Chewton Glen Hotel & Spa"	.
+
+<485619/rowId=20>	rdf:type	q:485619	.
+<485619/rowId=20>	<485619/name>	 "Isle of Wight"	.
+
+<485619/rowId=21>	rdf:type	q:485619	.
+<485619/rowId=21>	<485619/name>	 "Buckinghamshire"	.
+
+<485619/rowId=22>	rdf:type	q:485619	.
+<485619/rowId=22>	<485619/name>	 "West Sussex"	.
+
+<485619/rowId=23>	rdf:type	q:485619	.
+<485619/rowId=23>	<485619/name>	 "Essex"	.
+
+<485619/rowId=24>	rdf:type	q:485619	.
+<485619/rowId=24>	<485619/name>	 "RAF Mildenhall"	.
+
+<485619/rowId=25>	rdf:type	q:485619	.
+<485619/rowId=25>	<485619/name>	 "Kent"	.
+
+<485619/rowId=26>	rdf:type	q:485619	.
+<485619/rowId=26>	<485619/name>	 "RAF Lakenheath"	.
+
+<485619/rowId=27>	rdf:type	q:485619	.
+<485619/rowId=27>	<485619/name>	 "Lilford Hall"	.
+
+<485619/rowId=28>	rdf:type	q:485619	.
+<485619/rowId=28>	<485619/name>	 "90px60px"	.
+
+<485619/rowId=29>	rdf:type	q:485619	.
+<485619/rowId=29>	<485619/name>	 "Lancashire"	.
+
+<485619/rowId=30>	rdf:type	q:485619	.
+<485619/rowId=30>	<485619/name>	 "Northamptonshire"	.
+
+<485619/rowId=31>	rdf:type	q:485619	.
+<485619/rowId=31>	<485619/name>	 "South Yorkshire"	.
+
+<485619/rowId=32>	rdf:type	q:485619	.
+<485619/rowId=32>	<485619/name>	 "Greater Manchester"	.
+
+<485619/rowId=33>	rdf:type	q:485619	.
+<485619/rowId=33>	<485619/name>	 "Tyne and Wear"	.
+
+<485619/rowId=34>	rdf:type	q:485619	.
+<485619/rowId=34>	<485619/name>	 "Leicestershire"	.
+
+<485619/rowId=35>	rdf:type	q:485619	.
+<485619/rowId=35>	<485619/name>	 "Rutland"	.
+
+<485619/rowId=36>	rdf:type	q:485619	.
+<485619/rowId=36>	<485619/name>	 "Gloucestershire"	.
+
+<485619/rowId=37>	rdf:type	q:485619	.
+<485619/rowId=37>	<485619/name>	 "Bedfordshire"	.
+
+<485619/rowId=38>	rdf:type	q:485619	.
+<485619/rowId=38>	<485619/name>	 "Staffordshire"	.
+
+<485619>	q:QuerySPARQL	"SELECT ?name
+WHERE {
+	?row <http://sparqlr.co.uk/IS/485619/name> ?name . 
+}" . 
+

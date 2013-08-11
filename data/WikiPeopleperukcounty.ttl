@@ -1,0 +1,25 @@
+# RDF file for QUERY: WikiPeopleperukcounty.ttl
+@base <http://sparqlr.co.uk/q/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> . 
+@prefix q: <http://sparqlr.co.uk/q/> . 
+<WikiPeopleperukcounty>	q:QueryId	"WikiPeopleperukcounty" . 
+<WikiPeopleperukcounty>	q:Title	"WikiPeople per uk county" . 
+<WikiPeopleperukcounty>	q:Endpoint	"http://dbpedia.org/sparql" . 
+<WikiPeopleperukcounty>	q:Classification	"UserGeneratedContent" . 
+<WikiPeopleperukcounty>	q:DateSaved	"1358804582" . 
+<WikiPeopleperukcounty>	q:Description	"Attempt to find 'WikiPeople' (all people with wiki entries), who were born in England, then group by their birth town/county." . 
+<WikiPeopleperukcounty>	q:QuerySPARQL	"SELECT ?name (COUNT(DISTINCT ?person) as ?wikiEntries)
+WHERE
+{
+  ?person <http://www.w3.org/1999/02/22-rdf-syntax-ns#type>	<http://xmlns.com/foaf/0.1/Person> .
+  ?person <http://dbpedia.org/ontology/birthPlace> ?bp .
+  ?bp <http://dbpedia.org/ontology/location> <http://dbpedia.org/resource/England> .
+  ?bp <http://xmlns.com/foaf/0.1/name> ?name .
+}
+GROUP BY ?name" . 
+<WikiPeopleperukcounty>	rdf:type	q:Query .
+<WikiPeopleperukcounty>	q:Tag	"UK" . 
+<WikiPeopleperukcounty>	q:Tag	"COUNTY" . 
+<WikiPeopleperukcounty>	q:Tag	"WIKIPEOPLE" . 
+<WikiPeopleperukcounty>	q:Tag	"FAMOUS" . 
+<WikiPeopleperukcounty>	q:Tag	"ENGLAND" . 

@@ -1,0 +1,169 @@
+# RDF file for 290762.ttl
+@base <http://sparqlr.co.uk/IS/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> . 
+@prefix q: <http://sparqlr.co.uk/q/> . 
+<290762>	rdf:type	q:ISQuery .
+<290762>	q:QueryId	"290762" . 
+<290762>	q:Title	"290762" . 
+<290762>	q:Endpoint	"http://sparqlr.co.uk/endpoint.php" . 
+<290762>	q:DateSaved	"1362399540" . 
+
+<290762/rowId=0>	rdf:type	q:290762	.
+<290762/rowId=0>	<290762/team>	 "http://dbpedia.org/resource/Arsenal_F.C."	.
+<290762/rowId=0>	<290762/position>	 "Premier League, 3rd"	.
+<290762/rowId=0>	<290762/manager>	 "http://dbpedia.org/resource/Ars%C3%A8ne_Wenger"	.
+<290762/rowId=0>	<290762/ground>	 "http://dbpedia.org/resource/Emirates_Stadium"	.
+<290762/rowId=0>	<290762/capacity2>	 "60361"	.
+
+<290762/rowId=1>	rdf:type	q:290762	.
+<290762/rowId=1>	<290762/team>	 "http://dbpedia.org/resource/Aston_Villa_F.C."	.
+<290762/rowId=1>	<290762/position>	 "Premier League, 16th"	.
+<290762/rowId=1>	<290762/manager>	 "Vacant"	.
+<290762/rowId=1>	<290762/ground>	 "http://dbpedia.org/resource/Villa_Park"	.
+<290762/rowId=1>	<290762/capacity2>	 "42788"	.
+
+<290762/rowId=2>	rdf:type	q:290762	.
+<290762/rowId=2>	<290762/team>	 "http://dbpedia.org/resource/Chelsea_F.C."	.
+<290762/rowId=2>	<290762/position>	 "Premier League, 6th"	.
+<290762/rowId=2>	<290762/manager>	 "http://dbpedia.org/resource/Roberto_Di_Matteo"	.
+<290762/rowId=2>	<290762/ground>	 "http://dbpedia.org/resource/Stamford_Bridge_(stadium)"	.
+<290762/rowId=2>	<290762/capacity>	 "41837"	.
+
+<290762/rowId=3>	rdf:type	q:290762	.
+<290762/rowId=3>	<290762/team>	 "http://dbpedia.org/resource/Everton_F.C."	.
+<290762/rowId=3>	<290762/position>	 "Premier League, 7th"	.
+<290762/rowId=3>	<290762/manager>	 "http://dbpedia.org/resource/David_Moyes"	.
+<290762/rowId=3>	<290762/ground>	 "http://dbpedia.org/resource/Goodison_Park"	.
+<290762/rowId=3>	<290762/capacity>	 "40157"	.
+
+<290762/rowId=4>	rdf:type	q:290762	.
+<290762/rowId=4>	<290762/team>	 "http://dbpedia.org/resource/Fulham_F.C."	.
+<290762/rowId=4>	<290762/position>	 "Premier League, 9th"	.
+<290762/rowId=4>	<290762/manager>	 "http://dbpedia.org/resource/Martin_Jol"	.
+<290762/rowId=4>	<290762/ground>	 "http://dbpedia.org/resource/Craven_Cottage"	.
+<290762/rowId=4>	<290762/capacity>	 "25700"	.
+
+<290762/rowId=5>	rdf:type	q:290762	.
+<290762/rowId=5>	<290762/team>	 "http://dbpedia.org/resource/Liverpool_F.C."	.
+<290762/rowId=5>	<290762/position>	 "Premier League, 8th"	.
+<290762/rowId=5>	<290762/manager>	 "http://dbpedia.org/resource/Brendan_Rodgers"	.
+<290762/rowId=5>	<290762/ground>	 "http://dbpedia.org/resource/Anfield"	.
+<290762/rowId=5>	<290762/capacity>	 "45276"	.
+
+<290762/rowId=6>	rdf:type	q:290762	.
+<290762/rowId=6>	<290762/team>	 "http://dbpedia.org/resource/Manchester_City_F.C."	.
+<290762/rowId=6>	<290762/position>	 "1.0"	.
+<290762/rowId=6>	<290762/manager>	 "http://dbpedia.org/resource/Roberto_Mancini"	.
+<290762/rowId=6>	<290762/ground>	 "http://dbpedia.org/resource/City_of_Manchester_Stadium"	.
+<290762/rowId=6>	<290762/capacity>	 "47726"	.
+
+<290762/rowId=7>	rdf:type	q:290762	.
+<290762/rowId=7>	<290762/team>	 "http://dbpedia.org/resource/Manchester_City_F.C."	.
+<290762/rowId=7>	<290762/position>	 "1.0"	.
+<290762/rowId=7>	<290762/manager>	 "http://dbpedia.org/resource/Roberto_Mancini"	.
+<290762/rowId=7>	<290762/ground>	 "http://dbpedia.org/resource/City_of_Manchester_Stadium"	.
+<290762/rowId=7>	<290762/capacity>	 "47805"	.
+
+<290762/rowId=8>	rdf:type	q:290762	.
+<290762/rowId=8>	<290762/team>	 "http://dbpedia.org/resource/Manchester_United_F.C."	.
+<290762/rowId=8>	<290762/position>	 "Premier League, 2nd"	.
+<290762/rowId=8>	<290762/manager>	 "http://dbpedia.org/resource/Alex_Ferguson"	.
+<290762/rowId=8>	<290762/ground>	 "http://dbpedia.org/resource/Old_Trafford"	.
+<290762/rowId=8>	<290762/capacity2>	 "75811"	.
+
+<290762/rowId=9>	rdf:type	q:290762	.
+<290762/rowId=9>	<290762/team>	 "http://dbpedia.org/resource/Newcastle_United_F.C."	.
+<290762/rowId=9>	<290762/position>	 "Premier League, 5th"	.
+<290762/rowId=9>	<290762/manager>	 "http://dbpedia.org/resource/Alan_Pardew"	.
+<290762/rowId=9>	<290762/ground>	 "http://dbpedia.org/resource/St_James'_Park"	.
+<290762/rowId=9>	<290762/capacity>	 "52387"	.
+
+<290762/rowId=10>	rdf:type	q:290762	.
+<290762/rowId=10>	<290762/team>	 "http://dbpedia.org/resource/Norwich_City_F.C."	.
+<290762/rowId=10>	<290762/position>	 "Premier League, 12th"	.
+<290762/rowId=10>	<290762/manager>	 "http://dbpedia.org/resource/Paul_Lambert"	.
+<290762/rowId=10>	<290762/ground>	 "http://dbpedia.org/resource/Carrow_Road"	.
+<290762/rowId=10>	<290762/capacity>	 "27220"	.
+
+<290762/rowId=11>	rdf:type	q:290762	.
+<290762/rowId=11>	<290762/team>	 "http://dbpedia.org/resource/Queens_Park_Rangers_F.C."	.
+<290762/rowId=11>	<290762/position>	 "Premier League, 17th"	.
+<290762/rowId=11>	<290762/manager>	 "http://dbpedia.org/resource/Mark_Hughes"	.
+<290762/rowId=11>	<290762/ground>	 "http://dbpedia.org/resource/Loftus_Road"	.
+<290762/rowId=11>	<290762/capacity>	 "18360"	.
+
+<290762/rowId=12>	rdf:type	q:290762	.
+<290762/rowId=12>	<290762/team>	 "http://dbpedia.org/resource/Reading_F.C."	.
+<290762/rowId=12>	<290762/position>	 "1.0"	.
+<290762/rowId=12>	<290762/manager>	 "http://dbpedia.org/resource/Brian_McDermott_(footballer)"	.
+<290762/rowId=12>	<290762/ground>	 "http://dbpedia.org/resource/Madejski_Stadium"	.
+<290762/rowId=12>	<290762/capacity>	 "24161"	.
+
+<290762/rowId=13>	rdf:type	q:290762	.
+<290762/rowId=13>	<290762/team>	 "http://dbpedia.org/resource/Southampton_F.C."	.
+<290762/rowId=13>	<290762/position>	 "The Championship, 2nd"	.
+<290762/rowId=13>	<290762/manager>	 "http://dbpedia.org/resource/Nigel_Adkins"	.
+<290762/rowId=13>	<290762/ground>	 "http://dbpedia.org/resource/St_Mary's_Stadium"	.
+<290762/rowId=13>	<290762/capacity>	 "32689"	.
+
+<290762/rowId=14>	rdf:type	q:290762	.
+<290762/rowId=14>	<290762/team>	 "http://dbpedia.org/resource/Stoke_City_F.C."	.
+<290762/rowId=14>	<290762/position>	 "Premier League, 14th"	.
+<290762/rowId=14>	<290762/manager>	 "http://dbpedia.org/resource/Tony_Pulis"	.
+<290762/rowId=14>	<290762/ground>	 "http://dbpedia.org/resource/Britannia_Stadium"	.
+<290762/rowId=14>	<290762/capacity>	 "27598"	.
+
+<290762/rowId=15>	rdf:type	q:290762	.
+<290762/rowId=15>	<290762/team>	 "http://dbpedia.org/resource/Sunderland_A.F.C."	.
+<290762/rowId=15>	<290762/position>	 "Premier League, 13th"	.
+<290762/rowId=15>	<290762/manager>	 "http://dbpedia.org/resource/Martin_O'Neill"	.
+<290762/rowId=15>	<290762/ground>	 "http://dbpedia.org/resource/Stadium_of_Light"	.
+<290762/rowId=15>	<290762/capacity>	 "49000"	.
+
+<290762/rowId=16>	rdf:type	q:290762	.
+<290762/rowId=16>	<290762/team>	 "http://dbpedia.org/resource/Swansea_City_A.F.C."	.
+<290762/rowId=16>	<290762/position>	 "Premier League, 11th"	.
+<290762/rowId=16>	<290762/manager>	 "Vacant"	.
+<290762/rowId=16>	<290762/ground>	 "http://dbpedia.org/resource/Liberty_Stadium,_Swansea"	.
+<290762/rowId=16>	<290762/capacity>	 "20532"	.
+
+<290762/rowId=17>	rdf:type	q:290762	.
+<290762/rowId=17>	<290762/team>	 "http://dbpedia.org/resource/Tottenham_Hotspur_F.C."	.
+<290762/rowId=17>	<290762/position>	 "Premier League, 4th"	.
+<290762/rowId=17>	<290762/manager>	 "http://dbpedia.org/resource/Harry_Redknapp"	.
+<290762/rowId=17>	<290762/ground>	 "http://dbpedia.org/resource/White_Hart_Lane"	.
+<290762/rowId=17>	<290762/capacity>	 "36230"	.
+
+<290762/rowId=18>	rdf:type	q:290762	.
+<290762/rowId=18>	<290762/team>	 "http://dbpedia.org/resource/West_Bromwich_Albion_F.C."	.
+<290762/rowId=18>	<290762/position>	 "Premier League, 10th"	.
+<290762/rowId=18>	<290762/manager>	 "Vacant"	.
+<290762/rowId=18>	<290762/ground>	 "http://dbpedia.org/resource/The_Hawthorns"	.
+<290762/rowId=18>	<290762/capacity>	 "26272"	.
+
+<290762/rowId=19>	rdf:type	q:290762	.
+<290762/rowId=19>	<290762/team>	 "http://dbpedia.org/resource/West_Ham_United_F.C."	.
+<290762/rowId=19>	<290762/position>	 "The Championship, 3rd"	.
+<290762/rowId=19>	<290762/manager>	 "http://dbpedia.org/resource/Sam_Allardyce"	.
+<290762/rowId=19>	<290762/ground>	 "http://dbpedia.org/resource/Boleyn_Ground"	.
+<290762/rowId=19>	<290762/capacity>	 "35333"	.
+<290762/rowId=19>	<290762/capacity2>	 "35016"	.
+
+<290762/rowId=20>	rdf:type	q:290762	.
+<290762/rowId=20>	<290762/team>	 "http://dbpedia.org/resource/Wigan_Athletic_F.C."	.
+<290762/rowId=20>	<290762/position>	 "Premier League, 15th"	.
+<290762/rowId=20>	<290762/manager>	 "http://dbpedia.org/resource/Roberto_Mart%C3%ADnez"	.
+<290762/rowId=20>	<290762/ground>	 "http://dbpedia.org/resource/DW_Stadium"	.
+<290762/rowId=20>	<290762/capacity>	 "25133"	.
+<290762/rowId=20>	<290762/capacity2>	 "25133"	.
+
+<290762>	q:QuerySPARQL	"SELECT ?team ?position ?manager ?ground ?capacity2 ?capacity
+WHERE {
+	?row <http://sparqlr.co.uk/IS/290762/team> ?team . 
+	OPTIONAL { ?row <http://sparqlr.co.uk/IS/290762/position> ?position . } .
+	OPTIONAL { ?row <http://sparqlr.co.uk/IS/290762/manager> ?manager . } .
+	OPTIONAL { ?row <http://sparqlr.co.uk/IS/290762/ground> ?ground . } .
+	OPTIONAL { ?row <http://sparqlr.co.uk/IS/290762/capacity2> ?capacity2 . } .
+	OPTIONAL { ?row <http://sparqlr.co.uk/IS/290762/capacity> ?capacity . } .
+}" . 
+

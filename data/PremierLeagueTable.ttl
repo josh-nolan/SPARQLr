@@ -1,0 +1,28 @@
+# RDF file for QUERY: PremierLeagueTable.ttl
+@base <http://sparqlr.co.uk/q/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> . 
+@prefix q: <http://sparqlr.co.uk/q/> . 
+<PremierLeagueTable>	q:QueryId	"PremierLeagueTable" . 
+<PremierLeagueTable>	q:Title	"Premier League Table" . 
+<PremierLeagueTable>	q:Endpoint	"http://dbpedia.org/sparql" . 
+<PremierLeagueTable>	q:Classification	"UserGeneratedContent" . 
+<PremierLeagueTable>	q:DateSaved	"1356525059" . 
+<PremierLeagueTable>	q:Description	"My first SPARQL, trying to recreate the premier league table - there are a few problems (duplicate entries, missing data, incorrect positions/managers) but it kinda works. Read up on how I did it here http://www.sparqlr.co.uk/blog/2012/09/26/my-first-sparql/" . 
+<PremierLeagueTable>	q:QuerySPARQL	"PREFIX dbpedia2: <http://dbpedia.org/property/>
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+SELECT ?team ?position ?manager ?ground ?capacity ?capacity2
+WHERE {
+?team <http://dbpedia.org/property/league> <http://dbpedia.org/resource/Premier_League> .
+?team <http://purl.org/dc/terms/subject> <http://dbpedia.org/resource/Category:Premier_League_clubs> .
+?team dbpedia2:position ?position .
+?team <http://dbpedia.org/ontology/ground> ?ground .
+?ground rdf:type <http://dbpedia.org/ontology/Stadium> .
+OPTIONAL {?ground dbpprop:seatingCapacity ?capacity .} 
+OPTIONAL {?ground dbpedia2:capacity ?capacity2 } .
+?team dbpprop:manager ?manager .
+}
+ORDER BY ?team" . 
+<PremierLeagueTable>	rdf:type	q:Query .
+<PremierLeagueTable>	q:Tag	"Football" . 
+<PremierLeagueTable>	q:Tag	"Premier League" . 
+<PremierLeagueTable>	q:Tag	"Soccer" . 

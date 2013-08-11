@@ -1,0 +1,14 @@
+# RDF file for 705405.ttl
+@base <http://sparqlr.co.uk/IS/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> . 
+@prefix q: <http://sparqlr.co.uk/q/> . 
+<705405>	rdf:type	q:ISQuery .
+<705405>	q:QueryId	"705405" . 
+<705405>	q:Title	"705405" . 
+<705405>	q:Endpoint	"http://sparqlr.co.uk/endpoint.php" . 
+<705405>	q:DateSaved	"1362671717" . 
+
+<705405>	q:QuerySPARQL	"SELECT
+WHERE {
+}" . 
+

@@ -1,0 +1,1322 @@
+# RDF file for vw_NumberofHouseholdsbyAuthorities.ttl
+@base <http://sparqlr.co.uk/q/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> . 
+@prefix q: <http://sparqlr.co.uk/q/> . 
+<vw_NumberofHouseholdsbyAuthorities>	rdf:type	q:View .
+<vw_NumberofHouseholdsbyAuthorities>	q:QueryId	"vw_NumberofHouseholdsbyAuthorities" . 
+<vw_NumberofHouseholdsbyAuthorities>	q:Title	"vw_NumberofHouseholdsbyAuthorities" . 
+<vw_NumberofHouseholdsbyAuthorities>	q:Endpoint	"http://sparqlr.co.uk/endpoint.php" . 
+<vw_NumberofHouseholdsbyAuthorities>	q:DateSaved	"1362914006" . 
+
+<vw_NumberofHouseholdsbyAuthorities>	q:ViewOfQuery	"NumberofHouseholdsbyAuthorities" . 
+
+<vw_NumberofHouseholdsbyAuthorities/rowId=0>	rdf:type	q:vw_NumberofHouseholdsbyAuthorities	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=0>	<vw_NumberofHouseholdsbyAuthorities/authority_name>	 "Adur"	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=0>	<vw_NumberofHouseholdsbyAuthorities/households>	 "27000"	.
+
+<vw_NumberofHouseholdsbyAuthorities/rowId=1>	rdf:type	q:vw_NumberofHouseholdsbyAuthorities	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=1>	<vw_NumberofHouseholdsbyAuthorities/authority_name>	 "Allerdale"	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=1>	<vw_NumberofHouseholdsbyAuthorities/households>	 "41000"	.
+
+<vw_NumberofHouseholdsbyAuthorities/rowId=2>	rdf:type	q:vw_NumberofHouseholdsbyAuthorities	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=2>	<vw_NumberofHouseholdsbyAuthorities/authority_name>	 "Amber Valley"	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=2>	<vw_NumberofHouseholdsbyAuthorities/households>	 "52000"	.
+
+<vw_NumberofHouseholdsbyAuthorities/rowId=3>	rdf:type	q:vw_NumberofHouseholdsbyAuthorities	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=3>	<vw_NumberofHouseholdsbyAuthorities/authority_name>	 "Arun"	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=3>	<vw_NumberofHouseholdsbyAuthorities/households>	 "68000"	.
+
+<vw_NumberofHouseholdsbyAuthorities/rowId=4>	rdf:type	q:vw_NumberofHouseholdsbyAuthorities	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=4>	<vw_NumberofHouseholdsbyAuthorities/authority_name>	 "Ashfield"	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=4>	<vw_NumberofHouseholdsbyAuthorities/households>	 "49000"	.
+
+<vw_NumberofHouseholdsbyAuthorities/rowId=5>	rdf:type	q:vw_NumberofHouseholdsbyAuthorities	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=5>	<vw_NumberofHouseholdsbyAuthorities/authority_name>	 "Ashford"	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=5>	<vw_NumberofHouseholdsbyAuthorities/households>	 "46000"	.
+
+<vw_NumberofHouseholdsbyAuthorities/rowId=6>	rdf:type	q:vw_NumberofHouseholdsbyAuthorities	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=6>	<vw_NumberofHouseholdsbyAuthorities/authority_name>	 "Aylesbury Vale"	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=6>	<vw_NumberofHouseholdsbyAuthorities/households>	 "69000"	.
+
+<vw_NumberofHouseholdsbyAuthorities/rowId=7>	rdf:type	q:vw_NumberofHouseholdsbyAuthorities	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=7>	<vw_NumberofHouseholdsbyAuthorities/authority_name>	 "Babergh"	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=7>	<vw_NumberofHouseholdsbyAuthorities/households>	 "37000"	.
+
+<vw_NumberofHouseholdsbyAuthorities/rowId=8>	rdf:type	q:vw_NumberofHouseholdsbyAuthorities	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=8>	<vw_NumberofHouseholdsbyAuthorities/authority_name>	 "Barking and Dagenham"	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=8>	<vw_NumberofHouseholdsbyAuthorities/households>	 "68000"	.
+
+<vw_NumberofHouseholdsbyAuthorities/rowId=9>	rdf:type	q:vw_NumberofHouseholdsbyAuthorities	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=9>	<vw_NumberofHouseholdsbyAuthorities/authority_name>	 "Barnet"	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=9>	<vw_NumberofHouseholdsbyAuthorities/households>	 "137000"	.
+
+<vw_NumberofHouseholdsbyAuthorities/rowId=10>	rdf:type	q:vw_NumberofHouseholdsbyAuthorities	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=10>	<vw_NumberofHouseholdsbyAuthorities/authority_name>	 "Barnsley"	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=10>	<vw_NumberofHouseholdsbyAuthorities/households>	 "96000"	.
+
+<vw_NumberofHouseholdsbyAuthorities/rowId=11>	rdf:type	q:vw_NumberofHouseholdsbyAuthorities	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=11>	<vw_NumberofHouseholdsbyAuthorities/authority_name>	 "Barrow-in-Furness"	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=11>	<vw_NumberofHouseholdsbyAuthorities/households>	 "31000"	.
+
+<vw_NumberofHouseholdsbyAuthorities/rowId=12>	rdf:type	q:vw_NumberofHouseholdsbyAuthorities	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=12>	<vw_NumberofHouseholdsbyAuthorities/authority_name>	 "Basildon"	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=12>	<vw_NumberofHouseholdsbyAuthorities/households>	 "74000"	.
+
+<vw_NumberofHouseholdsbyAuthorities/rowId=13>	rdf:type	q:vw_NumberofHouseholdsbyAuthorities	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=13>	<vw_NumberofHouseholdsbyAuthorities/authority_name>	 "Basingstoke and Deane"	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=13>	<vw_NumberofHouseholdsbyAuthorities/households>	 "67000"	.
+
+<vw_NumberofHouseholdsbyAuthorities/rowId=14>	rdf:type	q:vw_NumberofHouseholdsbyAuthorities	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=14>	<vw_NumberofHouseholdsbyAuthorities/authority_name>	 "Bassetlaw"	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=14>	<vw_NumberofHouseholdsbyAuthorities/households>	 "47000"	.
+
+<vw_NumberofHouseholdsbyAuthorities/rowId=15>	rdf:type	q:vw_NumberofHouseholdsbyAuthorities	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=15>	<vw_NumberofHouseholdsbyAuthorities/authority_name>	 "Bath and North East Somerset"	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=15>	<vw_NumberofHouseholdsbyAuthorities/households>	 "74000"	.
+
+<vw_NumberofHouseholdsbyAuthorities/rowId=16>	rdf:type	q:vw_NumberofHouseholdsbyAuthorities	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=16>	<vw_NumberofHouseholdsbyAuthorities/authority_name>	 "Bedford"	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=16>	<vw_NumberofHouseholdsbyAuthorities/households>	 "65000"	.
+
+<vw_NumberofHouseholdsbyAuthorities/rowId=17>	rdf:type	q:vw_NumberofHouseholdsbyAuthorities	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=17>	<vw_NumberofHouseholdsbyAuthorities/authority_name>	 "Bexley"	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=17>	<vw_NumberofHouseholdsbyAuthorities/households>	 "93000"	.
+
+<vw_NumberofHouseholdsbyAuthorities/rowId=18>	rdf:type	q:vw_NumberofHouseholdsbyAuthorities	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=18>	<vw_NumberofHouseholdsbyAuthorities/authority_name>	 "Birmingham"	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=18>	<vw_NumberofHouseholdsbyAuthorities/households>	 "406000"	.
+
+<vw_NumberofHouseholdsbyAuthorities/rowId=19>	rdf:type	q:vw_NumberofHouseholdsbyAuthorities	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=19>	<vw_NumberofHouseholdsbyAuthorities/authority_name>	 "Blaby"	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=19>	<vw_NumberofHouseholdsbyAuthorities/households>	 "38000"	.
+
+<vw_NumberofHouseholdsbyAuthorities/rowId=20>	rdf:type	q:vw_NumberofHouseholdsbyAuthorities	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=20>	<vw_NumberofHouseholdsbyAuthorities/authority_name>	 "Blackburn with Darwen"	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=20>	<vw_NumberofHouseholdsbyAuthorities/households>	 "54000"	.
+
+<vw_NumberofHouseholdsbyAuthorities/rowId=21>	rdf:type	q:vw_NumberofHouseholdsbyAuthorities	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=21>	<vw_NumberofHouseholdsbyAuthorities/authority_name>	 "Blackpool"	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=21>	<vw_NumberofHouseholdsbyAuthorities/households>	 "63000"	.
+
+<vw_NumberofHouseholdsbyAuthorities/rowId=22>	rdf:type	q:vw_NumberofHouseholdsbyAuthorities	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=22>	<vw_NumberofHouseholdsbyAuthorities/authority_name>	 "Bolsover"	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=22>	<vw_NumberofHouseholdsbyAuthorities/households>	 "32000"	.
+
+<vw_NumberofHouseholdsbyAuthorities/rowId=23>	rdf:type	q:vw_NumberofHouseholdsbyAuthorities	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=23>	<vw_NumberofHouseholdsbyAuthorities/authority_name>	 "Bolton"	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=23>	<vw_NumberofHouseholdsbyAuthorities/households>	 "111000"	.
+
+<vw_NumberofHouseholdsbyAuthorities/rowId=24>	rdf:type	q:vw_NumberofHouseholdsbyAuthorities	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=24>	<vw_NumberofHouseholdsbyAuthorities/authority_name>	 "Boston"	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=24>	<vw_NumberofHouseholdsbyAuthorities/households>	 "26000"	.
+
+<vw_NumberofHouseholdsbyAuthorities/rowId=25>	rdf:type	q:vw_NumberofHouseholdsbyAuthorities	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=25>	<vw_NumberofHouseholdsbyAuthorities/authority_name>	 "Bournemouth"	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=25>	<vw_NumberofHouseholdsbyAuthorities/households>	 "73000"	.
+
+<vw_NumberofHouseholdsbyAuthorities/rowId=26>	rdf:type	q:vw_NumberofHouseholdsbyAuthorities	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=26>	<vw_NumberofHouseholdsbyAuthorities/authority_name>	 "Bracknell Forest"	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=26>	<vw_NumberofHouseholdsbyAuthorities/households>	 "47000"	.
+
+<vw_NumberofHouseholdsbyAuthorities/rowId=27>	rdf:type	q:vw_NumberofHouseholdsbyAuthorities	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=27>	<vw_NumberofHouseholdsbyAuthorities/authority_name>	 "Bradford"	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=27>	<vw_NumberofHouseholdsbyAuthorities/households>	 "192000"	.
+
+<vw_NumberofHouseholdsbyAuthorities/rowId=28>	rdf:type	q:vw_NumberofHouseholdsbyAuthorities	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=28>	<vw_NumberofHouseholdsbyAuthorities/authority_name>	 "Braintree"	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=28>	<vw_NumberofHouseholdsbyAuthorities/households>	 "60000"	.
+
+<vw_NumberofHouseholdsbyAuthorities/rowId=29>	rdf:type	q:vw_NumberofHouseholdsbyAuthorities	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=29>	<vw_NumberofHouseholdsbyAuthorities/authority_name>	 "Breckland"	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=29>	<vw_NumberofHouseholdsbyAuthorities/households>	 "55000"	.
+
+<vw_NumberofHouseholdsbyAuthorities/rowId=30>	rdf:type	q:vw_NumberofHouseholdsbyAuthorities	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=30>	<vw_NumberofHouseholdsbyAuthorities/authority_name>	 "Brent"	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=30>	<vw_NumberofHouseholdsbyAuthorities/households>	 "98000"	.
+
+<vw_NumberofHouseholdsbyAuthorities/rowId=31>	rdf:type	q:vw_NumberofHouseholdsbyAuthorities	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=31>	<vw_NumberofHouseholdsbyAuthorities/authority_name>	 "Brentwood"	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=31>	<vw_NumberofHouseholdsbyAuthorities/households>	 "30000"	.
+
+<vw_NumberofHouseholdsbyAuthorities/rowId=32>	rdf:type	q:vw_NumberofHouseholdsbyAuthorities	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=32>	<vw_NumberofHouseholdsbyAuthorities/authority_name>	 "Brighton and Hove"	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=32>	<vw_NumberofHouseholdsbyAuthorities/households>	 "115000"	.
+
+<vw_NumberofHouseholdsbyAuthorities/rowId=33>	rdf:type	q:vw_NumberofHouseholdsbyAuthorities	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=33>	<vw_NumberofHouseholdsbyAuthorities/authority_name>	 "Bristol, City of"	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=33>	<vw_NumberofHouseholdsbyAuthorities/households>	 "184000"	.
+
+<vw_NumberofHouseholdsbyAuthorities/rowId=34>	rdf:type	q:vw_NumberofHouseholdsbyAuthorities	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=34>	<vw_NumberofHouseholdsbyAuthorities/authority_name>	 "Broadland"	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=34>	<vw_NumberofHouseholdsbyAuthorities/households>	 "53000"	.
+
+<vw_NumberofHouseholdsbyAuthorities/rowId=35>	rdf:type	q:vw_NumberofHouseholdsbyAuthorities	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=35>	<vw_NumberofHouseholdsbyAuthorities/authority_name>	 "Bromley"	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=35>	<vw_NumberofHouseholdsbyAuthorities/households>	 "133000"	.
+
+<vw_NumberofHouseholdsbyAuthorities/rowId=36>	rdf:type	q:vw_NumberofHouseholdsbyAuthorities	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=36>	<vw_NumberofHouseholdsbyAuthorities/authority_name>	 "Bromsgrove"	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=36>	<vw_NumberofHouseholdsbyAuthorities/households>	 "38000"	.
+
+<vw_NumberofHouseholdsbyAuthorities/rowId=37>	rdf:type	q:vw_NumberofHouseholdsbyAuthorities	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=37>	<vw_NumberofHouseholdsbyAuthorities/authority_name>	 "Broxbourne"	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=37>	<vw_NumberofHouseholdsbyAuthorities/households>	 "36000"	.
+
+<vw_NumberofHouseholdsbyAuthorities/rowId=38>	rdf:type	q:vw_NumberofHouseholdsbyAuthorities	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=38>	<vw_NumberofHouseholdsbyAuthorities/authority_name>	 "Broxtowe"	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=38>	<vw_NumberofHouseholdsbyAuthorities/households>	 "48000"	.
+
+<vw_NumberofHouseholdsbyAuthorities/rowId=39>	rdf:type	q:vw_NumberofHouseholdsbyAuthorities	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=39>	<vw_NumberofHouseholdsbyAuthorities/authority_name>	 "Burnley"	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=39>	<vw_NumberofHouseholdsbyAuthorities/households>	 "36000"	.
+
+<vw_NumberofHouseholdsbyAuthorities/rowId=40>	rdf:type	q:vw_NumberofHouseholdsbyAuthorities	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=40>	<vw_NumberofHouseholdsbyAuthorities/authority_name>	 "Bury"	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=40>	<vw_NumberofHouseholdsbyAuthorities/households>	 "76000"	.
+
+<vw_NumberofHouseholdsbyAuthorities/rowId=41>	rdf:type	q:vw_NumberofHouseholdsbyAuthorities	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=41>	<vw_NumberofHouseholdsbyAuthorities/authority_name>	 "Calderdale"	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=41>	<vw_NumberofHouseholdsbyAuthorities/households>	 "86000"	.
+
+<vw_NumberofHouseholdsbyAuthorities/rowId=42>	rdf:type	q:vw_NumberofHouseholdsbyAuthorities	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=42>	<vw_NumberofHouseholdsbyAuthorities/authority_name>	 "Cambridge"	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=42>	<vw_NumberofHouseholdsbyAuthorities/households>	 "45000"	.
+
+<vw_NumberofHouseholdsbyAuthorities/rowId=43>	rdf:type	q:vw_NumberofHouseholdsbyAuthorities	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=43>	<vw_NumberofHouseholdsbyAuthorities/authority_name>	 "Camden"	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=43>	<vw_NumberofHouseholdsbyAuthorities/households>	 "103000"	.
+
+<vw_NumberofHouseholdsbyAuthorities/rowId=44>	rdf:type	q:vw_NumberofHouseholdsbyAuthorities	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=44>	<vw_NumberofHouseholdsbyAuthorities/authority_name>	 "Cannock Chase"	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=44>	<vw_NumberofHouseholdsbyAuthorities/households>	 "39000"	.
+
+<vw_NumberofHouseholdsbyAuthorities/rowId=45>	rdf:type	q:vw_NumberofHouseholdsbyAuthorities	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=45>	<vw_NumberofHouseholdsbyAuthorities/authority_name>	 "Canterbury"	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=45>	<vw_NumberofHouseholdsbyAuthorities/households>	 "61000"	.
+
+<vw_NumberofHouseholdsbyAuthorities/rowId=46>	rdf:type	q:vw_NumberofHouseholdsbyAuthorities	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=46>	<vw_NumberofHouseholdsbyAuthorities/authority_name>	 "Carlisle"	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=46>	<vw_NumberofHouseholdsbyAuthorities/households>	 "47000"	.
+
+<vw_NumberofHouseholdsbyAuthorities/rowId=47>	rdf:type	q:vw_NumberofHouseholdsbyAuthorities	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=47>	<vw_NumberofHouseholdsbyAuthorities/authority_name>	 "Castle Point"	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=47>	<vw_NumberofHouseholdsbyAuthorities/households>	 "37000"	.
+
+<vw_NumberofHouseholdsbyAuthorities/rowId=48>	rdf:type	q:vw_NumberofHouseholdsbyAuthorities	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=48>	<vw_NumberofHouseholdsbyAuthorities/authority_name>	 "Central Bedfordshire"	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=48>	<vw_NumberofHouseholdsbyAuthorities/households>	 "104000"	.
+
+<vw_NumberofHouseholdsbyAuthorities/rowId=49>	rdf:type	q:vw_NumberofHouseholdsbyAuthorities	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=49>	<vw_NumberofHouseholdsbyAuthorities/authority_name>	 "Charnwood"	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=49>	<vw_NumberofHouseholdsbyAuthorities/households>	 "65000"	.
+
+<vw_NumberofHouseholdsbyAuthorities/rowId=50>	rdf:type	q:vw_NumberofHouseholdsbyAuthorities	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=50>	<vw_NumberofHouseholdsbyAuthorities/authority_name>	 "Chelmsford"	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=50>	<vw_NumberofHouseholdsbyAuthorities/households>	 "70000"	.
+
+<vw_NumberofHouseholdsbyAuthorities/rowId=51>	rdf:type	q:vw_NumberofHouseholdsbyAuthorities	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=51>	<vw_NumberofHouseholdsbyAuthorities/authority_name>	 "Cheltenham"	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=51>	<vw_NumberofHouseholdsbyAuthorities/households>	 "50000"	.
+
+<vw_NumberofHouseholdsbyAuthorities/rowId=52>	rdf:type	q:vw_NumberofHouseholdsbyAuthorities	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=52>	<vw_NumberofHouseholdsbyAuthorities/authority_name>	 "Cherwell"	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=52>	<vw_NumberofHouseholdsbyAuthorities/households>	 "57000"	.
+
+<vw_NumberofHouseholdsbyAuthorities/rowId=53>	rdf:type	q:vw_NumberofHouseholdsbyAuthorities	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=53>	<vw_NumberofHouseholdsbyAuthorities/authority_name>	 "Cheshire East"	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=53>	<vw_NumberofHouseholdsbyAuthorities/households>	 "155000"	.
+
+<vw_NumberofHouseholdsbyAuthorities/rowId=54>	rdf:type	q:vw_NumberofHouseholdsbyAuthorities	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=54>	<vw_NumberofHouseholdsbyAuthorities/authority_name>	 "Cheshire West and Chester"	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=54>	<vw_NumberofHouseholdsbyAuthorities/households>	 "137000"	.
+
+<vw_NumberofHouseholdsbyAuthorities/rowId=55>	rdf:type	q:vw_NumberofHouseholdsbyAuthorities	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=55>	<vw_NumberofHouseholdsbyAuthorities/authority_name>	 "Chesterfield"	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=55>	<vw_NumberofHouseholdsbyAuthorities/households>	 "45000"	.
+
+<vw_NumberofHouseholdsbyAuthorities/rowId=56>	rdf:type	q:vw_NumberofHouseholdsbyAuthorities	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=56>	<vw_NumberofHouseholdsbyAuthorities/authority_name>	 "Chichester"	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=56>	<vw_NumberofHouseholdsbyAuthorities/households>	 "49000"	.
+
+<vw_NumberofHouseholdsbyAuthorities/rowId=57>	rdf:type	q:vw_NumberofHouseholdsbyAuthorities	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=57>	<vw_NumberofHouseholdsbyAuthorities/authority_name>	 "Chiltern"	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=57>	<vw_NumberofHouseholdsbyAuthorities/households>	 "36000"	.
+
+<vw_NumberofHouseholdsbyAuthorities/rowId=58>	rdf:type	q:vw_NumberofHouseholdsbyAuthorities	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=58>	<vw_NumberofHouseholdsbyAuthorities/authority_name>	 "Chorley"	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=58>	<vw_NumberofHouseholdsbyAuthorities/households>	 "44000"	.
+
+<vw_NumberofHouseholdsbyAuthorities/rowId=59>	rdf:type	q:vw_NumberofHouseholdsbyAuthorities	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=59>	<vw_NumberofHouseholdsbyAuthorities/authority_name>	 "Christchurch"	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=59>	<vw_NumberofHouseholdsbyAuthorities/households>	 "21000"	.
+
+<vw_NumberofHouseholdsbyAuthorities/rowId=60>	rdf:type	q:vw_NumberofHouseholdsbyAuthorities	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=60>	<vw_NumberofHouseholdsbyAuthorities/authority_name>	 "City of London"	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=60>	<vw_NumberofHouseholdsbyAuthorities/households>	 "7000"	.
+
+<vw_NumberofHouseholdsbyAuthorities/rowId=61>	rdf:type	q:vw_NumberofHouseholdsbyAuthorities	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=61>	<vw_NumberofHouseholdsbyAuthorities/authority_name>	 "Colchester"	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=61>	<vw_NumberofHouseholdsbyAuthorities/households>	 "72000"	.
+
+<vw_NumberofHouseholdsbyAuthorities/rowId=62>	rdf:type	q:vw_NumberofHouseholdsbyAuthorities	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=62>	<vw_NumberofHouseholdsbyAuthorities/authority_name>	 "Copeland"	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=62>	<vw_NumberofHouseholdsbyAuthorities/households>	 "31000"	.
+
+<vw_NumberofHouseholdsbyAuthorities/rowId=63>	rdf:type	q:vw_NumberofHouseholdsbyAuthorities	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=63>	<vw_NumberofHouseholdsbyAuthorities/authority_name>	 "Corby"	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=63>	<vw_NumberofHouseholdsbyAuthorities/households>	 "23000"	.
+
+<vw_NumberofHouseholdsbyAuthorities/rowId=64>	rdf:type	q:vw_NumberofHouseholdsbyAuthorities	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=64>	<vw_NumberofHouseholdsbyAuthorities/authority_name>	 "Cornwall"	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=64>	<vw_NumberofHouseholdsbyAuthorities/households>	 "232000"	.
+
+<vw_NumberofHouseholdsbyAuthorities/rowId=65>	rdf:type	q:vw_NumberofHouseholdsbyAuthorities	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=65>	<vw_NumberofHouseholdsbyAuthorities/authority_name>	 "Cotswold"	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=65>	<vw_NumberofHouseholdsbyAuthorities/households>	 "36000"	.
+
+<vw_NumberofHouseholdsbyAuthorities/rowId=66>	rdf:type	q:vw_NumberofHouseholdsbyAuthorities	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=66>	<vw_NumberofHouseholdsbyAuthorities/authority_name>	 "County Durham"	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=66>	<vw_NumberofHouseholdsbyAuthorities/households>	 "216000"	.
+
+<vw_NumberofHouseholdsbyAuthorities/rowId=67>	rdf:type	q:vw_NumberofHouseholdsbyAuthorities	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=67>	<vw_NumberofHouseholdsbyAuthorities/authority_name>	 "Coventry"	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=67>	<vw_NumberofHouseholdsbyAuthorities/households>	 "127000"	.
+
+<vw_NumberofHouseholdsbyAuthorities/rowId=68>	rdf:type	q:vw_NumberofHouseholdsbyAuthorities	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=68>	<vw_NumberofHouseholdsbyAuthorities/authority_name>	 "Craven"	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=68>	<vw_NumberofHouseholdsbyAuthorities/households>	 "24000"	.
+
+<vw_NumberofHouseholdsbyAuthorities/rowId=69>	rdf:type	q:vw_NumberofHouseholdsbyAuthorities	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=69>	<vw_NumberofHouseholdsbyAuthorities/authority_name>	 "Crawley"	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=69>	<vw_NumberofHouseholdsbyAuthorities/households>	 "43000"	.
+
+<vw_NumberofHouseholdsbyAuthorities/rowId=70>	rdf:type	q:vw_NumberofHouseholdsbyAuthorities	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=70>	<vw_NumberofHouseholdsbyAuthorities/authority_name>	 "Croydon"	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=70>	<vw_NumberofHouseholdsbyAuthorities/households>	 "146000"	.
+
+<vw_NumberofHouseholdsbyAuthorities/rowId=71>	rdf:type	q:vw_NumberofHouseholdsbyAuthorities	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=71>	<vw_NumberofHouseholdsbyAuthorities/authority_name>	 "Dacorum"	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=71>	<vw_NumberofHouseholdsbyAuthorities/households>	 "58000"	.
+
+<vw_NumberofHouseholdsbyAuthorities/rowId=72>	rdf:type	q:vw_NumberofHouseholdsbyAuthorities	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=72>	<vw_NumberofHouseholdsbyAuthorities/authority_name>	 "Darlington"	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=72>	<vw_NumberofHouseholdsbyAuthorities/households>	 "44000"	.
+
+<vw_NumberofHouseholdsbyAuthorities/rowId=73>	rdf:type	q:vw_NumberofHouseholdsbyAuthorities	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=73>	<vw_NumberofHouseholdsbyAuthorities/authority_name>	 "Dartford"	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=73>	<vw_NumberofHouseholdsbyAuthorities/households>	 "39000"	.
+
+<vw_NumberofHouseholdsbyAuthorities/rowId=74>	rdf:type	q:vw_NumberofHouseholdsbyAuthorities	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=74>	<vw_NumberofHouseholdsbyAuthorities/authority_name>	 "Daventry"	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=74>	<vw_NumberofHouseholdsbyAuthorities/households>	 "32000"	.
+
+<vw_NumberofHouseholdsbyAuthorities/rowId=75>	rdf:type	q:vw_NumberofHouseholdsbyAuthorities	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=75>	<vw_NumberofHouseholdsbyAuthorities/authority_name>	 "Derby"	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=75>	<vw_NumberofHouseholdsbyAuthorities/households>	 "102000"	.
+
+<vw_NumberofHouseholdsbyAuthorities/rowId=76>	rdf:type	q:vw_NumberofHouseholdsbyAuthorities	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=76>	<vw_NumberofHouseholdsbyAuthorities/authority_name>	 "Derbyshire Dales"	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=76>	<vw_NumberofHouseholdsbyAuthorities/households>	 "30000"	.
+
+<vw_NumberofHouseholdsbyAuthorities/rowId=77>	rdf:type	q:vw_NumberofHouseholdsbyAuthorities	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=77>	<vw_NumberofHouseholdsbyAuthorities/authority_name>	 "Doncaster"	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=77>	<vw_NumberofHouseholdsbyAuthorities/households>	 "122000"	.
+
+<vw_NumberofHouseholdsbyAuthorities/rowId=78>	rdf:type	q:vw_NumberofHouseholdsbyAuthorities	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=78>	<vw_NumberofHouseholdsbyAuthorities/authority_name>	 "Dover"	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=78>	<vw_NumberofHouseholdsbyAuthorities/households>	 "46000"	.
+
+<vw_NumberofHouseholdsbyAuthorities/rowId=79>	rdf:type	q:vw_NumberofHouseholdsbyAuthorities	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=79>	<vw_NumberofHouseholdsbyAuthorities/authority_name>	 "Dudley"	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=79>	<vw_NumberofHouseholdsbyAuthorities/households>	 "127000"	.
+
+<vw_NumberofHouseholdsbyAuthorities/rowId=80>	rdf:type	q:vw_NumberofHouseholdsbyAuthorities	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=80>	<vw_NumberofHouseholdsbyAuthorities/authority_name>	 "Ealing"	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=80>	<vw_NumberofHouseholdsbyAuthorities/households>	 "124000"	.
+
+<vw_NumberofHouseholdsbyAuthorities/rowId=81>	rdf:type	q:vw_NumberofHouseholdsbyAuthorities	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=81>	<vw_NumberofHouseholdsbyAuthorities/authority_name>	 "East Cambridgeshire"	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=81>	<vw_NumberofHouseholdsbyAuthorities/households>	 "34000"	.
+
+<vw_NumberofHouseholdsbyAuthorities/rowId=82>	rdf:type	q:vw_NumberofHouseholdsbyAuthorities	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=82>	<vw_NumberofHouseholdsbyAuthorities/authority_name>	 "East Devon"	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=82>	<vw_NumberofHouseholdsbyAuthorities/households>	 "59000"	.
+
+<vw_NumberofHouseholdsbyAuthorities/rowId=83>	rdf:type	q:vw_NumberofHouseholdsbyAuthorities	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=83>	<vw_NumberofHouseholdsbyAuthorities/authority_name>	 "East Dorset"	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=83>	<vw_NumberofHouseholdsbyAuthorities/households>	 "38000"	.
+
+<vw_NumberofHouseholdsbyAuthorities/rowId=84>	rdf:type	q:vw_NumberofHouseholdsbyAuthorities	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=84>	<vw_NumberofHouseholdsbyAuthorities/authority_name>	 "East Hampshire"	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=84>	<vw_NumberofHouseholdsbyAuthorities/households>	 "45000"	.
+
+<vw_NumberofHouseholdsbyAuthorities/rowId=85>	rdf:type	q:vw_NumberofHouseholdsbyAuthorities	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=85>	<vw_NumberofHouseholdsbyAuthorities/authority_name>	 "East Hertfordshire"	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=85>	<vw_NumberofHouseholdsbyAuthorities/households>	 "56000"	.
+
+<vw_NumberofHouseholdsbyAuthorities/rowId=86>	rdf:type	q:vw_NumberofHouseholdsbyAuthorities	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=86>	<vw_NumberofHouseholdsbyAuthorities/authority_name>	 "East Lindsey"	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=86>	<vw_NumberofHouseholdsbyAuthorities/households>	 "62000"	.
+
+<vw_NumberofHouseholdsbyAuthorities/rowId=87>	rdf:type	q:vw_NumberofHouseholdsbyAuthorities	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=87>	<vw_NumberofHouseholdsbyAuthorities/authority_name>	 "East Northamptonshire"	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=87>	<vw_NumberofHouseholdsbyAuthorities/households>	 "35000"	.
+
+<vw_NumberofHouseholdsbyAuthorities/rowId=88>	rdf:type	q:vw_NumberofHouseholdsbyAuthorities	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=88>	<vw_NumberofHouseholdsbyAuthorities/authority_name>	 "East Riding of Yorkshire"	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=88>	<vw_NumberofHouseholdsbyAuthorities/households>	 "144000"	.
+
+<vw_NumberofHouseholdsbyAuthorities/rowId=89>	rdf:type	q:vw_NumberofHouseholdsbyAuthorities	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=89>	<vw_NumberofHouseholdsbyAuthorities/authority_name>	 "East Staffordshire"	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=89>	<vw_NumberofHouseholdsbyAuthorities/households>	 "45000"	.
+
+<vw_NumberofHouseholdsbyAuthorities/rowId=90>	rdf:type	q:vw_NumberofHouseholdsbyAuthorities	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=90>	<vw_NumberofHouseholdsbyAuthorities/authority_name>	 "Eastbourne"	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=90>	<vw_NumberofHouseholdsbyAuthorities/households>	 "44000"	.
+
+<vw_NumberofHouseholdsbyAuthorities/rowId=91>	rdf:type	q:vw_NumberofHouseholdsbyAuthorities	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=91>	<vw_NumberofHouseholdsbyAuthorities/authority_name>	 "Eastleigh"	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=91>	<vw_NumberofHouseholdsbyAuthorities/households>	 "50000"	.
+
+<vw_NumberofHouseholdsbyAuthorities/rowId=92>	rdf:type	q:vw_NumberofHouseholdsbyAuthorities	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=92>	<vw_NumberofHouseholdsbyAuthorities/authority_name>	 "Eden"	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=92>	<vw_NumberofHouseholdsbyAuthorities/households>	 "23000"	.
+
+<vw_NumberofHouseholdsbyAuthorities/rowId=93>	rdf:type	q:vw_NumberofHouseholdsbyAuthorities	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=93>	<vw_NumberofHouseholdsbyAuthorities/authority_name>	 "Elmbridge"	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=93>	<vw_NumberofHouseholdsbyAuthorities/households>	 "54000"	.
+
+<vw_NumberofHouseholdsbyAuthorities/rowId=94>	rdf:type	q:vw_NumberofHouseholdsbyAuthorities	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=94>	<vw_NumberofHouseholdsbyAuthorities/authority_name>	 "Enfield"	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=94>	<vw_NumberofHouseholdsbyAuthorities/households>	 "117000"	.
+
+<vw_NumberofHouseholdsbyAuthorities/rowId=95>	rdf:type	q:vw_NumberofHouseholdsbyAuthorities	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=95>	<vw_NumberofHouseholdsbyAuthorities/authority_name>	 "Epping Forest"	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=95>	<vw_NumberofHouseholdsbyAuthorities/households>	 "52000"	.
+
+<vw_NumberofHouseholdsbyAuthorities/rowId=96>	rdf:type	q:vw_NumberofHouseholdsbyAuthorities	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=96>	<vw_NumberofHouseholdsbyAuthorities/authority_name>	 "Epsom and Ewell"	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=96>	<vw_NumberofHouseholdsbyAuthorities/households>	 "29000"	.
+
+<vw_NumberofHouseholdsbyAuthorities/rowId=97>	rdf:type	q:vw_NumberofHouseholdsbyAuthorities	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=97>	<vw_NumberofHouseholdsbyAuthorities/authority_name>	 "Erewash"	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=97>	<vw_NumberofHouseholdsbyAuthorities/households>	 "48000"	.
+
+<vw_NumberofHouseholdsbyAuthorities/rowId=98>	rdf:type	q:vw_NumberofHouseholdsbyAuthorities	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=98>	<vw_NumberofHouseholdsbyAuthorities/authority_name>	 "Exeter"	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=98>	<vw_NumberofHouseholdsbyAuthorities/households>	 "51000"	.
+
+<vw_NumberofHouseholdsbyAuthorities/rowId=99>	rdf:type	q:vw_NumberofHouseholdsbyAuthorities	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=99>	<vw_NumberofHouseholdsbyAuthorities/authority_name>	 "Fareham"	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=99>	<vw_NumberofHouseholdsbyAuthorities/households>	 "46000"	.
+
+<vw_NumberofHouseholdsbyAuthorities/rowId=100>	rdf:type	q:vw_NumberofHouseholdsbyAuthorities	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=100>	<vw_NumberofHouseholdsbyAuthorities/authority_name>	 "Fenland"	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=100>	<vw_NumberofHouseholdsbyAuthorities/households>	 "39000"	.
+
+<vw_NumberofHouseholdsbyAuthorities/rowId=101>	rdf:type	q:vw_NumberofHouseholdsbyAuthorities	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=101>	<vw_NumberofHouseholdsbyAuthorities/authority_name>	 "Forest Heath"	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=101>	<vw_NumberofHouseholdsbyAuthorities/households>	 "25000"	.
+
+<vw_NumberofHouseholdsbyAuthorities/rowId=102>	rdf:type	q:vw_NumberofHouseholdsbyAuthorities	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=102>	<vw_NumberofHouseholdsbyAuthorities/authority_name>	 "Forest of Dean"	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=102>	<vw_NumberofHouseholdsbyAuthorities/households>	 "34000"	.
+
+<vw_NumberofHouseholdsbyAuthorities/rowId=103>	rdf:type	q:vw_NumberofHouseholdsbyAuthorities	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=103>	<vw_NumberofHouseholdsbyAuthorities/authority_name>	 "Fylde"	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=103>	<vw_NumberofHouseholdsbyAuthorities/households>	 "35000"	.
+
+<vw_NumberofHouseholdsbyAuthorities/rowId=104>	rdf:type	q:vw_NumberofHouseholdsbyAuthorities	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=104>	<vw_NumberofHouseholdsbyAuthorities/authority_name>	 "Gateshead"	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=104>	<vw_NumberofHouseholdsbyAuthorities/households>	 "85000"	.
+
+<vw_NumberofHouseholdsbyAuthorities/rowId=105>	rdf:type	q:vw_NumberofHouseholdsbyAuthorities	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=105>	<vw_NumberofHouseholdsbyAuthorities/authority_name>	 "Gedling"	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=105>	<vw_NumberofHouseholdsbyAuthorities/households>	 "49000"	.
+
+<vw_NumberofHouseholdsbyAuthorities/rowId=106>	rdf:type	q:vw_NumberofHouseholdsbyAuthorities	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=106>	<vw_NumberofHouseholdsbyAuthorities/authority_name>	 "Gloucester"	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=106>	<vw_NumberofHouseholdsbyAuthorities/households>	 "50000"	.
+
+<vw_NumberofHouseholdsbyAuthorities/rowId=107>	rdf:type	q:vw_NumberofHouseholdsbyAuthorities	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=107>	<vw_NumberofHouseholdsbyAuthorities/authority_name>	 "Gosport"	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=107>	<vw_NumberofHouseholdsbyAuthorities/households>	 "34000"	.
+
+<vw_NumberofHouseholdsbyAuthorities/rowId=108>	rdf:type	q:vw_NumberofHouseholdsbyAuthorities	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=108>	<vw_NumberofHouseholdsbyAuthorities/authority_name>	 "Gravesham"	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=108>	<vw_NumberofHouseholdsbyAuthorities/households>	 "40000"	.
+
+<vw_NumberofHouseholdsbyAuthorities/rowId=109>	rdf:type	q:vw_NumberofHouseholdsbyAuthorities	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=109>	<vw_NumberofHouseholdsbyAuthorities/authority_name>	 "Great Yarmouth"	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=109>	<vw_NumberofHouseholdsbyAuthorities/households>	 "42000"	.
+
+<vw_NumberofHouseholdsbyAuthorities/rowId=110>	rdf:type	q:vw_NumberofHouseholdsbyAuthorities	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=110>	<vw_NumberofHouseholdsbyAuthorities/authority_name>	 "Greenwich"	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=110>	<vw_NumberofHouseholdsbyAuthorities/households>	 "97000"	.
+
+<vw_NumberofHouseholdsbyAuthorities/rowId=111>	rdf:type	q:vw_NumberofHouseholdsbyAuthorities	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=111>	<vw_NumberofHouseholdsbyAuthorities/authority_name>	 "Guildford"	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=111>	<vw_NumberofHouseholdsbyAuthorities/households>	 "54000"	.
+
+<vw_NumberofHouseholdsbyAuthorities/rowId=112>	rdf:type	q:vw_NumberofHouseholdsbyAuthorities	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=112>	<vw_NumberofHouseholdsbyAuthorities/authority_name>	 "Hackney"	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=112>	<vw_NumberofHouseholdsbyAuthorities/households>	 "90000"	.
+
+<vw_NumberofHouseholdsbyAuthorities/rowId=113>	rdf:type	q:vw_NumberofHouseholdsbyAuthorities	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=113>	<vw_NumberofHouseholdsbyAuthorities/authority_name>	 "Halton"	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=113>	<vw_NumberofHouseholdsbyAuthorities/households>	 "49000"	.
+
+<vw_NumberofHouseholdsbyAuthorities/rowId=114>	rdf:type	q:vw_NumberofHouseholdsbyAuthorities	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=114>	<vw_NumberofHouseholdsbyAuthorities/authority_name>	 "Hambleton"	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=114>	<vw_NumberofHouseholdsbyAuthorities/households>	 "37000"	.
+
+<vw_NumberofHouseholdsbyAuthorities/rowId=115>	rdf:type	q:vw_NumberofHouseholdsbyAuthorities	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=115>	<vw_NumberofHouseholdsbyAuthorities/authority_name>	 "Hammersmith and Fulham"	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=115>	<vw_NumberofHouseholdsbyAuthorities/households>	 "76000"	.
+
+<vw_NumberofHouseholdsbyAuthorities/rowId=116>	rdf:type	q:vw_NumberofHouseholdsbyAuthorities	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=116>	<vw_NumberofHouseholdsbyAuthorities/authority_name>	 "Harborough"	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=116>	<vw_NumberofHouseholdsbyAuthorities/households>	 "34000"	.
+
+<vw_NumberofHouseholdsbyAuthorities/rowId=117>	rdf:type	q:vw_NumberofHouseholdsbyAuthorities	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=117>	<vw_NumberofHouseholdsbyAuthorities/authority_name>	 "Haringey"	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=117>	<vw_NumberofHouseholdsbyAuthorities/households>	 "98000"	.
+
+<vw_NumberofHouseholdsbyAuthorities/rowId=118>	rdf:type	q:vw_NumberofHouseholdsbyAuthorities	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=118>	<vw_NumberofHouseholdsbyAuthorities/authority_name>	 "Harlow"	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=118>	<vw_NumberofHouseholdsbyAuthorities/households>	 "35000"	.
+
+<vw_NumberofHouseholdsbyAuthorities/rowId=119>	rdf:type	q:vw_NumberofHouseholdsbyAuthorities	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=119>	<vw_NumberofHouseholdsbyAuthorities/authority_name>	 "Harrogate"	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=119>	<vw_NumberofHouseholdsbyAuthorities/households>	 "67000"	.
+
+<vw_NumberofHouseholdsbyAuthorities/rowId=120>	rdf:type	q:vw_NumberofHouseholdsbyAuthorities	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=120>	<vw_NumberofHouseholdsbyAuthorities/authority_name>	 "Harrow"	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=120>	<vw_NumberofHouseholdsbyAuthorities/households>	 "86000"	.
+
+<vw_NumberofHouseholdsbyAuthorities/rowId=121>	rdf:type	q:vw_NumberofHouseholdsbyAuthorities	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=121>	<vw_NumberofHouseholdsbyAuthorities/authority_name>	 "Hart"	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=121>	<vw_NumberofHouseholdsbyAuthorities/households>	 "36000"	.
+
+<vw_NumberofHouseholdsbyAuthorities/rowId=122>	rdf:type	q:vw_NumberofHouseholdsbyAuthorities	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=122>	<vw_NumberofHouseholdsbyAuthorities/authority_name>	 "Hartlepool"	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=122>	<vw_NumberofHouseholdsbyAuthorities/households>	 "39000"	.
+
+<vw_NumberofHouseholdsbyAuthorities/rowId=123>	rdf:type	q:vw_NumberofHouseholdsbyAuthorities	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=123>	<vw_NumberofHouseholdsbyAuthorities/authority_name>	 "Hastings"	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=123>	<vw_NumberofHouseholdsbyAuthorities/households>	 "39000"	.
+
+<vw_NumberofHouseholdsbyAuthorities/rowId=124>	rdf:type	q:vw_NumberofHouseholdsbyAuthorities	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=124>	<vw_NumberofHouseholdsbyAuthorities/authority_name>	 "Havant"	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=124>	<vw_NumberofHouseholdsbyAuthorities/households>	 "50000"	.
+
+<vw_NumberofHouseholdsbyAuthorities/rowId=125>	rdf:type	q:vw_NumberofHouseholdsbyAuthorities	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=125>	<vw_NumberofHouseholdsbyAuthorities/authority_name>	 "Havering"	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=125>	<vw_NumberofHouseholdsbyAuthorities/households>	 "96000"	.
+
+<vw_NumberofHouseholdsbyAuthorities/rowId=126>	rdf:type	q:vw_NumberofHouseholdsbyAuthorities	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=126>	<vw_NumberofHouseholdsbyAuthorities/authority_name>	 "Herefordshire, County of"	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=126>	<vw_NumberofHouseholdsbyAuthorities/households>	 "78000"	.
+
+<vw_NumberofHouseholdsbyAuthorities/rowId=127>	rdf:type	q:vw_NumberofHouseholdsbyAuthorities	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=127>	<vw_NumberofHouseholdsbyAuthorities/authority_name>	 "Hertsmere"	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=127>	<vw_NumberofHouseholdsbyAuthorities/households>	 "40000"	.
+
+<vw_NumberofHouseholdsbyAuthorities/rowId=128>	rdf:type	q:vw_NumberofHouseholdsbyAuthorities	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=128>	<vw_NumberofHouseholdsbyAuthorities/authority_name>	 "High Peak"	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=128>	<vw_NumberofHouseholdsbyAuthorities/households>	 "39000"	.
+
+<vw_NumberofHouseholdsbyAuthorities/rowId=129>	rdf:type	q:vw_NumberofHouseholdsbyAuthorities	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=129>	<vw_NumberofHouseholdsbyAuthorities/authority_name>	 "Hillingdon"	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=129>	<vw_NumberofHouseholdsbyAuthorities/households>	 "102000"	.
+
+<vw_NumberofHouseholdsbyAuthorities/rowId=130>	rdf:type	q:vw_NumberofHouseholdsbyAuthorities	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=130>	<vw_NumberofHouseholdsbyAuthorities/authority_name>	 "Hinckley and Bosworth"	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=130>	<vw_NumberofHouseholdsbyAuthorities/households>	 "44000"	.
+
+<vw_NumberofHouseholdsbyAuthorities/rowId=131>	rdf:type	q:vw_NumberofHouseholdsbyAuthorities	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=131>	<vw_NumberofHouseholdsbyAuthorities/authority_name>	 "Horsham"	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=131>	<vw_NumberofHouseholdsbyAuthorities/households>	 "54000"	.
+
+<vw_NumberofHouseholdsbyAuthorities/rowId=132>	rdf:type	q:vw_NumberofHouseholdsbyAuthorities	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=132>	<vw_NumberofHouseholdsbyAuthorities/authority_name>	 "Hounslow"	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=132>	<vw_NumberofHouseholdsbyAuthorities/households>	 "92000"	.
+
+<vw_NumberofHouseholdsbyAuthorities/rowId=133>	rdf:type	q:vw_NumberofHouseholdsbyAuthorities	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=133>	<vw_NumberofHouseholdsbyAuthorities/authority_name>	 "Huntingdonshire"	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=133>	<vw_NumberofHouseholdsbyAuthorities/households>	 "69000"	.
+
+<vw_NumberofHouseholdsbyAuthorities/rowId=134>	rdf:type	q:vw_NumberofHouseholdsbyAuthorities	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=134>	<vw_NumberofHouseholdsbyAuthorities/authority_name>	 "Hyndburn"	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=134>	<vw_NumberofHouseholdsbyAuthorities/households>	 "33000"	.
+
+<vw_NumberofHouseholdsbyAuthorities/rowId=135>	rdf:type	q:vw_NumberofHouseholdsbyAuthorities	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=135>	<vw_NumberofHouseholdsbyAuthorities/authority_name>	 "Ipswich"	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=135>	<vw_NumberofHouseholdsbyAuthorities/households>	 "55000"	.
+
+<vw_NumberofHouseholdsbyAuthorities/rowId=136>	rdf:type	q:vw_NumberofHouseholdsbyAuthorities	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=136>	<vw_NumberofHouseholdsbyAuthorities/authority_name>	 "Isle of Wight"	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=136>	<vw_NumberofHouseholdsbyAuthorities/households>	 "62000"	.
+
+<vw_NumberofHouseholdsbyAuthorities/rowId=137>	rdf:type	q:vw_NumberofHouseholdsbyAuthorities	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=137>	<vw_NumberofHouseholdsbyAuthorities/authority_name>	 "Isles of Scilly"	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=137>	<vw_NumberofHouseholdsbyAuthorities/households>	 "1000"	.
+
+<vw_NumberofHouseholdsbyAuthorities/rowId=138>	rdf:type	q:vw_NumberofHouseholdsbyAuthorities	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=138>	<vw_NumberofHouseholdsbyAuthorities/authority_name>	 "Islington"	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=138>	<vw_NumberofHouseholdsbyAuthorities/households>	 "87000"	.
+
+<vw_NumberofHouseholdsbyAuthorities/rowId=139>	rdf:type	q:vw_NumberofHouseholdsbyAuthorities	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=139>	<vw_NumberofHouseholdsbyAuthorities/authority_name>	 "Kensington and Chelsea"	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=139>	<vw_NumberofHouseholdsbyAuthorities/households>	 "85000"	.
+
+<vw_NumberofHouseholdsbyAuthorities/rowId=140>	rdf:type	q:vw_NumberofHouseholdsbyAuthorities	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=140>	<vw_NumberofHouseholdsbyAuthorities/authority_name>	 "Kettering"	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=140>	<vw_NumberofHouseholdsbyAuthorities/households>	 "38000"	.
+
+<vw_NumberofHouseholdsbyAuthorities/rowId=141>	rdf:type	q:vw_NumberofHouseholdsbyAuthorities	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=141>	<vw_NumberofHouseholdsbyAuthorities/authority_name>	 "King's Lynn and West Norfolk"	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=141>	<vw_NumberofHouseholdsbyAuthorities/households>	 "62000"	.
+
+<vw_NumberofHouseholdsbyAuthorities/rowId=142>	rdf:type	q:vw_NumberofHouseholdsbyAuthorities	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=142>	<vw_NumberofHouseholdsbyAuthorities/authority_name>	 "Kingston upon Hull, City of"	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=142>	<vw_NumberofHouseholdsbyAuthorities/households>	 "115000"	.
+
+<vw_NumberofHouseholdsbyAuthorities/rowId=143>	rdf:type	q:vw_NumberofHouseholdsbyAuthorities	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=143>	<vw_NumberofHouseholdsbyAuthorities/authority_name>	 "Kingston upon Thames"	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=143>	<vw_NumberofHouseholdsbyAuthorities/households>	 "68000"	.
+
+<vw_NumberofHouseholdsbyAuthorities/rowId=144>	rdf:type	q:vw_NumberofHouseholdsbyAuthorities	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=144>	<vw_NumberofHouseholdsbyAuthorities/authority_name>	 "Kirklees"	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=144>	<vw_NumberofHouseholdsbyAuthorities/households>	 "167000"	.
+
+<vw_NumberofHouseholdsbyAuthorities/rowId=145>	rdf:type	q:vw_NumberofHouseholdsbyAuthorities	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=145>	<vw_NumberofHouseholdsbyAuthorities/authority_name>	 "Knowsley"	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=145>	<vw_NumberofHouseholdsbyAuthorities/households>	 "62000"	.
+
+<vw_NumberofHouseholdsbyAuthorities/rowId=146>	rdf:type	q:vw_NumberofHouseholdsbyAuthorities	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=146>	<vw_NumberofHouseholdsbyAuthorities/authority_name>	 "Lambeth"	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=146>	<vw_NumberofHouseholdsbyAuthorities/households>	 "126000"	.
+
+<vw_NumberofHouseholdsbyAuthorities/rowId=147>	rdf:type	q:vw_NumberofHouseholdsbyAuthorities	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=147>	<vw_NumberofHouseholdsbyAuthorities/authority_name>	 "Lancaster"	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=147>	<vw_NumberofHouseholdsbyAuthorities/households>	 "60000"	.
+
+<vw_NumberofHouseholdsbyAuthorities/rowId=148>	rdf:type	q:vw_NumberofHouseholdsbyAuthorities	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=148>	<vw_NumberofHouseholdsbyAuthorities/authority_name>	 "Leeds"	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=148>	<vw_NumberofHouseholdsbyAuthorities/households>	 "334000"	.
+
+<vw_NumberofHouseholdsbyAuthorities/rowId=149>	rdf:type	q:vw_NumberofHouseholdsbyAuthorities	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=149>	<vw_NumberofHouseholdsbyAuthorities/authority_name>	 "Leicester"	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=149>	<vw_NumberofHouseholdsbyAuthorities/households>	 "121000"	.
+
+<vw_NumberofHouseholdsbyAuthorities/rowId=150>	rdf:type	q:vw_NumberofHouseholdsbyAuthorities	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=150>	<vw_NumberofHouseholdsbyAuthorities/authority_name>	 "Lewes"	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=150>	<vw_NumberofHouseholdsbyAuthorities/households>	 "42000"	.
+
+<vw_NumberofHouseholdsbyAuthorities/rowId=151>	rdf:type	q:vw_NumberofHouseholdsbyAuthorities	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=151>	<vw_NumberofHouseholdsbyAuthorities/authority_name>	 "Lewisham"	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=151>	<vw_NumberofHouseholdsbyAuthorities/households>	 "115000"	.
+
+<vw_NumberofHouseholdsbyAuthorities/rowId=152>	rdf:type	q:vw_NumberofHouseholdsbyAuthorities	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=152>	<vw_NumberofHouseholdsbyAuthorities/authority_name>	 "Lichfield"	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=152>	<vw_NumberofHouseholdsbyAuthorities/households>	 "40000"	.
+
+<vw_NumberofHouseholdsbyAuthorities/rowId=153>	rdf:type	q:vw_NumberofHouseholdsbyAuthorities	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=153>	<vw_NumberofHouseholdsbyAuthorities/authority_name>	 "Lincoln"	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=153>	<vw_NumberofHouseholdsbyAuthorities/households>	 "38000"	.
+
+<vw_NumberofHouseholdsbyAuthorities/rowId=154>	rdf:type	q:vw_NumberofHouseholdsbyAuthorities	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=154>	<vw_NumberofHouseholdsbyAuthorities/authority_name>	 "Liverpool"	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=154>	<vw_NumberofHouseholdsbyAuthorities/households>	 "193000"	.
+
+<vw_NumberofHouseholdsbyAuthorities/rowId=155>	rdf:type	q:vw_NumberofHouseholdsbyAuthorities	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=155>	<vw_NumberofHouseholdsbyAuthorities/authority_name>	 "Luton"	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=155>	<vw_NumberofHouseholdsbyAuthorities/households>	 "73000"	.
+
+<vw_NumberofHouseholdsbyAuthorities/rowId=156>	rdf:type	q:vw_NumberofHouseholdsbyAuthorities	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=156>	<vw_NumberofHouseholdsbyAuthorities/authority_name>	 "Maidstone"	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=156>	<vw_NumberofHouseholdsbyAuthorities/households>	 "61000"	.
+
+<vw_NumberofHouseholdsbyAuthorities/rowId=157>	rdf:type	q:vw_NumberofHouseholdsbyAuthorities	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=157>	<vw_NumberofHouseholdsbyAuthorities/authority_name>	 "Maldon"	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=157>	<vw_NumberofHouseholdsbyAuthorities/households>	 "26000"	.
+
+<vw_NumberofHouseholdsbyAuthorities/rowId=158>	rdf:type	q:vw_NumberofHouseholdsbyAuthorities	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=158>	<vw_NumberofHouseholdsbyAuthorities/authority_name>	 "Malvern Hills"	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=158>	<vw_NumberofHouseholdsbyAuthorities/households>	 "32000"	.
+
+<vw_NumberofHouseholdsbyAuthorities/rowId=159>	rdf:type	q:vw_NumberofHouseholdsbyAuthorities	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=159>	<vw_NumberofHouseholdsbyAuthorities/authority_name>	 "Manchester"	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=159>	<vw_NumberofHouseholdsbyAuthorities/households>	 "202000"	.
+
+<vw_NumberofHouseholdsbyAuthorities/rowId=160>	rdf:type	q:vw_NumberofHouseholdsbyAuthorities	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=160>	<vw_NumberofHouseholdsbyAuthorities/authority_name>	 "Mansfield"	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=160>	<vw_NumberofHouseholdsbyAuthorities/households>	 "43000"	.
+
+<vw_NumberofHouseholdsbyAuthorities/rowId=161>	rdf:type	q:vw_NumberofHouseholdsbyAuthorities	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=161>	<vw_NumberofHouseholdsbyAuthorities/authority_name>	 "Medway"	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=161>	<vw_NumberofHouseholdsbyAuthorities/households>	 "104000"	.
+
+<vw_NumberofHouseholdsbyAuthorities/rowId=162>	rdf:type	q:vw_NumberofHouseholdsbyAuthorities	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=162>	<vw_NumberofHouseholdsbyAuthorities/authority_name>	 "Melton"	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=162>	<vw_NumberofHouseholdsbyAuthorities/households>	 "20000"	.
+
+<vw_NumberofHouseholdsbyAuthorities/rowId=163>	rdf:type	q:vw_NumberofHouseholdsbyAuthorities	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=163>	<vw_NumberofHouseholdsbyAuthorities/authority_name>	 "Mendip"	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=163>	<vw_NumberofHouseholdsbyAuthorities/households>	 "46000"	.
+
+<vw_NumberofHouseholdsbyAuthorities/rowId=164>	rdf:type	q:vw_NumberofHouseholdsbyAuthorities	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=164>	<vw_NumberofHouseholdsbyAuthorities/authority_name>	 "Merton"	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=164>	<vw_NumberofHouseholdsbyAuthorities/households>	 "87000"	.
+
+<vw_NumberofHouseholdsbyAuthorities/rowId=165>	rdf:type	q:vw_NumberofHouseholdsbyAuthorities	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=165>	<vw_NumberofHouseholdsbyAuthorities/authority_name>	 "Mid Devon"	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=165>	<vw_NumberofHouseholdsbyAuthorities/households>	 "32000"	.
+
+<vw_NumberofHouseholdsbyAuthorities/rowId=166>	rdf:type	q:vw_NumberofHouseholdsbyAuthorities	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=166>	<vw_NumberofHouseholdsbyAuthorities/authority_name>	 "Mid Suffolk"	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=166>	<vw_NumberofHouseholdsbyAuthorities/households>	 "39000"	.
+
+<vw_NumberofHouseholdsbyAuthorities/rowId=167>	rdf:type	q:vw_NumberofHouseholdsbyAuthorities	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=167>	<vw_NumberofHouseholdsbyAuthorities/authority_name>	 "Mid Sussex"	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=167>	<vw_NumberofHouseholdsbyAuthorities/households>	 "54000"	.
+
+<vw_NumberofHouseholdsbyAuthorities/rowId=168>	rdf:type	q:vw_NumberofHouseholdsbyAuthorities	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=168>	<vw_NumberofHouseholdsbyAuthorities/authority_name>	 "Middlesbrough"	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=168>	<vw_NumberofHouseholdsbyAuthorities/households>	 "58000"	.
+
+<vw_NumberofHouseholdsbyAuthorities/rowId=169>	rdf:type	q:vw_NumberofHouseholdsbyAuthorities	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=169>	<vw_NumberofHouseholdsbyAuthorities/authority_name>	 "Milton Keynes"	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=169>	<vw_NumberofHouseholdsbyAuthorities/households>	 "96000"	.
+
+<vw_NumberofHouseholdsbyAuthorities/rowId=170>	rdf:type	q:vw_NumberofHouseholdsbyAuthorities	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=170>	<vw_NumberofHouseholdsbyAuthorities/authority_name>	 "Mole Valley"	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=170>	<vw_NumberofHouseholdsbyAuthorities/households>	 "35000"	.
+
+<vw_NumberofHouseholdsbyAuthorities/rowId=171>	rdf:type	q:vw_NumberofHouseholdsbyAuthorities	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=171>	<vw_NumberofHouseholdsbyAuthorities/authority_name>	 "New Forest"	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=171>	<vw_NumberofHouseholdsbyAuthorities/households>	 "76000"	.
+
+<vw_NumberofHouseholdsbyAuthorities/rowId=172>	rdf:type	q:vw_NumberofHouseholdsbyAuthorities	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=172>	<vw_NumberofHouseholdsbyAuthorities/authority_name>	 "Newark and Sherwood"	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=172>	<vw_NumberofHouseholdsbyAuthorities/households>	 "48000"	.
+
+<vw_NumberofHouseholdsbyAuthorities/rowId=173>	rdf:type	q:vw_NumberofHouseholdsbyAuthorities	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=173>	<vw_NumberofHouseholdsbyAuthorities/authority_name>	 "Newcastle upon Tyne"	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=173>	<vw_NumberofHouseholdsbyAuthorities/households>	 "119000"	.
+
+<vw_NumberofHouseholdsbyAuthorities/rowId=174>	rdf:type	q:vw_NumberofHouseholdsbyAuthorities	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=174>	<vw_NumberofHouseholdsbyAuthorities/authority_name>	 "Newcastle-under-Lyme"	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=174>	<vw_NumberofHouseholdsbyAuthorities/households>	 "53000"	.
+
+<vw_NumberofHouseholdsbyAuthorities/rowId=175>	rdf:type	q:vw_NumberofHouseholdsbyAuthorities	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=175>	<vw_NumberofHouseholdsbyAuthorities/authority_name>	 "Newham"	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=175>	<vw_NumberofHouseholdsbyAuthorities/households>	 "92000"	.
+
+<vw_NumberofHouseholdsbyAuthorities/rowId=176>	rdf:type	q:vw_NumberofHouseholdsbyAuthorities	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=176>	<vw_NumberofHouseholdsbyAuthorities/authority_name>	 "North Devon"	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=176>	<vw_NumberofHouseholdsbyAuthorities/households>	 "39000"	.
+
+<vw_NumberofHouseholdsbyAuthorities/rowId=177>	rdf:type	q:vw_NumberofHouseholdsbyAuthorities	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=177>	<vw_NumberofHouseholdsbyAuthorities/authority_name>	 "North Dorset"	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=177>	<vw_NumberofHouseholdsbyAuthorities/households>	 "27000"	.
+
+<vw_NumberofHouseholdsbyAuthorities/rowId=178>	rdf:type	q:vw_NumberofHouseholdsbyAuthorities	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=178>	<vw_NumberofHouseholdsbyAuthorities/authority_name>	 "North East Derbyshire"	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=178>	<vw_NumberofHouseholdsbyAuthorities/households>	 "42000"	.
+
+<vw_NumberofHouseholdsbyAuthorities/rowId=179>	rdf:type	q:vw_NumberofHouseholdsbyAuthorities	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=179>	<vw_NumberofHouseholdsbyAuthorities/authority_name>	 "North East Lincolnshire"	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=179>	<vw_NumberofHouseholdsbyAuthorities/households>	 "67000"	.
+
+<vw_NumberofHouseholdsbyAuthorities/rowId=180>	rdf:type	q:vw_NumberofHouseholdsbyAuthorities	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=180>	<vw_NumberofHouseholdsbyAuthorities/authority_name>	 "North Hertfordshire"	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=180>	<vw_NumberofHouseholdsbyAuthorities/households>	 "53000"	.
+
+<vw_NumberofHouseholdsbyAuthorities/rowId=181>	rdf:type	q:vw_NumberofHouseholdsbyAuthorities	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=181>	<vw_NumberofHouseholdsbyAuthorities/authority_name>	 "North Kesteven"	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=181>	<vw_NumberofHouseholdsbyAuthorities/households>	 "44000"	.
+
+<vw_NumberofHouseholdsbyAuthorities/rowId=182>	rdf:type	q:vw_NumberofHouseholdsbyAuthorities	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=182>	<vw_NumberofHouseholdsbyAuthorities/authority_name>	 "North Lincolnshire"	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=182>	<vw_NumberofHouseholdsbyAuthorities/households>	 "68000"	.
+
+<vw_NumberofHouseholdsbyAuthorities/rowId=183>	rdf:type	q:vw_NumberofHouseholdsbyAuthorities	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=183>	<vw_NumberofHouseholdsbyAuthorities/authority_name>	 "North Norfolk"	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=183>	<vw_NumberofHouseholdsbyAuthorities/households>	 "46000"	.
+
+<vw_NumberofHouseholdsbyAuthorities/rowId=184>	rdf:type	q:vw_NumberofHouseholdsbyAuthorities	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=184>	<vw_NumberofHouseholdsbyAuthorities/authority_name>	 "North Somerset"	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=184>	<vw_NumberofHouseholdsbyAuthorities/households>	 "89000"	.
+
+<vw_NumberofHouseholdsbyAuthorities/rowId=185>	rdf:type	q:vw_NumberofHouseholdsbyAuthorities	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=185>	<vw_NumberofHouseholdsbyAuthorities/authority_name>	 "North Tyneside"	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=185>	<vw_NumberofHouseholdsbyAuthorities/households>	 "89000"	.
+
+<vw_NumberofHouseholdsbyAuthorities/rowId=186>	rdf:type	q:vw_NumberofHouseholdsbyAuthorities	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=186>	<vw_NumberofHouseholdsbyAuthorities/authority_name>	 "North Warwickshire"	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=186>	<vw_NumberofHouseholdsbyAuthorities/households>	 "26000"	.
+
+<vw_NumberofHouseholdsbyAuthorities/rowId=187>	rdf:type	q:vw_NumberofHouseholdsbyAuthorities	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=187>	<vw_NumberofHouseholdsbyAuthorities/authority_name>	 "North West Leicestershire"	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=187>	<vw_NumberofHouseholdsbyAuthorities/households>	 "38000"	.
+
+<vw_NumberofHouseholdsbyAuthorities/rowId=188>	rdf:type	q:vw_NumberofHouseholdsbyAuthorities	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=188>	<vw_NumberofHouseholdsbyAuthorities/authority_name>	 "Northampton"	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=188>	<vw_NumberofHouseholdsbyAuthorities/households>	 "90000"	.
+
+<vw_NumberofHouseholdsbyAuthorities/rowId=189>	rdf:type	q:vw_NumberofHouseholdsbyAuthorities	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=189>	<vw_NumberofHouseholdsbyAuthorities/authority_name>	 "Northumberland"	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=189>	<vw_NumberofHouseholdsbyAuthorities/households>	 "136000"	.
+
+<vw_NumberofHouseholdsbyAuthorities/rowId=190>	rdf:type	q:vw_NumberofHouseholdsbyAuthorities	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=190>	<vw_NumberofHouseholdsbyAuthorities/authority_name>	 "Norwich"	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=190>	<vw_NumberofHouseholdsbyAuthorities/households>	 "62000"	.
+
+<vw_NumberofHouseholdsbyAuthorities/rowId=191>	rdf:type	q:vw_NumberofHouseholdsbyAuthorities	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=191>	<vw_NumberofHouseholdsbyAuthorities/authority_name>	 "Nottingham"	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=191>	<vw_NumberofHouseholdsbyAuthorities/households>	 "129000"	.
+
+<vw_NumberofHouseholdsbyAuthorities/rowId=192>	rdf:type	q:vw_NumberofHouseholdsbyAuthorities	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=192>	<vw_NumberofHouseholdsbyAuthorities/authority_name>	 "Nuneaton and Bedworth"	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=192>	<vw_NumberofHouseholdsbyAuthorities/households>	 "51000"	.
+
+<vw_NumberofHouseholdsbyAuthorities/rowId=193>	rdf:type	q:vw_NumberofHouseholdsbyAuthorities	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=193>	<vw_NumberofHouseholdsbyAuthorities/authority_name>	 "Oadby and Wigston"	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=193>	<vw_NumberofHouseholdsbyAuthorities/households>	 "23000"	.
+
+<vw_NumberofHouseholdsbyAuthorities/rowId=194>	rdf:type	q:vw_NumberofHouseholdsbyAuthorities	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=194>	<vw_NumberofHouseholdsbyAuthorities/authority_name>	 "Oldham"	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=194>	<vw_NumberofHouseholdsbyAuthorities/households>	 "89000"	.
+
+<vw_NumberofHouseholdsbyAuthorities/rowId=195>	rdf:type	q:vw_NumberofHouseholdsbyAuthorities	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=195>	<vw_NumberofHouseholdsbyAuthorities/authority_name>	 "Oxford"	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=195>	<vw_NumberofHouseholdsbyAuthorities/households>	 "54000"	.
+
+<vw_NumberofHouseholdsbyAuthorities/rowId=196>	rdf:type	q:vw_NumberofHouseholdsbyAuthorities	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=196>	<vw_NumberofHouseholdsbyAuthorities/authority_name>	 "Pendle"	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=196>	<vw_NumberofHouseholdsbyAuthorities/households>	 "37000"	.
+
+<vw_NumberofHouseholdsbyAuthorities/rowId=197>	rdf:type	q:vw_NumberofHouseholdsbyAuthorities	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=197>	<vw_NumberofHouseholdsbyAuthorities/authority_name>	 "Peterborough"	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=197>	<vw_NumberofHouseholdsbyAuthorities/households>	 "72000"	.
+
+<vw_NumberofHouseholdsbyAuthorities/rowId=198>	rdf:type	q:vw_NumberofHouseholdsbyAuthorities	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=198>	<vw_NumberofHouseholdsbyAuthorities/authority_name>	 "Plymouth"	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=198>	<vw_NumberofHouseholdsbyAuthorities/households>	 "110000"	.
+
+<vw_NumberofHouseholdsbyAuthorities/rowId=199>	rdf:type	q:vw_NumberofHouseholdsbyAuthorities	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=199>	<vw_NumberofHouseholdsbyAuthorities/authority_name>	 "Poole"	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=199>	<vw_NumberofHouseholdsbyAuthorities/households>	 "61000"	.
+
+<vw_NumberofHouseholdsbyAuthorities/rowId=200>	rdf:type	q:vw_NumberofHouseholdsbyAuthorities	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=200>	<vw_NumberofHouseholdsbyAuthorities/authority_name>	 "Portsmouth"	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=200>	<vw_NumberofHouseholdsbyAuthorities/households>	 "83000"	.
+
+<vw_NumberofHouseholdsbyAuthorities/rowId=201>	rdf:type	q:vw_NumberofHouseholdsbyAuthorities	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=201>	<vw_NumberofHouseholdsbyAuthorities/authority_name>	 "Preston"	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=201>	<vw_NumberofHouseholdsbyAuthorities/households>	 "56000"	.
+
+<vw_NumberofHouseholdsbyAuthorities/rowId=202>	rdf:type	q:vw_NumberofHouseholdsbyAuthorities	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=202>	<vw_NumberofHouseholdsbyAuthorities/authority_name>	 "Purbeck"	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=202>	<vw_NumberofHouseholdsbyAuthorities/households>	 "20000"	.
+
+<vw_NumberofHouseholdsbyAuthorities/rowId=203>	rdf:type	q:vw_NumberofHouseholdsbyAuthorities	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=203>	<vw_NumberofHouseholdsbyAuthorities/authority_name>	 "Reading"	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=203>	<vw_NumberofHouseholdsbyAuthorities/households>	 "60000"	.
+
+<vw_NumberofHouseholdsbyAuthorities/rowId=204>	rdf:type	q:vw_NumberofHouseholdsbyAuthorities	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=204>	<vw_NumberofHouseholdsbyAuthorities/authority_name>	 "Redbridge"	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=204>	<vw_NumberofHouseholdsbyAuthorities/households>	 "101000"	.
+
+<vw_NumberofHouseholdsbyAuthorities/rowId=205>	rdf:type	q:vw_NumberofHouseholdsbyAuthorities	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=205>	<vw_NumberofHouseholdsbyAuthorities/authority_name>	 "Redcar and Cleveland"	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=205>	<vw_NumberofHouseholdsbyAuthorities/households>	 "58000"	.
+
+<vw_NumberofHouseholdsbyAuthorities/rowId=206>	rdf:type	q:vw_NumberofHouseholdsbyAuthorities	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=206>	<vw_NumberofHouseholdsbyAuthorities/authority_name>	 "Redditch"	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=206>	<vw_NumberofHouseholdsbyAuthorities/households>	 "33000"	.
+
+<vw_NumberofHouseholdsbyAuthorities/rowId=207>	rdf:type	q:vw_NumberofHouseholdsbyAuthorities	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=207>	<vw_NumberofHouseholdsbyAuthorities/authority_name>	 "Reigate and Banstead"	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=207>	<vw_NumberofHouseholdsbyAuthorities/households>	 "55000"	.
+
+<vw_NumberofHouseholdsbyAuthorities/rowId=208>	rdf:type	q:vw_NumberofHouseholdsbyAuthorities	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=208>	<vw_NumberofHouseholdsbyAuthorities/authority_name>	 "Ribble Valley"	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=208>	<vw_NumberofHouseholdsbyAuthorities/households>	 "24000"	.
+
+<vw_NumberofHouseholdsbyAuthorities/rowId=209>	rdf:type	q:vw_NumberofHouseholdsbyAuthorities	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=209>	<vw_NumberofHouseholdsbyAuthorities/authority_name>	 "Richmond upon Thames"	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=209>	<vw_NumberofHouseholdsbyAuthorities/households>	 "83000"	.
+
+<vw_NumberofHouseholdsbyAuthorities/rowId=210>	rdf:type	q:vw_NumberofHouseholdsbyAuthorities	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=210>	<vw_NumberofHouseholdsbyAuthorities/authority_name>	 "Richmondshire"	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=210>	<vw_NumberofHouseholdsbyAuthorities/households>	 "20000"	.
+
+<vw_NumberofHouseholdsbyAuthorities/rowId=211>	rdf:type	q:vw_NumberofHouseholdsbyAuthorities	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=211>	<vw_NumberofHouseholdsbyAuthorities/authority_name>	 "Rochdale"	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=211>	<vw_NumberofHouseholdsbyAuthorities/households>	 "84000"	.
+
+<vw_NumberofHouseholdsbyAuthorities/rowId=212>	rdf:type	q:vw_NumberofHouseholdsbyAuthorities	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=212>	<vw_NumberofHouseholdsbyAuthorities/authority_name>	 "Rochford"	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=212>	<vw_NumberofHouseholdsbyAuthorities/households>	 "34000"	.
+
+<vw_NumberofHouseholdsbyAuthorities/rowId=213>	rdf:type	q:vw_NumberofHouseholdsbyAuthorities	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=213>	<vw_NumberofHouseholdsbyAuthorities/authority_name>	 "Rossendale"	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=213>	<vw_NumberofHouseholdsbyAuthorities/households>	 "28000"	.
+
+<vw_NumberofHouseholdsbyAuthorities/rowId=214>	rdf:type	q:vw_NumberofHouseholdsbyAuthorities	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=214>	<vw_NumberofHouseholdsbyAuthorities/authority_name>	 "Rother"	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=214>	<vw_NumberofHouseholdsbyAuthorities/households>	 "40000"	.
+
+<vw_NumberofHouseholdsbyAuthorities/rowId=215>	rdf:type	q:vw_NumberofHouseholdsbyAuthorities	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=215>	<vw_NumberofHouseholdsbyAuthorities/authority_name>	 "Rotherham"	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=215>	<vw_NumberofHouseholdsbyAuthorities/households>	 "106000"	.
+
+<vw_NumberofHouseholdsbyAuthorities/rowId=216>	rdf:type	q:vw_NumberofHouseholdsbyAuthorities	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=216>	<vw_NumberofHouseholdsbyAuthorities/authority_name>	 "Rugby"	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=216>	<vw_NumberofHouseholdsbyAuthorities/households>	 "39000"	.
+
+<vw_NumberofHouseholdsbyAuthorities/rowId=217>	rdf:type	q:vw_NumberofHouseholdsbyAuthorities	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=217>	<vw_NumberofHouseholdsbyAuthorities/authority_name>	 "Runnymede"	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=217>	<vw_NumberofHouseholdsbyAuthorities/households>	 "34000"	.
+
+<vw_NumberofHouseholdsbyAuthorities/rowId=218>	rdf:type	q:vw_NumberofHouseholdsbyAuthorities	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=218>	<vw_NumberofHouseholdsbyAuthorities/authority_name>	 "Rushcliffe"	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=218>	<vw_NumberofHouseholdsbyAuthorities/households>	 "47000"	.
+
+<vw_NumberofHouseholdsbyAuthorities/rowId=219>	rdf:type	q:vw_NumberofHouseholdsbyAuthorities	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=219>	<vw_NumberofHouseholdsbyAuthorities/authority_name>	 "Rushmoor"	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=219>	<vw_NumberofHouseholdsbyAuthorities/households>	 "36000"	.
+
+<vw_NumberofHouseholdsbyAuthorities/rowId=220>	rdf:type	q:vw_NumberofHouseholdsbyAuthorities	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=220>	<vw_NumberofHouseholdsbyAuthorities/authority_name>	 "Rutland"	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=220>	<vw_NumberofHouseholdsbyAuthorities/households>	 "15000"	.
+
+<vw_NumberofHouseholdsbyAuthorities/rowId=221>	rdf:type	q:vw_NumberofHouseholdsbyAuthorities	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=221>	<vw_NumberofHouseholdsbyAuthorities/authority_name>	 "Ryedale"	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=221>	<vw_NumberofHouseholdsbyAuthorities/households>	 "23000"	.
+
+<vw_NumberofHouseholdsbyAuthorities/rowId=222>	rdf:type	q:vw_NumberofHouseholdsbyAuthorities	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=222>	<vw_NumberofHouseholdsbyAuthorities/authority_name>	 "Salford"	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=222>	<vw_NumberofHouseholdsbyAuthorities/households>	 "98000"	.
+
+<vw_NumberofHouseholdsbyAuthorities/rowId=223>	rdf:type	q:vw_NumberofHouseholdsbyAuthorities	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=223>	<vw_NumberofHouseholdsbyAuthorities/authority_name>	 "Sandwell"	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=223>	<vw_NumberofHouseholdsbyAuthorities/households>	 "118000"	.
+
+<vw_NumberofHouseholdsbyAuthorities/rowId=224>	rdf:type	q:vw_NumberofHouseholdsbyAuthorities	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=224>	<vw_NumberofHouseholdsbyAuthorities/authority_name>	 "Scarborough"	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=224>	<vw_NumberofHouseholdsbyAuthorities/households>	 "49000"	.
+
+<vw_NumberofHouseholdsbyAuthorities/rowId=225>	rdf:type	q:vw_NumberofHouseholdsbyAuthorities	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=225>	<vw_NumberofHouseholdsbyAuthorities/authority_name>	 "Sedgemoor"	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=225>	<vw_NumberofHouseholdsbyAuthorities/households>	 "48000"	.
+
+<vw_NumberofHouseholdsbyAuthorities/rowId=226>	rdf:type	q:vw_NumberofHouseholdsbyAuthorities	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=226>	<vw_NumberofHouseholdsbyAuthorities/authority_name>	 "Sefton"	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=226>	<vw_NumberofHouseholdsbyAuthorities/households>	 "117000"	.
+
+<vw_NumberofHouseholdsbyAuthorities/rowId=227>	rdf:type	q:vw_NumberofHouseholdsbyAuthorities	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=227>	<vw_NumberofHouseholdsbyAuthorities/authority_name>	 "Selby"	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=227>	<vw_NumberofHouseholdsbyAuthorities/households>	 "33000"	.
+
+<vw_NumberofHouseholdsbyAuthorities/rowId=228>	rdf:type	q:vw_NumberofHouseholdsbyAuthorities	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=228>	<vw_NumberofHouseholdsbyAuthorities/authority_name>	 "Sevenoaks"	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=228>	<vw_NumberofHouseholdsbyAuthorities/households>	 "46000"	.
+
+<vw_NumberofHouseholdsbyAuthorities/rowId=229>	rdf:type	q:vw_NumberofHouseholdsbyAuthorities	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=229>	<vw_NumberofHouseholdsbyAuthorities/authority_name>	 "Sheffield"	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=229>	<vw_NumberofHouseholdsbyAuthorities/households>	 "230000"	.
+
+<vw_NumberofHouseholdsbyAuthorities/rowId=230>	rdf:type	q:vw_NumberofHouseholdsbyAuthorities	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=230>	<vw_NumberofHouseholdsbyAuthorities/authority_name>	 "Shepway"	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=230>	<vw_NumberofHouseholdsbyAuthorities/households>	 "44000"	.
+
+<vw_NumberofHouseholdsbyAuthorities/rowId=231>	rdf:type	q:vw_NumberofHouseholdsbyAuthorities	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=231>	<vw_NumberofHouseholdsbyAuthorities/authority_name>	 "Shropshire"	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=231>	<vw_NumberofHouseholdsbyAuthorities/households>	 "123000"	.
+
+<vw_NumberofHouseholdsbyAuthorities/rowId=232>	rdf:type	q:vw_NumberofHouseholdsbyAuthorities	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=232>	<vw_NumberofHouseholdsbyAuthorities/authority_name>	 "Slough"	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=232>	<vw_NumberofHouseholdsbyAuthorities/households>	 "48000"	.
+
+<vw_NumberofHouseholdsbyAuthorities/rowId=233>	rdf:type	q:vw_NumberofHouseholdsbyAuthorities	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=233>	<vw_NumberofHouseholdsbyAuthorities/authority_name>	 "Solihull"	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=233>	<vw_NumberofHouseholdsbyAuthorities/households>	 "84000"	.
+
+<vw_NumberofHouseholdsbyAuthorities/rowId=234>	rdf:type	q:vw_NumberofHouseholdsbyAuthorities	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=234>	<vw_NumberofHouseholdsbyAuthorities/authority_name>	 "South Bucks"	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=234>	<vw_NumberofHouseholdsbyAuthorities/households>	 "26000"	.
+
+<vw_NumberofHouseholdsbyAuthorities/rowId=235>	rdf:type	q:vw_NumberofHouseholdsbyAuthorities	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=235>	<vw_NumberofHouseholdsbyAuthorities/authority_name>	 "South Cambridgeshire"	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=235>	<vw_NumberofHouseholdsbyAuthorities/households>	 "58000"	.
+
+<vw_NumberofHouseholdsbyAuthorities/rowId=236>	rdf:type	q:vw_NumberofHouseholdsbyAuthorities	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=236>	<vw_NumberofHouseholdsbyAuthorities/authority_name>	 "South Derbyshire"	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=236>	<vw_NumberofHouseholdsbyAuthorities/households>	 "37000"	.
+
+<vw_NumberofHouseholdsbyAuthorities/rowId=237>	rdf:type	q:vw_NumberofHouseholdsbyAuthorities	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=237>	<vw_NumberofHouseholdsbyAuthorities/authority_name>	 "South Gloucestershire"	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=237>	<vw_NumberofHouseholdsbyAuthorities/households>	 "107000"	.
+
+<vw_NumberofHouseholdsbyAuthorities/rowId=238>	rdf:type	q:vw_NumberofHouseholdsbyAuthorities	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=238>	<vw_NumberofHouseholdsbyAuthorities/authority_name>	 "South Hams"	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=238>	<vw_NumberofHouseholdsbyAuthorities/households>	 "36000"	.
+
+<vw_NumberofHouseholdsbyAuthorities/rowId=239>	rdf:type	q:vw_NumberofHouseholdsbyAuthorities	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=239>	<vw_NumberofHouseholdsbyAuthorities/authority_name>	 "South Holland"	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=239>	<vw_NumberofHouseholdsbyAuthorities/households>	 "36000"	.
+
+<vw_NumberofHouseholdsbyAuthorities/rowId=240>	rdf:type	q:vw_NumberofHouseholdsbyAuthorities	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=240>	<vw_NumberofHouseholdsbyAuthorities/authority_name>	 "South Kesteven"	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=240>	<vw_NumberofHouseholdsbyAuthorities/households>	 "55000"	.
+
+<vw_NumberofHouseholdsbyAuthorities/rowId=241>	rdf:type	q:vw_NumberofHouseholdsbyAuthorities	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=241>	<vw_NumberofHouseholdsbyAuthorities/authority_name>	 "South Lakeland"	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=241>	<vw_NumberofHouseholdsbyAuthorities/households>	 "46000"	.
+
+<vw_NumberofHouseholdsbyAuthorities/rowId=242>	rdf:type	q:vw_NumberofHouseholdsbyAuthorities	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=242>	<vw_NumberofHouseholdsbyAuthorities/authority_name>	 "South Norfolk"	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=242>	<vw_NumberofHouseholdsbyAuthorities/households>	 "50000"	.
+
+<vw_NumberofHouseholdsbyAuthorities/rowId=243>	rdf:type	q:vw_NumberofHouseholdsbyAuthorities	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=243>	<vw_NumberofHouseholdsbyAuthorities/authority_name>	 "South Northamptonshire"	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=243>	<vw_NumberofHouseholdsbyAuthorities/households>	 "36000"	.
+
+<vw_NumberofHouseholdsbyAuthorities/rowId=244>	rdf:type	q:vw_NumberofHouseholdsbyAuthorities	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=244>	<vw_NumberofHouseholdsbyAuthorities/authority_name>	 "South Oxfordshire"	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=244>	<vw_NumberofHouseholdsbyAuthorities/households>	 "54000"	.
+
+<vw_NumberofHouseholdsbyAuthorities/rowId=245>	rdf:type	q:vw_NumberofHouseholdsbyAuthorities	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=245>	<vw_NumberofHouseholdsbyAuthorities/authority_name>	 "South Ribble"	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=245>	<vw_NumberofHouseholdsbyAuthorities/households>	 "45000"	.
+
+<vw_NumberofHouseholdsbyAuthorities/rowId=246>	rdf:type	q:vw_NumberofHouseholdsbyAuthorities	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=246>	<vw_NumberofHouseholdsbyAuthorities/authority_name>	 "South Somerset"	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=246>	<vw_NumberofHouseholdsbyAuthorities/households>	 "69000"	.
+
+<vw_NumberofHouseholdsbyAuthorities/rowId=247>	rdf:type	q:vw_NumberofHouseholdsbyAuthorities	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=247>	<vw_NumberofHouseholdsbyAuthorities/authority_name>	 "South Staffordshire"	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=247>	<vw_NumberofHouseholdsbyAuthorities/households>	 "43000"	.
+
+<vw_NumberofHouseholdsbyAuthorities/rowId=248>	rdf:type	q:vw_NumberofHouseholdsbyAuthorities	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=248>	<vw_NumberofHouseholdsbyAuthorities/authority_name>	 "South Tyneside"	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=248>	<vw_NumberofHouseholdsbyAuthorities/households>	 "68000"	.
+
+<vw_NumberofHouseholdsbyAuthorities/rowId=249>	rdf:type	q:vw_NumberofHouseholdsbyAuthorities	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=249>	<vw_NumberofHouseholdsbyAuthorities/authority_name>	 "Southampton"	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=249>	<vw_NumberofHouseholdsbyAuthorities/households>	 "98000"	.
+
+<vw_NumberofHouseholdsbyAuthorities/rowId=250>	rdf:type	q:vw_NumberofHouseholdsbyAuthorities	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=250>	<vw_NumberofHouseholdsbyAuthorities/authority_name>	 "Southend-on-Sea"	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=250>	<vw_NumberofHouseholdsbyAuthorities/households>	 "74000"	.
+
+<vw_NumberofHouseholdsbyAuthorities/rowId=251>	rdf:type	q:vw_NumberofHouseholdsbyAuthorities	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=251>	<vw_NumberofHouseholdsbyAuthorities/authority_name>	 "Southwark"	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=251>	<vw_NumberofHouseholdsbyAuthorities/households>	 "124000"	.
+
+<vw_NumberofHouseholdsbyAuthorities/rowId=252>	rdf:type	q:vw_NumberofHouseholdsbyAuthorities	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=252>	<vw_NumberofHouseholdsbyAuthorities/authority_name>	 "Spelthorne"	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=252>	<vw_NumberofHouseholdsbyAuthorities/households>	 "39000"	.
+
+<vw_NumberofHouseholdsbyAuthorities/rowId=253>	rdf:type	q:vw_NumberofHouseholdsbyAuthorities	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=253>	<vw_NumberofHouseholdsbyAuthorities/authority_name>	 "St Albans"	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=253>	<vw_NumberofHouseholdsbyAuthorities/households>	 "56000"	.
+
+<vw_NumberofHouseholdsbyAuthorities/rowId=254>	rdf:type	q:vw_NumberofHouseholdsbyAuthorities	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=254>	<vw_NumberofHouseholdsbyAuthorities/authority_name>	 "St Edmundsbury"	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=254>	<vw_NumberofHouseholdsbyAuthorities/households>	 "44000"	.
+
+<vw_NumberofHouseholdsbyAuthorities/rowId=255>	rdf:type	q:vw_NumberofHouseholdsbyAuthorities	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=255>	<vw_NumberofHouseholdsbyAuthorities/authority_name>	 "St. Helens"	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=255>	<vw_NumberofHouseholdsbyAuthorities/households>	 "75000"	.
+
+<vw_NumberofHouseholdsbyAuthorities/rowId=256>	rdf:type	q:vw_NumberofHouseholdsbyAuthorities	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=256>	<vw_NumberofHouseholdsbyAuthorities/authority_name>	 "Stafford"	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=256>	<vw_NumberofHouseholdsbyAuthorities/households>	 "53000"	.
+
+<vw_NumberofHouseholdsbyAuthorities/rowId=257>	rdf:type	q:vw_NumberofHouseholdsbyAuthorities	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=257>	<vw_NumberofHouseholdsbyAuthorities/authority_name>	 "Staffordshire Moorlands"	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=257>	<vw_NumberofHouseholdsbyAuthorities/households>	 "40000"	.
+
+<vw_NumberofHouseholdsbyAuthorities/rowId=258>	rdf:type	q:vw_NumberofHouseholdsbyAuthorities	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=258>	<vw_NumberofHouseholdsbyAuthorities/authority_name>	 "Stevenage"	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=258>	<vw_NumberofHouseholdsbyAuthorities/households>	 "34000"	.
+
+<vw_NumberofHouseholdsbyAuthorities/rowId=259>	rdf:type	q:vw_NumberofHouseholdsbyAuthorities	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=259>	<vw_NumberofHouseholdsbyAuthorities/authority_name>	 "Stockport"	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=259>	<vw_NumberofHouseholdsbyAuthorities/households>	 "123000"	.
+
+<vw_NumberofHouseholdsbyAuthorities/rowId=260>	rdf:type	q:vw_NumberofHouseholdsbyAuthorities	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=260>	<vw_NumberofHouseholdsbyAuthorities/authority_name>	 "Stockton-on-Tees"	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=260>	<vw_NumberofHouseholdsbyAuthorities/households>	 "79000"	.
+
+<vw_NumberofHouseholdsbyAuthorities/rowId=261>	rdf:type	q:vw_NumberofHouseholdsbyAuthorities	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=261>	<vw_NumberofHouseholdsbyAuthorities/authority_name>	 "Stoke-on-Trent"	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=261>	<vw_NumberofHouseholdsbyAuthorities/households>	 "104000"	.
+
+<vw_NumberofHouseholdsbyAuthorities/rowId=262>	rdf:type	q:vw_NumberofHouseholdsbyAuthorities	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=262>	<vw_NumberofHouseholdsbyAuthorities/authority_name>	 "Stratford-on-Avon"	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=262>	<vw_NumberofHouseholdsbyAuthorities/households>	 "51000"	.
+
+<vw_NumberofHouseholdsbyAuthorities/rowId=263>	rdf:type	q:vw_NumberofHouseholdsbyAuthorities	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=263>	<vw_NumberofHouseholdsbyAuthorities/authority_name>	 "Stroud"	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=263>	<vw_NumberofHouseholdsbyAuthorities/households>	 "47000"	.
+
+<vw_NumberofHouseholdsbyAuthorities/rowId=264>	rdf:type	q:vw_NumberofHouseholdsbyAuthorities	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=264>	<vw_NumberofHouseholdsbyAuthorities/authority_name>	 "Suffolk Coastal"	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=264>	<vw_NumberofHouseholdsbyAuthorities/households>	 "54000"	.
+
+<vw_NumberofHouseholdsbyAuthorities/rowId=265>	rdf:type	q:vw_NumberofHouseholdsbyAuthorities	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=265>	<vw_NumberofHouseholdsbyAuthorities/authority_name>	 "Sunderland"	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=265>	<vw_NumberofHouseholdsbyAuthorities/households>	 "121000"	.
+
+<vw_NumberofHouseholdsbyAuthorities/rowId=266>	rdf:type	q:vw_NumberofHouseholdsbyAuthorities	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=266>	<vw_NumberofHouseholdsbyAuthorities/authority_name>	 "Surrey Heath"	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=266>	<vw_NumberofHouseholdsbyAuthorities/households>	 "33000"	.
+
+<vw_NumberofHouseholdsbyAuthorities/rowId=267>	rdf:type	q:vw_NumberofHouseholdsbyAuthorities	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=267>	<vw_NumberofHouseholdsbyAuthorities/authority_name>	 "Sutton"	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=267>	<vw_NumberofHouseholdsbyAuthorities/households>	 "82000"	.
+
+<vw_NumberofHouseholdsbyAuthorities/rowId=268>	rdf:type	q:vw_NumberofHouseholdsbyAuthorities	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=268>	<vw_NumberofHouseholdsbyAuthorities/authority_name>	 "Swale"	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=268>	<vw_NumberofHouseholdsbyAuthorities/households>	 "53000"	.
+
+<vw_NumberofHouseholdsbyAuthorities/rowId=269>	rdf:type	q:vw_NumberofHouseholdsbyAuthorities	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=269>	<vw_NumberofHouseholdsbyAuthorities/authority_name>	 "Swindon"	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=269>	<vw_NumberofHouseholdsbyAuthorities/households>	 "84000"	.
+
+<vw_NumberofHouseholdsbyAuthorities/rowId=270>	rdf:type	q:vw_NumberofHouseholdsbyAuthorities	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=270>	<vw_NumberofHouseholdsbyAuthorities/authority_name>	 "Tameside"	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=270>	<vw_NumberofHouseholdsbyAuthorities/households>	 "92000"	.
+
+<vw_NumberofHouseholdsbyAuthorities/rowId=271>	rdf:type	q:vw_NumberofHouseholdsbyAuthorities	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=271>	<vw_NumberofHouseholdsbyAuthorities/authority_name>	 "Tamworth"	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=271>	<vw_NumberofHouseholdsbyAuthorities/households>	 "31000"	.
+
+<vw_NumberofHouseholdsbyAuthorities/rowId=272>	rdf:type	q:vw_NumberofHouseholdsbyAuthorities	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=272>	<vw_NumberofHouseholdsbyAuthorities/authority_name>	 "Tandridge"	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=272>	<vw_NumberofHouseholdsbyAuthorities/households>	 "33000"	.
+
+<vw_NumberofHouseholdsbyAuthorities/rowId=273>	rdf:type	q:vw_NumberofHouseholdsbyAuthorities	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=273>	<vw_NumberofHouseholdsbyAuthorities/authority_name>	 "Taunton Deane"	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=273>	<vw_NumberofHouseholdsbyAuthorities/households>	 "47000"	.
+
+<vw_NumberofHouseholdsbyAuthorities/rowId=274>	rdf:type	q:vw_NumberofHouseholdsbyAuthorities	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=274>	<vw_NumberofHouseholdsbyAuthorities/authority_name>	 "Teignbridge"	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=274>	<vw_NumberofHouseholdsbyAuthorities/households>	 "55000"	.
+
+<vw_NumberofHouseholdsbyAuthorities/rowId=275>	rdf:type	q:vw_NumberofHouseholdsbyAuthorities	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=275>	<vw_NumberofHouseholdsbyAuthorities/authority_name>	 "Telford and Wrekin"	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=275>	<vw_NumberofHouseholdsbyAuthorities/households>	 "67000"	.
+
+<vw_NumberofHouseholdsbyAuthorities/rowId=276>	rdf:type	q:vw_NumberofHouseholdsbyAuthorities	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=276>	<vw_NumberofHouseholdsbyAuthorities/authority_name>	 "Tendring"	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=276>	<vw_NumberofHouseholdsbyAuthorities/households>	 "66000"	.
+
+<vw_NumberofHouseholdsbyAuthorities/rowId=277>	rdf:type	q:vw_NumberofHouseholdsbyAuthorities	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=277>	<vw_NumberofHouseholdsbyAuthorities/authority_name>	 "Test Valley"	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=277>	<vw_NumberofHouseholdsbyAuthorities/households>	 "47000"	.
+
+<vw_NumberofHouseholdsbyAuthorities/rowId=278>	rdf:type	q:vw_NumberofHouseholdsbyAuthorities	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=278>	<vw_NumberofHouseholdsbyAuthorities/authority_name>	 "Tewkesbury"	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=278>	<vw_NumberofHouseholdsbyAuthorities/households>	 "35000"	.
+
+<vw_NumberofHouseholdsbyAuthorities/rowId=279>	rdf:type	q:vw_NumberofHouseholdsbyAuthorities	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=279>	<vw_NumberofHouseholdsbyAuthorities/authority_name>	 "Thanet"	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=279>	<vw_NumberofHouseholdsbyAuthorities/households>	 "58000"	.
+
+<vw_NumberofHouseholdsbyAuthorities/rowId=280>	rdf:type	q:vw_NumberofHouseholdsbyAuthorities	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=280>	<vw_NumberofHouseholdsbyAuthorities/authority_name>	 "Three Rivers"	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=280>	<vw_NumberofHouseholdsbyAuthorities/households>	 "35000"	.
+
+<vw_NumberofHouseholdsbyAuthorities/rowId=281>	rdf:type	q:vw_NumberofHouseholdsbyAuthorities	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=281>	<vw_NumberofHouseholdsbyAuthorities/authority_name>	 "Thurrock"	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=281>	<vw_NumberofHouseholdsbyAuthorities/households>	 "64000"	.
+
+<vw_NumberofHouseholdsbyAuthorities/rowId=282>	rdf:type	q:vw_NumberofHouseholdsbyAuthorities	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=282>	<vw_NumberofHouseholdsbyAuthorities/authority_name>	 "Tonbridge and Malling"	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=282>	<vw_NumberofHouseholdsbyAuthorities/households>	 "47000"	.
+
+<vw_NumberofHouseholdsbyAuthorities/rowId=283>	rdf:type	q:vw_NumberofHouseholdsbyAuthorities	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=283>	<vw_NumberofHouseholdsbyAuthorities/authority_name>	 "Torbay"	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=283>	<vw_NumberofHouseholdsbyAuthorities/households>	 "61000"	.
+
+<vw_NumberofHouseholdsbyAuthorities/rowId=284>	rdf:type	q:vw_NumberofHouseholdsbyAuthorities	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=284>	<vw_NumberofHouseholdsbyAuthorities/authority_name>	 "Torridge"	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=284>	<vw_NumberofHouseholdsbyAuthorities/households>	 "28000"	.
+
+<vw_NumberofHouseholdsbyAuthorities/rowId=285>	rdf:type	q:vw_NumberofHouseholdsbyAuthorities	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=285>	<vw_NumberofHouseholdsbyAuthorities/authority_name>	 "Tower Hamlets"	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=285>	<vw_NumberofHouseholdsbyAuthorities/households>	 "93000"	.
+
+<vw_NumberofHouseholdsbyAuthorities/rowId=286>	rdf:type	q:vw_NumberofHouseholdsbyAuthorities	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=286>	<vw_NumberofHouseholdsbyAuthorities/authority_name>	 "Trafford"	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=286>	<vw_NumberofHouseholdsbyAuthorities/households>	 "93000"	.
+
+<vw_NumberofHouseholdsbyAuthorities/rowId=287>	rdf:type	q:vw_NumberofHouseholdsbyAuthorities	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=287>	<vw_NumberofHouseholdsbyAuthorities/authority_name>	 "Tunbridge Wells"	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=287>	<vw_NumberofHouseholdsbyAuthorities/households>	 "45000"	.
+
+<vw_NumberofHouseholdsbyAuthorities/rowId=288>	rdf:type	q:vw_NumberofHouseholdsbyAuthorities	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=288>	<vw_NumberofHouseholdsbyAuthorities/authority_name>	 "Uttlesford"	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=288>	<vw_NumberofHouseholdsbyAuthorities/households>	 "30000"	.
+
+<vw_NumberofHouseholdsbyAuthorities/rowId=289>	rdf:type	q:vw_NumberofHouseholdsbyAuthorities	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=289>	<vw_NumberofHouseholdsbyAuthorities/authority_name>	 "Vale of White Horse"	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=289>	<vw_NumberofHouseholdsbyAuthorities/households>	 "47000"	.
+
+<vw_NumberofHouseholdsbyAuthorities/rowId=290>	rdf:type	q:vw_NumberofHouseholdsbyAuthorities	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=290>	<vw_NumberofHouseholdsbyAuthorities/authority_name>	 "Wakefield"	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=290>	<vw_NumberofHouseholdsbyAuthorities/households>	 "139000"	.
+
+<vw_NumberofHouseholdsbyAuthorities/rowId=291>	rdf:type	q:vw_NumberofHouseholdsbyAuthorities	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=291>	<vw_NumberofHouseholdsbyAuthorities/authority_name>	 "Walsall"	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=291>	<vw_NumberofHouseholdsbyAuthorities/households>	 "103000"	.
+
+<vw_NumberofHouseholdsbyAuthorities/rowId=292>	rdf:type	q:vw_NumberofHouseholdsbyAuthorities	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=292>	<vw_NumberofHouseholdsbyAuthorities/authority_name>	 "Waltham Forest"	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=292>	<vw_NumberofHouseholdsbyAuthorities/households>	 "91000"	.
+
+<vw_NumberofHouseholdsbyAuthorities/rowId=293>	rdf:type	q:vw_NumberofHouseholdsbyAuthorities	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=293>	<vw_NumberofHouseholdsbyAuthorities/authority_name>	 "Wandsworth"	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=293>	<vw_NumberofHouseholdsbyAuthorities/households>	 "126000"	.
+
+<vw_NumberofHouseholdsbyAuthorities/rowId=294>	rdf:type	q:vw_NumberofHouseholdsbyAuthorities	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=294>	<vw_NumberofHouseholdsbyAuthorities/authority_name>	 "Warrington"	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=294>	<vw_NumberofHouseholdsbyAuthorities/households>	 "82000"	.
+
+<vw_NumberofHouseholdsbyAuthorities/rowId=295>	rdf:type	q:vw_NumberofHouseholdsbyAuthorities	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=295>	<vw_NumberofHouseholdsbyAuthorities/authority_name>	 "Warwick"	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=295>	<vw_NumberofHouseholdsbyAuthorities/households>	 "60000"	.
+
+<vw_NumberofHouseholdsbyAuthorities/rowId=296>	rdf:type	q:vw_NumberofHouseholdsbyAuthorities	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=296>	<vw_NumberofHouseholdsbyAuthorities/authority_name>	 "Watford"	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=296>	<vw_NumberofHouseholdsbyAuthorities/households>	 "34000"	.
+
+<vw_NumberofHouseholdsbyAuthorities/rowId=297>	rdf:type	q:vw_NumberofHouseholdsbyAuthorities	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=297>	<vw_NumberofHouseholdsbyAuthorities/authority_name>	 "Waveney"	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=297>	<vw_NumberofHouseholdsbyAuthorities/households>	 "52000"	.
+
+<vw_NumberofHouseholdsbyAuthorities/rowId=298>	rdf:type	q:vw_NumberofHouseholdsbyAuthorities	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=298>	<vw_NumberofHouseholdsbyAuthorities/authority_name>	 "Waverley"	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=298>	<vw_NumberofHouseholdsbyAuthorities/households>	 "48000"	.
+
+<vw_NumberofHouseholdsbyAuthorities/rowId=299>	rdf:type	q:vw_NumberofHouseholdsbyAuthorities	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=299>	<vw_NumberofHouseholdsbyAuthorities/authority_name>	 "Wealden"	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=299>	<vw_NumberofHouseholdsbyAuthorities/households>	 "61000"	.
+
+<vw_NumberofHouseholdsbyAuthorities/rowId=300>	rdf:type	q:vw_NumberofHouseholdsbyAuthorities	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=300>	<vw_NumberofHouseholdsbyAuthorities/authority_name>	 "Wellingborough"	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=300>	<vw_NumberofHouseholdsbyAuthorities/households>	 "32000"	.
+
+<vw_NumberofHouseholdsbyAuthorities/rowId=301>	rdf:type	q:vw_NumberofHouseholdsbyAuthorities	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=301>	<vw_NumberofHouseholdsbyAuthorities/authority_name>	 "Welwyn Hatfield"	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=301>	<vw_NumberofHouseholdsbyAuthorities/households>	 "45000"	.
+
+<vw_NumberofHouseholdsbyAuthorities/rowId=302>	rdf:type	q:vw_NumberofHouseholdsbyAuthorities	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=302>	<vw_NumberofHouseholdsbyAuthorities/authority_name>	 "West Berkshire"	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=302>	<vw_NumberofHouseholdsbyAuthorities/households>	 "61000"	.
+
+<vw_NumberofHouseholdsbyAuthorities/rowId=303>	rdf:type	q:vw_NumberofHouseholdsbyAuthorities	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=303>	<vw_NumberofHouseholdsbyAuthorities/authority_name>	 "West Devon"	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=303>	<vw_NumberofHouseholdsbyAuthorities/households>	 "22000"	.
+
+<vw_NumberofHouseholdsbyAuthorities/rowId=304>	rdf:type	q:vw_NumberofHouseholdsbyAuthorities	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=304>	<vw_NumberofHouseholdsbyAuthorities/authority_name>	 "West Dorset"	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=304>	<vw_NumberofHouseholdsbyAuthorities/households>	 "43000"	.
+
+<vw_NumberofHouseholdsbyAuthorities/rowId=305>	rdf:type	q:vw_NumberofHouseholdsbyAuthorities	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=305>	<vw_NumberofHouseholdsbyAuthorities/authority_name>	 "West Lancashire"	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=305>	<vw_NumberofHouseholdsbyAuthorities/households>	 "46000"	.
+
+<vw_NumberofHouseholdsbyAuthorities/rowId=306>	rdf:type	q:vw_NumberofHouseholdsbyAuthorities	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=306>	<vw_NumberofHouseholdsbyAuthorities/authority_name>	 "West Lindsey"	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=306>	<vw_NumberofHouseholdsbyAuthorities/households>	 "37000"	.
+
+<vw_NumberofHouseholdsbyAuthorities/rowId=307>	rdf:type	q:vw_NumberofHouseholdsbyAuthorities	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=307>	<vw_NumberofHouseholdsbyAuthorities/authority_name>	 "West Oxfordshire"	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=307>	<vw_NumberofHouseholdsbyAuthorities/households>	 "42000"	.
+
+<vw_NumberofHouseholdsbyAuthorities/rowId=308>	rdf:type	q:vw_NumberofHouseholdsbyAuthorities	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=308>	<vw_NumberofHouseholdsbyAuthorities/authority_name>	 "West Somerset"	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=308>	<vw_NumberofHouseholdsbyAuthorities/households>	 "16000"	.
+
+<vw_NumberofHouseholdsbyAuthorities/rowId=309>	rdf:type	q:vw_NumberofHouseholdsbyAuthorities	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=309>	<vw_NumberofHouseholdsbyAuthorities/authority_name>	 "Westminster"	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=309>	<vw_NumberofHouseholdsbyAuthorities/households>	 "120000"	.
+
+<vw_NumberofHouseholdsbyAuthorities/rowId=310>	rdf:type	q:vw_NumberofHouseholdsbyAuthorities	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=310>	<vw_NumberofHouseholdsbyAuthorities/authority_name>	 "Weymouth and Portland"	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=310>	<vw_NumberofHouseholdsbyAuthorities/households>	 "28000"	.
+
+<vw_NumberofHouseholdsbyAuthorities/rowId=311>	rdf:type	q:vw_NumberofHouseholdsbyAuthorities	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=311>	<vw_NumberofHouseholdsbyAuthorities/authority_name>	 "Wigan"	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=311>	<vw_NumberofHouseholdsbyAuthorities/households>	 "130000"	.
+
+<vw_NumberofHouseholdsbyAuthorities/rowId=312>	rdf:type	q:vw_NumberofHouseholdsbyAuthorities	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=312>	<vw_NumberofHouseholdsbyAuthorities/authority_name>	 "Wiltshire"	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=312>	<vw_NumberofHouseholdsbyAuthorities/households>	 "187000"	.
+
+<vw_NumberofHouseholdsbyAuthorities/rowId=313>	rdf:type	q:vw_NumberofHouseholdsbyAuthorities	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=313>	<vw_NumberofHouseholdsbyAuthorities/authority_name>	 "Winchester"	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=313>	<vw_NumberofHouseholdsbyAuthorities/households>	 "45000"	.
+
+<vw_NumberofHouseholdsbyAuthorities/rowId=314>	rdf:type	q:vw_NumberofHouseholdsbyAuthorities	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=314>	<vw_NumberofHouseholdsbyAuthorities/authority_name>	 "Windsor and Maidenhead"	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=314>	<vw_NumberofHouseholdsbyAuthorities/households>	 "57000"	.
+
+<vw_NumberofHouseholdsbyAuthorities/rowId=315>	rdf:type	q:vw_NumberofHouseholdsbyAuthorities	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=315>	<vw_NumberofHouseholdsbyAuthorities/authority_name>	 "Wirral"	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=315>	<vw_NumberofHouseholdsbyAuthorities/households>	 "135000"	.
+
+<vw_NumberofHouseholdsbyAuthorities/rowId=316>	rdf:type	q:vw_NumberofHouseholdsbyAuthorities	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=316>	<vw_NumberofHouseholdsbyAuthorities/authority_name>	 "Woking"	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=316>	<vw_NumberofHouseholdsbyAuthorities/households>	 "38000"	.
+
+<vw_NumberofHouseholdsbyAuthorities/rowId=317>	rdf:type	q:vw_NumberofHouseholdsbyAuthorities	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=317>	<vw_NumberofHouseholdsbyAuthorities/authority_name>	 "Wokingham"	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=317>	<vw_NumberofHouseholdsbyAuthorities/households>	 "62000"	.
+
+<vw_NumberofHouseholdsbyAuthorities/rowId=318>	rdf:type	q:vw_NumberofHouseholdsbyAuthorities	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=318>	<vw_NumberofHouseholdsbyAuthorities/authority_name>	 "Wolverhampton"	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=318>	<vw_NumberofHouseholdsbyAuthorities/households>	 "99000"	.
+
+<vw_NumberofHouseholdsbyAuthorities/rowId=319>	rdf:type	q:vw_NumberofHouseholdsbyAuthorities	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=319>	<vw_NumberofHouseholdsbyAuthorities/authority_name>	 "Worcester"	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=319>	<vw_NumberofHouseholdsbyAuthorities/households>	 "40000"	.
+
+<vw_NumberofHouseholdsbyAuthorities/rowId=320>	rdf:type	q:vw_NumberofHouseholdsbyAuthorities	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=320>	<vw_NumberofHouseholdsbyAuthorities/authority_name>	 "Worthing"	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=320>	<vw_NumberofHouseholdsbyAuthorities/households>	 "47000"	.
+
+<vw_NumberofHouseholdsbyAuthorities/rowId=321>	rdf:type	q:vw_NumberofHouseholdsbyAuthorities	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=321>	<vw_NumberofHouseholdsbyAuthorities/authority_name>	 "Wychavon"	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=321>	<vw_NumberofHouseholdsbyAuthorities/households>	 "49000"	.
+
+<vw_NumberofHouseholdsbyAuthorities/rowId=322>	rdf:type	q:vw_NumberofHouseholdsbyAuthorities	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=322>	<vw_NumberofHouseholdsbyAuthorities/authority_name>	 "Wycombe"	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=322>	<vw_NumberofHouseholdsbyAuthorities/households>	 "65000"	.
+
+<vw_NumberofHouseholdsbyAuthorities/rowId=323>	rdf:type	q:vw_NumberofHouseholdsbyAuthorities	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=323>	<vw_NumberofHouseholdsbyAuthorities/authority_name>	 "Wyre"	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=323>	<vw_NumberofHouseholdsbyAuthorities/households>	 "49000"	.
+
+<vw_NumberofHouseholdsbyAuthorities/rowId=324>	rdf:type	q:vw_NumberofHouseholdsbyAuthorities	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=324>	<vw_NumberofHouseholdsbyAuthorities/authority_name>	 "Wyre Forest"	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=324>	<vw_NumberofHouseholdsbyAuthorities/households>	 "42000"	.
+
+<vw_NumberofHouseholdsbyAuthorities/rowId=325>	rdf:type	q:vw_NumberofHouseholdsbyAuthorities	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=325>	<vw_NumberofHouseholdsbyAuthorities/authority_name>	 "York"	.
+<vw_NumberofHouseholdsbyAuthorities/rowId=325>	<vw_NumberofHouseholdsbyAuthorities/households>	 "84000"	.
+
+<vw_NumberofHouseholdsbyAuthorities>	q:QuerySPARQL	"SELECT ?authority_name ?households
+WHERE {
+	?row <http://sparqlr.co.uk/q/vw_NumberofHouseholdsbyAuthorities/authority_name> ?authority_name . 
+	OPTIONAL { ?row <http://sparqlr.co.uk/q/vw_NumberofHouseholdsbyAuthorities/households> ?households . } .
+}" . 
+

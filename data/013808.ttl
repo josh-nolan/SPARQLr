@@ -1,0 +1,1320 @@
+# RDF file for 013808.ttl
+@base <http://sparqlr.co.uk/IS/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> . 
+@prefix q: <http://sparqlr.co.uk/q/> . 
+<013808>	rdf:type	q:ISQuery .
+<013808>	q:QueryId	"013808" . 
+<013808>	q:Title	"013808" . 
+<013808>	q:Endpoint	"http://sparqlr.co.uk/endpoint.php" . 
+<013808>	q:DateSaved	"1362775098" . 
+
+<013808/rowId=0>	rdf:type	q:013808	.
+<013808/rowId=0>	<013808/authority_name>	 "Adur"	.
+<013808/rowId=0>	<013808/households>	 "27000"	.
+
+<013808/rowId=1>	rdf:type	q:013808	.
+<013808/rowId=1>	<013808/authority_name>	 "Allerdale"	.
+<013808/rowId=1>	<013808/households>	 "41000"	.
+
+<013808/rowId=2>	rdf:type	q:013808	.
+<013808/rowId=2>	<013808/authority_name>	 "Amber Valley"	.
+<013808/rowId=2>	<013808/households>	 "52000"	.
+
+<013808/rowId=3>	rdf:type	q:013808	.
+<013808/rowId=3>	<013808/authority_name>	 "Arun"	.
+<013808/rowId=3>	<013808/households>	 "68000"	.
+
+<013808/rowId=4>	rdf:type	q:013808	.
+<013808/rowId=4>	<013808/authority_name>	 "Ashfield"	.
+<013808/rowId=4>	<013808/households>	 "49000"	.
+
+<013808/rowId=5>	rdf:type	q:013808	.
+<013808/rowId=5>	<013808/authority_name>	 "Ashford"	.
+<013808/rowId=5>	<013808/households>	 "46000"	.
+
+<013808/rowId=6>	rdf:type	q:013808	.
+<013808/rowId=6>	<013808/authority_name>	 "Aylesbury Vale"	.
+<013808/rowId=6>	<013808/households>	 "69000"	.
+
+<013808/rowId=7>	rdf:type	q:013808	.
+<013808/rowId=7>	<013808/authority_name>	 "Babergh"	.
+<013808/rowId=7>	<013808/households>	 "37000"	.
+
+<013808/rowId=8>	rdf:type	q:013808	.
+<013808/rowId=8>	<013808/authority_name>	 "Barking and Dagenham"	.
+<013808/rowId=8>	<013808/households>	 "68000"	.
+
+<013808/rowId=9>	rdf:type	q:013808	.
+<013808/rowId=9>	<013808/authority_name>	 "Barnet"	.
+<013808/rowId=9>	<013808/households>	 "137000"	.
+
+<013808/rowId=10>	rdf:type	q:013808	.
+<013808/rowId=10>	<013808/authority_name>	 "Barnsley"	.
+<013808/rowId=10>	<013808/households>	 "96000"	.
+
+<013808/rowId=11>	rdf:type	q:013808	.
+<013808/rowId=11>	<013808/authority_name>	 "Barrow-in-Furness"	.
+<013808/rowId=11>	<013808/households>	 "31000"	.
+
+<013808/rowId=12>	rdf:type	q:013808	.
+<013808/rowId=12>	<013808/authority_name>	 "Basildon"	.
+<013808/rowId=12>	<013808/households>	 "74000"	.
+
+<013808/rowId=13>	rdf:type	q:013808	.
+<013808/rowId=13>	<013808/authority_name>	 "Basingstoke and Deane"	.
+<013808/rowId=13>	<013808/households>	 "67000"	.
+
+<013808/rowId=14>	rdf:type	q:013808	.
+<013808/rowId=14>	<013808/authority_name>	 "Bassetlaw"	.
+<013808/rowId=14>	<013808/households>	 "47000"	.
+
+<013808/rowId=15>	rdf:type	q:013808	.
+<013808/rowId=15>	<013808/authority_name>	 "Bath and North East Somerset"	.
+<013808/rowId=15>	<013808/households>	 "74000"	.
+
+<013808/rowId=16>	rdf:type	q:013808	.
+<013808/rowId=16>	<013808/authority_name>	 "Bedford"	.
+<013808/rowId=16>	<013808/households>	 "65000"	.
+
+<013808/rowId=17>	rdf:type	q:013808	.
+<013808/rowId=17>	<013808/authority_name>	 "Bexley"	.
+<013808/rowId=17>	<013808/households>	 "93000"	.
+
+<013808/rowId=18>	rdf:type	q:013808	.
+<013808/rowId=18>	<013808/authority_name>	 "Birmingham"	.
+<013808/rowId=18>	<013808/households>	 "406000"	.
+
+<013808/rowId=19>	rdf:type	q:013808	.
+<013808/rowId=19>	<013808/authority_name>	 "Blaby"	.
+<013808/rowId=19>	<013808/households>	 "38000"	.
+
+<013808/rowId=20>	rdf:type	q:013808	.
+<013808/rowId=20>	<013808/authority_name>	 "Blackburn with Darwen"	.
+<013808/rowId=20>	<013808/households>	 "54000"	.
+
+<013808/rowId=21>	rdf:type	q:013808	.
+<013808/rowId=21>	<013808/authority_name>	 "Blackpool"	.
+<013808/rowId=21>	<013808/households>	 "63000"	.
+
+<013808/rowId=22>	rdf:type	q:013808	.
+<013808/rowId=22>	<013808/authority_name>	 "Bolsover"	.
+<013808/rowId=22>	<013808/households>	 "32000"	.
+
+<013808/rowId=23>	rdf:type	q:013808	.
+<013808/rowId=23>	<013808/authority_name>	 "Bolton"	.
+<013808/rowId=23>	<013808/households>	 "111000"	.
+
+<013808/rowId=24>	rdf:type	q:013808	.
+<013808/rowId=24>	<013808/authority_name>	 "Boston"	.
+<013808/rowId=24>	<013808/households>	 "26000"	.
+
+<013808/rowId=25>	rdf:type	q:013808	.
+<013808/rowId=25>	<013808/authority_name>	 "Bournemouth"	.
+<013808/rowId=25>	<013808/households>	 "73000"	.
+
+<013808/rowId=26>	rdf:type	q:013808	.
+<013808/rowId=26>	<013808/authority_name>	 "Bracknell Forest"	.
+<013808/rowId=26>	<013808/households>	 "47000"	.
+
+<013808/rowId=27>	rdf:type	q:013808	.
+<013808/rowId=27>	<013808/authority_name>	 "Bradford"	.
+<013808/rowId=27>	<013808/households>	 "192000"	.
+
+<013808/rowId=28>	rdf:type	q:013808	.
+<013808/rowId=28>	<013808/authority_name>	 "Braintree"	.
+<013808/rowId=28>	<013808/households>	 "60000"	.
+
+<013808/rowId=29>	rdf:type	q:013808	.
+<013808/rowId=29>	<013808/authority_name>	 "Breckland"	.
+<013808/rowId=29>	<013808/households>	 "55000"	.
+
+<013808/rowId=30>	rdf:type	q:013808	.
+<013808/rowId=30>	<013808/authority_name>	 "Brent"	.
+<013808/rowId=30>	<013808/households>	 "98000"	.
+
+<013808/rowId=31>	rdf:type	q:013808	.
+<013808/rowId=31>	<013808/authority_name>	 "Brentwood"	.
+<013808/rowId=31>	<013808/households>	 "30000"	.
+
+<013808/rowId=32>	rdf:type	q:013808	.
+<013808/rowId=32>	<013808/authority_name>	 "Brighton and Hove"	.
+<013808/rowId=32>	<013808/households>	 "115000"	.
+
+<013808/rowId=33>	rdf:type	q:013808	.
+<013808/rowId=33>	<013808/authority_name>	 "Bristol, City of"	.
+<013808/rowId=33>	<013808/households>	 "184000"	.
+
+<013808/rowId=34>	rdf:type	q:013808	.
+<013808/rowId=34>	<013808/authority_name>	 "Broadland"	.
+<013808/rowId=34>	<013808/households>	 "53000"	.
+
+<013808/rowId=35>	rdf:type	q:013808	.
+<013808/rowId=35>	<013808/authority_name>	 "Bromley"	.
+<013808/rowId=35>	<013808/households>	 "133000"	.
+
+<013808/rowId=36>	rdf:type	q:013808	.
+<013808/rowId=36>	<013808/authority_name>	 "Bromsgrove"	.
+<013808/rowId=36>	<013808/households>	 "38000"	.
+
+<013808/rowId=37>	rdf:type	q:013808	.
+<013808/rowId=37>	<013808/authority_name>	 "Broxbourne"	.
+<013808/rowId=37>	<013808/households>	 "36000"	.
+
+<013808/rowId=38>	rdf:type	q:013808	.
+<013808/rowId=38>	<013808/authority_name>	 "Broxtowe"	.
+<013808/rowId=38>	<013808/households>	 "48000"	.
+
+<013808/rowId=39>	rdf:type	q:013808	.
+<013808/rowId=39>	<013808/authority_name>	 "Burnley"	.
+<013808/rowId=39>	<013808/households>	 "36000"	.
+
+<013808/rowId=40>	rdf:type	q:013808	.
+<013808/rowId=40>	<013808/authority_name>	 "Bury"	.
+<013808/rowId=40>	<013808/households>	 "76000"	.
+
+<013808/rowId=41>	rdf:type	q:013808	.
+<013808/rowId=41>	<013808/authority_name>	 "Calderdale"	.
+<013808/rowId=41>	<013808/households>	 "86000"	.
+
+<013808/rowId=42>	rdf:type	q:013808	.
+<013808/rowId=42>	<013808/authority_name>	 "Cambridge"	.
+<013808/rowId=42>	<013808/households>	 "45000"	.
+
+<013808/rowId=43>	rdf:type	q:013808	.
+<013808/rowId=43>	<013808/authority_name>	 "Camden"	.
+<013808/rowId=43>	<013808/households>	 "103000"	.
+
+<013808/rowId=44>	rdf:type	q:013808	.
+<013808/rowId=44>	<013808/authority_name>	 "Cannock Chase"	.
+<013808/rowId=44>	<013808/households>	 "39000"	.
+
+<013808/rowId=45>	rdf:type	q:013808	.
+<013808/rowId=45>	<013808/authority_name>	 "Canterbury"	.
+<013808/rowId=45>	<013808/households>	 "61000"	.
+
+<013808/rowId=46>	rdf:type	q:013808	.
+<013808/rowId=46>	<013808/authority_name>	 "Carlisle"	.
+<013808/rowId=46>	<013808/households>	 "47000"	.
+
+<013808/rowId=47>	rdf:type	q:013808	.
+<013808/rowId=47>	<013808/authority_name>	 "Castle Point"	.
+<013808/rowId=47>	<013808/households>	 "37000"	.
+
+<013808/rowId=48>	rdf:type	q:013808	.
+<013808/rowId=48>	<013808/authority_name>	 "Central Bedfordshire"	.
+<013808/rowId=48>	<013808/households>	 "104000"	.
+
+<013808/rowId=49>	rdf:type	q:013808	.
+<013808/rowId=49>	<013808/authority_name>	 "Charnwood"	.
+<013808/rowId=49>	<013808/households>	 "65000"	.
+
+<013808/rowId=50>	rdf:type	q:013808	.
+<013808/rowId=50>	<013808/authority_name>	 "Chelmsford"	.
+<013808/rowId=50>	<013808/households>	 "70000"	.
+
+<013808/rowId=51>	rdf:type	q:013808	.
+<013808/rowId=51>	<013808/authority_name>	 "Cheltenham"	.
+<013808/rowId=51>	<013808/households>	 "50000"	.
+
+<013808/rowId=52>	rdf:type	q:013808	.
+<013808/rowId=52>	<013808/authority_name>	 "Cherwell"	.
+<013808/rowId=52>	<013808/households>	 "57000"	.
+
+<013808/rowId=53>	rdf:type	q:013808	.
+<013808/rowId=53>	<013808/authority_name>	 "Cheshire East"	.
+<013808/rowId=53>	<013808/households>	 "155000"	.
+
+<013808/rowId=54>	rdf:type	q:013808	.
+<013808/rowId=54>	<013808/authority_name>	 "Cheshire West and Chester"	.
+<013808/rowId=54>	<013808/households>	 "137000"	.
+
+<013808/rowId=55>	rdf:type	q:013808	.
+<013808/rowId=55>	<013808/authority_name>	 "Chesterfield"	.
+<013808/rowId=55>	<013808/households>	 "45000"	.
+
+<013808/rowId=56>	rdf:type	q:013808	.
+<013808/rowId=56>	<013808/authority_name>	 "Chichester"	.
+<013808/rowId=56>	<013808/households>	 "49000"	.
+
+<013808/rowId=57>	rdf:type	q:013808	.
+<013808/rowId=57>	<013808/authority_name>	 "Chiltern"	.
+<013808/rowId=57>	<013808/households>	 "36000"	.
+
+<013808/rowId=58>	rdf:type	q:013808	.
+<013808/rowId=58>	<013808/authority_name>	 "Chorley"	.
+<013808/rowId=58>	<013808/households>	 "44000"	.
+
+<013808/rowId=59>	rdf:type	q:013808	.
+<013808/rowId=59>	<013808/authority_name>	 "Christchurch"	.
+<013808/rowId=59>	<013808/households>	 "21000"	.
+
+<013808/rowId=60>	rdf:type	q:013808	.
+<013808/rowId=60>	<013808/authority_name>	 "City of London"	.
+<013808/rowId=60>	<013808/households>	 "7000"	.
+
+<013808/rowId=61>	rdf:type	q:013808	.
+<013808/rowId=61>	<013808/authority_name>	 "Colchester"	.
+<013808/rowId=61>	<013808/households>	 "72000"	.
+
+<013808/rowId=62>	rdf:type	q:013808	.
+<013808/rowId=62>	<013808/authority_name>	 "Copeland"	.
+<013808/rowId=62>	<013808/households>	 "31000"	.
+
+<013808/rowId=63>	rdf:type	q:013808	.
+<013808/rowId=63>	<013808/authority_name>	 "Corby"	.
+<013808/rowId=63>	<013808/households>	 "23000"	.
+
+<013808/rowId=64>	rdf:type	q:013808	.
+<013808/rowId=64>	<013808/authority_name>	 "Cornwall"	.
+<013808/rowId=64>	<013808/households>	 "232000"	.
+
+<013808/rowId=65>	rdf:type	q:013808	.
+<013808/rowId=65>	<013808/authority_name>	 "Cotswold"	.
+<013808/rowId=65>	<013808/households>	 "36000"	.
+
+<013808/rowId=66>	rdf:type	q:013808	.
+<013808/rowId=66>	<013808/authority_name>	 "County Durham"	.
+<013808/rowId=66>	<013808/households>	 "216000"	.
+
+<013808/rowId=67>	rdf:type	q:013808	.
+<013808/rowId=67>	<013808/authority_name>	 "Coventry"	.
+<013808/rowId=67>	<013808/households>	 "127000"	.
+
+<013808/rowId=68>	rdf:type	q:013808	.
+<013808/rowId=68>	<013808/authority_name>	 "Craven"	.
+<013808/rowId=68>	<013808/households>	 "24000"	.
+
+<013808/rowId=69>	rdf:type	q:013808	.
+<013808/rowId=69>	<013808/authority_name>	 "Crawley"	.
+<013808/rowId=69>	<013808/households>	 "43000"	.
+
+<013808/rowId=70>	rdf:type	q:013808	.
+<013808/rowId=70>	<013808/authority_name>	 "Croydon"	.
+<013808/rowId=70>	<013808/households>	 "146000"	.
+
+<013808/rowId=71>	rdf:type	q:013808	.
+<013808/rowId=71>	<013808/authority_name>	 "Dacorum"	.
+<013808/rowId=71>	<013808/households>	 "58000"	.
+
+<013808/rowId=72>	rdf:type	q:013808	.
+<013808/rowId=72>	<013808/authority_name>	 "Darlington"	.
+<013808/rowId=72>	<013808/households>	 "44000"	.
+
+<013808/rowId=73>	rdf:type	q:013808	.
+<013808/rowId=73>	<013808/authority_name>	 "Dartford"	.
+<013808/rowId=73>	<013808/households>	 "39000"	.
+
+<013808/rowId=74>	rdf:type	q:013808	.
+<013808/rowId=74>	<013808/authority_name>	 "Daventry"	.
+<013808/rowId=74>	<013808/households>	 "32000"	.
+
+<013808/rowId=75>	rdf:type	q:013808	.
+<013808/rowId=75>	<013808/authority_name>	 "Derby"	.
+<013808/rowId=75>	<013808/households>	 "102000"	.
+
+<013808/rowId=76>	rdf:type	q:013808	.
+<013808/rowId=76>	<013808/authority_name>	 "Derbyshire Dales"	.
+<013808/rowId=76>	<013808/households>	 "30000"	.
+
+<013808/rowId=77>	rdf:type	q:013808	.
+<013808/rowId=77>	<013808/authority_name>	 "Doncaster"	.
+<013808/rowId=77>	<013808/households>	 "122000"	.
+
+<013808/rowId=78>	rdf:type	q:013808	.
+<013808/rowId=78>	<013808/authority_name>	 "Dover"	.
+<013808/rowId=78>	<013808/households>	 "46000"	.
+
+<013808/rowId=79>	rdf:type	q:013808	.
+<013808/rowId=79>	<013808/authority_name>	 "Dudley"	.
+<013808/rowId=79>	<013808/households>	 "127000"	.
+
+<013808/rowId=80>	rdf:type	q:013808	.
+<013808/rowId=80>	<013808/authority_name>	 "Ealing"	.
+<013808/rowId=80>	<013808/households>	 "124000"	.
+
+<013808/rowId=81>	rdf:type	q:013808	.
+<013808/rowId=81>	<013808/authority_name>	 "East Cambridgeshire"	.
+<013808/rowId=81>	<013808/households>	 "34000"	.
+
+<013808/rowId=82>	rdf:type	q:013808	.
+<013808/rowId=82>	<013808/authority_name>	 "East Devon"	.
+<013808/rowId=82>	<013808/households>	 "59000"	.
+
+<013808/rowId=83>	rdf:type	q:013808	.
+<013808/rowId=83>	<013808/authority_name>	 "East Dorset"	.
+<013808/rowId=83>	<013808/households>	 "38000"	.
+
+<013808/rowId=84>	rdf:type	q:013808	.
+<013808/rowId=84>	<013808/authority_name>	 "East Hampshire"	.
+<013808/rowId=84>	<013808/households>	 "45000"	.
+
+<013808/rowId=85>	rdf:type	q:013808	.
+<013808/rowId=85>	<013808/authority_name>	 "East Hertfordshire"	.
+<013808/rowId=85>	<013808/households>	 "56000"	.
+
+<013808/rowId=86>	rdf:type	q:013808	.
+<013808/rowId=86>	<013808/authority_name>	 "East Lindsey"	.
+<013808/rowId=86>	<013808/households>	 "62000"	.
+
+<013808/rowId=87>	rdf:type	q:013808	.
+<013808/rowId=87>	<013808/authority_name>	 "East Northamptonshire"	.
+<013808/rowId=87>	<013808/households>	 "35000"	.
+
+<013808/rowId=88>	rdf:type	q:013808	.
+<013808/rowId=88>	<013808/authority_name>	 "East Riding of Yorkshire"	.
+<013808/rowId=88>	<013808/households>	 "144000"	.
+
+<013808/rowId=89>	rdf:type	q:013808	.
+<013808/rowId=89>	<013808/authority_name>	 "East Staffordshire"	.
+<013808/rowId=89>	<013808/households>	 "45000"	.
+
+<013808/rowId=90>	rdf:type	q:013808	.
+<013808/rowId=90>	<013808/authority_name>	 "Eastbourne"	.
+<013808/rowId=90>	<013808/households>	 "44000"	.
+
+<013808/rowId=91>	rdf:type	q:013808	.
+<013808/rowId=91>	<013808/authority_name>	 "Eastleigh"	.
+<013808/rowId=91>	<013808/households>	 "50000"	.
+
+<013808/rowId=92>	rdf:type	q:013808	.
+<013808/rowId=92>	<013808/authority_name>	 "Eden"	.
+<013808/rowId=92>	<013808/households>	 "23000"	.
+
+<013808/rowId=93>	rdf:type	q:013808	.
+<013808/rowId=93>	<013808/authority_name>	 "Elmbridge"	.
+<013808/rowId=93>	<013808/households>	 "54000"	.
+
+<013808/rowId=94>	rdf:type	q:013808	.
+<013808/rowId=94>	<013808/authority_name>	 "Enfield"	.
+<013808/rowId=94>	<013808/households>	 "117000"	.
+
+<013808/rowId=95>	rdf:type	q:013808	.
+<013808/rowId=95>	<013808/authority_name>	 "Epping Forest"	.
+<013808/rowId=95>	<013808/households>	 "52000"	.
+
+<013808/rowId=96>	rdf:type	q:013808	.
+<013808/rowId=96>	<013808/authority_name>	 "Epsom and Ewell"	.
+<013808/rowId=96>	<013808/households>	 "29000"	.
+
+<013808/rowId=97>	rdf:type	q:013808	.
+<013808/rowId=97>	<013808/authority_name>	 "Erewash"	.
+<013808/rowId=97>	<013808/households>	 "48000"	.
+
+<013808/rowId=98>	rdf:type	q:013808	.
+<013808/rowId=98>	<013808/authority_name>	 "Exeter"	.
+<013808/rowId=98>	<013808/households>	 "51000"	.
+
+<013808/rowId=99>	rdf:type	q:013808	.
+<013808/rowId=99>	<013808/authority_name>	 "Fareham"	.
+<013808/rowId=99>	<013808/households>	 "46000"	.
+
+<013808/rowId=100>	rdf:type	q:013808	.
+<013808/rowId=100>	<013808/authority_name>	 "Fenland"	.
+<013808/rowId=100>	<013808/households>	 "39000"	.
+
+<013808/rowId=101>	rdf:type	q:013808	.
+<013808/rowId=101>	<013808/authority_name>	 "Forest Heath"	.
+<013808/rowId=101>	<013808/households>	 "25000"	.
+
+<013808/rowId=102>	rdf:type	q:013808	.
+<013808/rowId=102>	<013808/authority_name>	 "Forest of Dean"	.
+<013808/rowId=102>	<013808/households>	 "34000"	.
+
+<013808/rowId=103>	rdf:type	q:013808	.
+<013808/rowId=103>	<013808/authority_name>	 "Fylde"	.
+<013808/rowId=103>	<013808/households>	 "35000"	.
+
+<013808/rowId=104>	rdf:type	q:013808	.
+<013808/rowId=104>	<013808/authority_name>	 "Gateshead"	.
+<013808/rowId=104>	<013808/households>	 "85000"	.
+
+<013808/rowId=105>	rdf:type	q:013808	.
+<013808/rowId=105>	<013808/authority_name>	 "Gedling"	.
+<013808/rowId=105>	<013808/households>	 "49000"	.
+
+<013808/rowId=106>	rdf:type	q:013808	.
+<013808/rowId=106>	<013808/authority_name>	 "Gloucester"	.
+<013808/rowId=106>	<013808/households>	 "50000"	.
+
+<013808/rowId=107>	rdf:type	q:013808	.
+<013808/rowId=107>	<013808/authority_name>	 "Gosport"	.
+<013808/rowId=107>	<013808/households>	 "34000"	.
+
+<013808/rowId=108>	rdf:type	q:013808	.
+<013808/rowId=108>	<013808/authority_name>	 "Gravesham"	.
+<013808/rowId=108>	<013808/households>	 "40000"	.
+
+<013808/rowId=109>	rdf:type	q:013808	.
+<013808/rowId=109>	<013808/authority_name>	 "Great Yarmouth"	.
+<013808/rowId=109>	<013808/households>	 "42000"	.
+
+<013808/rowId=110>	rdf:type	q:013808	.
+<013808/rowId=110>	<013808/authority_name>	 "Greenwich"	.
+<013808/rowId=110>	<013808/households>	 "97000"	.
+
+<013808/rowId=111>	rdf:type	q:013808	.
+<013808/rowId=111>	<013808/authority_name>	 "Guildford"	.
+<013808/rowId=111>	<013808/households>	 "54000"	.
+
+<013808/rowId=112>	rdf:type	q:013808	.
+<013808/rowId=112>	<013808/authority_name>	 "Hackney"	.
+<013808/rowId=112>	<013808/households>	 "90000"	.
+
+<013808/rowId=113>	rdf:type	q:013808	.
+<013808/rowId=113>	<013808/authority_name>	 "Halton"	.
+<013808/rowId=113>	<013808/households>	 "49000"	.
+
+<013808/rowId=114>	rdf:type	q:013808	.
+<013808/rowId=114>	<013808/authority_name>	 "Hambleton"	.
+<013808/rowId=114>	<013808/households>	 "37000"	.
+
+<013808/rowId=115>	rdf:type	q:013808	.
+<013808/rowId=115>	<013808/authority_name>	 "Hammersmith and Fulham"	.
+<013808/rowId=115>	<013808/households>	 "76000"	.
+
+<013808/rowId=116>	rdf:type	q:013808	.
+<013808/rowId=116>	<013808/authority_name>	 "Harborough"	.
+<013808/rowId=116>	<013808/households>	 "34000"	.
+
+<013808/rowId=117>	rdf:type	q:013808	.
+<013808/rowId=117>	<013808/authority_name>	 "Haringey"	.
+<013808/rowId=117>	<013808/households>	 "98000"	.
+
+<013808/rowId=118>	rdf:type	q:013808	.
+<013808/rowId=118>	<013808/authority_name>	 "Harlow"	.
+<013808/rowId=118>	<013808/households>	 "35000"	.
+
+<013808/rowId=119>	rdf:type	q:013808	.
+<013808/rowId=119>	<013808/authority_name>	 "Harrogate"	.
+<013808/rowId=119>	<013808/households>	 "67000"	.
+
+<013808/rowId=120>	rdf:type	q:013808	.
+<013808/rowId=120>	<013808/authority_name>	 "Harrow"	.
+<013808/rowId=120>	<013808/households>	 "86000"	.
+
+<013808/rowId=121>	rdf:type	q:013808	.
+<013808/rowId=121>	<013808/authority_name>	 "Hart"	.
+<013808/rowId=121>	<013808/households>	 "36000"	.
+
+<013808/rowId=122>	rdf:type	q:013808	.
+<013808/rowId=122>	<013808/authority_name>	 "Hartlepool"	.
+<013808/rowId=122>	<013808/households>	 "39000"	.
+
+<013808/rowId=123>	rdf:type	q:013808	.
+<013808/rowId=123>	<013808/authority_name>	 "Hastings"	.
+<013808/rowId=123>	<013808/households>	 "39000"	.
+
+<013808/rowId=124>	rdf:type	q:013808	.
+<013808/rowId=124>	<013808/authority_name>	 "Havant"	.
+<013808/rowId=124>	<013808/households>	 "50000"	.
+
+<013808/rowId=125>	rdf:type	q:013808	.
+<013808/rowId=125>	<013808/authority_name>	 "Havering"	.
+<013808/rowId=125>	<013808/households>	 "96000"	.
+
+<013808/rowId=126>	rdf:type	q:013808	.
+<013808/rowId=126>	<013808/authority_name>	 "Herefordshire, County of"	.
+<013808/rowId=126>	<013808/households>	 "78000"	.
+
+<013808/rowId=127>	rdf:type	q:013808	.
+<013808/rowId=127>	<013808/authority_name>	 "Hertsmere"	.
+<013808/rowId=127>	<013808/households>	 "40000"	.
+
+<013808/rowId=128>	rdf:type	q:013808	.
+<013808/rowId=128>	<013808/authority_name>	 "High Peak"	.
+<013808/rowId=128>	<013808/households>	 "39000"	.
+
+<013808/rowId=129>	rdf:type	q:013808	.
+<013808/rowId=129>	<013808/authority_name>	 "Hillingdon"	.
+<013808/rowId=129>	<013808/households>	 "102000"	.
+
+<013808/rowId=130>	rdf:type	q:013808	.
+<013808/rowId=130>	<013808/authority_name>	 "Hinckley and Bosworth"	.
+<013808/rowId=130>	<013808/households>	 "44000"	.
+
+<013808/rowId=131>	rdf:type	q:013808	.
+<013808/rowId=131>	<013808/authority_name>	 "Horsham"	.
+<013808/rowId=131>	<013808/households>	 "54000"	.
+
+<013808/rowId=132>	rdf:type	q:013808	.
+<013808/rowId=132>	<013808/authority_name>	 "Hounslow"	.
+<013808/rowId=132>	<013808/households>	 "92000"	.
+
+<013808/rowId=133>	rdf:type	q:013808	.
+<013808/rowId=133>	<013808/authority_name>	 "Huntingdonshire"	.
+<013808/rowId=133>	<013808/households>	 "69000"	.
+
+<013808/rowId=134>	rdf:type	q:013808	.
+<013808/rowId=134>	<013808/authority_name>	 "Hyndburn"	.
+<013808/rowId=134>	<013808/households>	 "33000"	.
+
+<013808/rowId=135>	rdf:type	q:013808	.
+<013808/rowId=135>	<013808/authority_name>	 "Ipswich"	.
+<013808/rowId=135>	<013808/households>	 "55000"	.
+
+<013808/rowId=136>	rdf:type	q:013808	.
+<013808/rowId=136>	<013808/authority_name>	 "Isle of Wight"	.
+<013808/rowId=136>	<013808/households>	 "62000"	.
+
+<013808/rowId=137>	rdf:type	q:013808	.
+<013808/rowId=137>	<013808/authority_name>	 "Isles of Scilly"	.
+<013808/rowId=137>	<013808/households>	 "1000"	.
+
+<013808/rowId=138>	rdf:type	q:013808	.
+<013808/rowId=138>	<013808/authority_name>	 "Islington"	.
+<013808/rowId=138>	<013808/households>	 "87000"	.
+
+<013808/rowId=139>	rdf:type	q:013808	.
+<013808/rowId=139>	<013808/authority_name>	 "Kensington and Chelsea"	.
+<013808/rowId=139>	<013808/households>	 "85000"	.
+
+<013808/rowId=140>	rdf:type	q:013808	.
+<013808/rowId=140>	<013808/authority_name>	 "Kettering"	.
+<013808/rowId=140>	<013808/households>	 "38000"	.
+
+<013808/rowId=141>	rdf:type	q:013808	.
+<013808/rowId=141>	<013808/authority_name>	 "King's Lynn and West Norfolk"	.
+<013808/rowId=141>	<013808/households>	 "62000"	.
+
+<013808/rowId=142>	rdf:type	q:013808	.
+<013808/rowId=142>	<013808/authority_name>	 "Kingston upon Hull, City of"	.
+<013808/rowId=142>	<013808/households>	 "115000"	.
+
+<013808/rowId=143>	rdf:type	q:013808	.
+<013808/rowId=143>	<013808/authority_name>	 "Kingston upon Thames"	.
+<013808/rowId=143>	<013808/households>	 "68000"	.
+
+<013808/rowId=144>	rdf:type	q:013808	.
+<013808/rowId=144>	<013808/authority_name>	 "Kirklees"	.
+<013808/rowId=144>	<013808/households>	 "167000"	.
+
+<013808/rowId=145>	rdf:type	q:013808	.
+<013808/rowId=145>	<013808/authority_name>	 "Knowsley"	.
+<013808/rowId=145>	<013808/households>	 "62000"	.
+
+<013808/rowId=146>	rdf:type	q:013808	.
+<013808/rowId=146>	<013808/authority_name>	 "Lambeth"	.
+<013808/rowId=146>	<013808/households>	 "126000"	.
+
+<013808/rowId=147>	rdf:type	q:013808	.
+<013808/rowId=147>	<013808/authority_name>	 "Lancaster"	.
+<013808/rowId=147>	<013808/households>	 "60000"	.
+
+<013808/rowId=148>	rdf:type	q:013808	.
+<013808/rowId=148>	<013808/authority_name>	 "Leeds"	.
+<013808/rowId=148>	<013808/households>	 "334000"	.
+
+<013808/rowId=149>	rdf:type	q:013808	.
+<013808/rowId=149>	<013808/authority_name>	 "Leicester"	.
+<013808/rowId=149>	<013808/households>	 "121000"	.
+
+<013808/rowId=150>	rdf:type	q:013808	.
+<013808/rowId=150>	<013808/authority_name>	 "Lewes"	.
+<013808/rowId=150>	<013808/households>	 "42000"	.
+
+<013808/rowId=151>	rdf:type	q:013808	.
+<013808/rowId=151>	<013808/authority_name>	 "Lewisham"	.
+<013808/rowId=151>	<013808/households>	 "115000"	.
+
+<013808/rowId=152>	rdf:type	q:013808	.
+<013808/rowId=152>	<013808/authority_name>	 "Lichfield"	.
+<013808/rowId=152>	<013808/households>	 "40000"	.
+
+<013808/rowId=153>	rdf:type	q:013808	.
+<013808/rowId=153>	<013808/authority_name>	 "Lincoln"	.
+<013808/rowId=153>	<013808/households>	 "38000"	.
+
+<013808/rowId=154>	rdf:type	q:013808	.
+<013808/rowId=154>	<013808/authority_name>	 "Liverpool"	.
+<013808/rowId=154>	<013808/households>	 "193000"	.
+
+<013808/rowId=155>	rdf:type	q:013808	.
+<013808/rowId=155>	<013808/authority_name>	 "Luton"	.
+<013808/rowId=155>	<013808/households>	 "73000"	.
+
+<013808/rowId=156>	rdf:type	q:013808	.
+<013808/rowId=156>	<013808/authority_name>	 "Maidstone"	.
+<013808/rowId=156>	<013808/households>	 "61000"	.
+
+<013808/rowId=157>	rdf:type	q:013808	.
+<013808/rowId=157>	<013808/authority_name>	 "Maldon"	.
+<013808/rowId=157>	<013808/households>	 "26000"	.
+
+<013808/rowId=158>	rdf:type	q:013808	.
+<013808/rowId=158>	<013808/authority_name>	 "Malvern Hills"	.
+<013808/rowId=158>	<013808/households>	 "32000"	.
+
+<013808/rowId=159>	rdf:type	q:013808	.
+<013808/rowId=159>	<013808/authority_name>	 "Manchester"	.
+<013808/rowId=159>	<013808/households>	 "202000"	.
+
+<013808/rowId=160>	rdf:type	q:013808	.
+<013808/rowId=160>	<013808/authority_name>	 "Mansfield"	.
+<013808/rowId=160>	<013808/households>	 "43000"	.
+
+<013808/rowId=161>	rdf:type	q:013808	.
+<013808/rowId=161>	<013808/authority_name>	 "Medway"	.
+<013808/rowId=161>	<013808/households>	 "104000"	.
+
+<013808/rowId=162>	rdf:type	q:013808	.
+<013808/rowId=162>	<013808/authority_name>	 "Melton"	.
+<013808/rowId=162>	<013808/households>	 "20000"	.
+
+<013808/rowId=163>	rdf:type	q:013808	.
+<013808/rowId=163>	<013808/authority_name>	 "Mendip"	.
+<013808/rowId=163>	<013808/households>	 "46000"	.
+
+<013808/rowId=164>	rdf:type	q:013808	.
+<013808/rowId=164>	<013808/authority_name>	 "Merton"	.
+<013808/rowId=164>	<013808/households>	 "87000"	.
+
+<013808/rowId=165>	rdf:type	q:013808	.
+<013808/rowId=165>	<013808/authority_name>	 "Mid Devon"	.
+<013808/rowId=165>	<013808/households>	 "32000"	.
+
+<013808/rowId=166>	rdf:type	q:013808	.
+<013808/rowId=166>	<013808/authority_name>	 "Mid Suffolk"	.
+<013808/rowId=166>	<013808/households>	 "39000"	.
+
+<013808/rowId=167>	rdf:type	q:013808	.
+<013808/rowId=167>	<013808/authority_name>	 "Mid Sussex"	.
+<013808/rowId=167>	<013808/households>	 "54000"	.
+
+<013808/rowId=168>	rdf:type	q:013808	.
+<013808/rowId=168>	<013808/authority_name>	 "Middlesbrough"	.
+<013808/rowId=168>	<013808/households>	 "58000"	.
+
+<013808/rowId=169>	rdf:type	q:013808	.
+<013808/rowId=169>	<013808/authority_name>	 "Milton Keynes"	.
+<013808/rowId=169>	<013808/households>	 "96000"	.
+
+<013808/rowId=170>	rdf:type	q:013808	.
+<013808/rowId=170>	<013808/authority_name>	 "Mole Valley"	.
+<013808/rowId=170>	<013808/households>	 "35000"	.
+
+<013808/rowId=171>	rdf:type	q:013808	.
+<013808/rowId=171>	<013808/authority_name>	 "New Forest"	.
+<013808/rowId=171>	<013808/households>	 "76000"	.
+
+<013808/rowId=172>	rdf:type	q:013808	.
+<013808/rowId=172>	<013808/authority_name>	 "Newark and Sherwood"	.
+<013808/rowId=172>	<013808/households>	 "48000"	.
+
+<013808/rowId=173>	rdf:type	q:013808	.
+<013808/rowId=173>	<013808/authority_name>	 "Newcastle upon Tyne"	.
+<013808/rowId=173>	<013808/households>	 "119000"	.
+
+<013808/rowId=174>	rdf:type	q:013808	.
+<013808/rowId=174>	<013808/authority_name>	 "Newcastle-under-Lyme"	.
+<013808/rowId=174>	<013808/households>	 "53000"	.
+
+<013808/rowId=175>	rdf:type	q:013808	.
+<013808/rowId=175>	<013808/authority_name>	 "Newham"	.
+<013808/rowId=175>	<013808/households>	 "92000"	.
+
+<013808/rowId=176>	rdf:type	q:013808	.
+<013808/rowId=176>	<013808/authority_name>	 "North Devon"	.
+<013808/rowId=176>	<013808/households>	 "39000"	.
+
+<013808/rowId=177>	rdf:type	q:013808	.
+<013808/rowId=177>	<013808/authority_name>	 "North Dorset"	.
+<013808/rowId=177>	<013808/households>	 "27000"	.
+
+<013808/rowId=178>	rdf:type	q:013808	.
+<013808/rowId=178>	<013808/authority_name>	 "North East Derbyshire"	.
+<013808/rowId=178>	<013808/households>	 "42000"	.
+
+<013808/rowId=179>	rdf:type	q:013808	.
+<013808/rowId=179>	<013808/authority_name>	 "North East Lincolnshire"	.
+<013808/rowId=179>	<013808/households>	 "67000"	.
+
+<013808/rowId=180>	rdf:type	q:013808	.
+<013808/rowId=180>	<013808/authority_name>	 "North Hertfordshire"	.
+<013808/rowId=180>	<013808/households>	 "53000"	.
+
+<013808/rowId=181>	rdf:type	q:013808	.
+<013808/rowId=181>	<013808/authority_name>	 "North Kesteven"	.
+<013808/rowId=181>	<013808/households>	 "44000"	.
+
+<013808/rowId=182>	rdf:type	q:013808	.
+<013808/rowId=182>	<013808/authority_name>	 "North Lincolnshire"	.
+<013808/rowId=182>	<013808/households>	 "68000"	.
+
+<013808/rowId=183>	rdf:type	q:013808	.
+<013808/rowId=183>	<013808/authority_name>	 "North Norfolk"	.
+<013808/rowId=183>	<013808/households>	 "46000"	.
+
+<013808/rowId=184>	rdf:type	q:013808	.
+<013808/rowId=184>	<013808/authority_name>	 "North Somerset"	.
+<013808/rowId=184>	<013808/households>	 "89000"	.
+
+<013808/rowId=185>	rdf:type	q:013808	.
+<013808/rowId=185>	<013808/authority_name>	 "North Tyneside"	.
+<013808/rowId=185>	<013808/households>	 "89000"	.
+
+<013808/rowId=186>	rdf:type	q:013808	.
+<013808/rowId=186>	<013808/authority_name>	 "North Warwickshire"	.
+<013808/rowId=186>	<013808/households>	 "26000"	.
+
+<013808/rowId=187>	rdf:type	q:013808	.
+<013808/rowId=187>	<013808/authority_name>	 "North West Leicestershire"	.
+<013808/rowId=187>	<013808/households>	 "38000"	.
+
+<013808/rowId=188>	rdf:type	q:013808	.
+<013808/rowId=188>	<013808/authority_name>	 "Northampton"	.
+<013808/rowId=188>	<013808/households>	 "90000"	.
+
+<013808/rowId=189>	rdf:type	q:013808	.
+<013808/rowId=189>	<013808/authority_name>	 "Northumberland"	.
+<013808/rowId=189>	<013808/households>	 "136000"	.
+
+<013808/rowId=190>	rdf:type	q:013808	.
+<013808/rowId=190>	<013808/authority_name>	 "Norwich"	.
+<013808/rowId=190>	<013808/households>	 "62000"	.
+
+<013808/rowId=191>	rdf:type	q:013808	.
+<013808/rowId=191>	<013808/authority_name>	 "Nottingham"	.
+<013808/rowId=191>	<013808/households>	 "129000"	.
+
+<013808/rowId=192>	rdf:type	q:013808	.
+<013808/rowId=192>	<013808/authority_name>	 "Nuneaton and Bedworth"	.
+<013808/rowId=192>	<013808/households>	 "51000"	.
+
+<013808/rowId=193>	rdf:type	q:013808	.
+<013808/rowId=193>	<013808/authority_name>	 "Oadby and Wigston"	.
+<013808/rowId=193>	<013808/households>	 "23000"	.
+
+<013808/rowId=194>	rdf:type	q:013808	.
+<013808/rowId=194>	<013808/authority_name>	 "Oldham"	.
+<013808/rowId=194>	<013808/households>	 "89000"	.
+
+<013808/rowId=195>	rdf:type	q:013808	.
+<013808/rowId=195>	<013808/authority_name>	 "Oxford"	.
+<013808/rowId=195>	<013808/households>	 "54000"	.
+
+<013808/rowId=196>	rdf:type	q:013808	.
+<013808/rowId=196>	<013808/authority_name>	 "Pendle"	.
+<013808/rowId=196>	<013808/households>	 "37000"	.
+
+<013808/rowId=197>	rdf:type	q:013808	.
+<013808/rowId=197>	<013808/authority_name>	 "Peterborough"	.
+<013808/rowId=197>	<013808/households>	 "72000"	.
+
+<013808/rowId=198>	rdf:type	q:013808	.
+<013808/rowId=198>	<013808/authority_name>	 "Plymouth"	.
+<013808/rowId=198>	<013808/households>	 "110000"	.
+
+<013808/rowId=199>	rdf:type	q:013808	.
+<013808/rowId=199>	<013808/authority_name>	 "Poole"	.
+<013808/rowId=199>	<013808/households>	 "61000"	.
+
+<013808/rowId=200>	rdf:type	q:013808	.
+<013808/rowId=200>	<013808/authority_name>	 "Portsmouth"	.
+<013808/rowId=200>	<013808/households>	 "83000"	.
+
+<013808/rowId=201>	rdf:type	q:013808	.
+<013808/rowId=201>	<013808/authority_name>	 "Preston"	.
+<013808/rowId=201>	<013808/households>	 "56000"	.
+
+<013808/rowId=202>	rdf:type	q:013808	.
+<013808/rowId=202>	<013808/authority_name>	 "Purbeck"	.
+<013808/rowId=202>	<013808/households>	 "20000"	.
+
+<013808/rowId=203>	rdf:type	q:013808	.
+<013808/rowId=203>	<013808/authority_name>	 "Reading"	.
+<013808/rowId=203>	<013808/households>	 "60000"	.
+
+<013808/rowId=204>	rdf:type	q:013808	.
+<013808/rowId=204>	<013808/authority_name>	 "Redbridge"	.
+<013808/rowId=204>	<013808/households>	 "101000"	.
+
+<013808/rowId=205>	rdf:type	q:013808	.
+<013808/rowId=205>	<013808/authority_name>	 "Redcar and Cleveland"	.
+<013808/rowId=205>	<013808/households>	 "58000"	.
+
+<013808/rowId=206>	rdf:type	q:013808	.
+<013808/rowId=206>	<013808/authority_name>	 "Redditch"	.
+<013808/rowId=206>	<013808/households>	 "33000"	.
+
+<013808/rowId=207>	rdf:type	q:013808	.
+<013808/rowId=207>	<013808/authority_name>	 "Reigate and Banstead"	.
+<013808/rowId=207>	<013808/households>	 "55000"	.
+
+<013808/rowId=208>	rdf:type	q:013808	.
+<013808/rowId=208>	<013808/authority_name>	 "Ribble Valley"	.
+<013808/rowId=208>	<013808/households>	 "24000"	.
+
+<013808/rowId=209>	rdf:type	q:013808	.
+<013808/rowId=209>	<013808/authority_name>	 "Richmond upon Thames"	.
+<013808/rowId=209>	<013808/households>	 "83000"	.
+
+<013808/rowId=210>	rdf:type	q:013808	.
+<013808/rowId=210>	<013808/authority_name>	 "Richmondshire"	.
+<013808/rowId=210>	<013808/households>	 "20000"	.
+
+<013808/rowId=211>	rdf:type	q:013808	.
+<013808/rowId=211>	<013808/authority_name>	 "Rochdale"	.
+<013808/rowId=211>	<013808/households>	 "84000"	.
+
+<013808/rowId=212>	rdf:type	q:013808	.
+<013808/rowId=212>	<013808/authority_name>	 "Rochford"	.
+<013808/rowId=212>	<013808/households>	 "34000"	.
+
+<013808/rowId=213>	rdf:type	q:013808	.
+<013808/rowId=213>	<013808/authority_name>	 "Rossendale"	.
+<013808/rowId=213>	<013808/households>	 "28000"	.
+
+<013808/rowId=214>	rdf:type	q:013808	.
+<013808/rowId=214>	<013808/authority_name>	 "Rother"	.
+<013808/rowId=214>	<013808/households>	 "40000"	.
+
+<013808/rowId=215>	rdf:type	q:013808	.
+<013808/rowId=215>	<013808/authority_name>	 "Rotherham"	.
+<013808/rowId=215>	<013808/households>	 "106000"	.
+
+<013808/rowId=216>	rdf:type	q:013808	.
+<013808/rowId=216>	<013808/authority_name>	 "Rugby"	.
+<013808/rowId=216>	<013808/households>	 "39000"	.
+
+<013808/rowId=217>	rdf:type	q:013808	.
+<013808/rowId=217>	<013808/authority_name>	 "Runnymede"	.
+<013808/rowId=217>	<013808/households>	 "34000"	.
+
+<013808/rowId=218>	rdf:type	q:013808	.
+<013808/rowId=218>	<013808/authority_name>	 "Rushcliffe"	.
+<013808/rowId=218>	<013808/households>	 "47000"	.
+
+<013808/rowId=219>	rdf:type	q:013808	.
+<013808/rowId=219>	<013808/authority_name>	 "Rushmoor"	.
+<013808/rowId=219>	<013808/households>	 "36000"	.
+
+<013808/rowId=220>	rdf:type	q:013808	.
+<013808/rowId=220>	<013808/authority_name>	 "Rutland"	.
+<013808/rowId=220>	<013808/households>	 "15000"	.
+
+<013808/rowId=221>	rdf:type	q:013808	.
+<013808/rowId=221>	<013808/authority_name>	 "Ryedale"	.
+<013808/rowId=221>	<013808/households>	 "23000"	.
+
+<013808/rowId=222>	rdf:type	q:013808	.
+<013808/rowId=222>	<013808/authority_name>	 "Salford"	.
+<013808/rowId=222>	<013808/households>	 "98000"	.
+
+<013808/rowId=223>	rdf:type	q:013808	.
+<013808/rowId=223>	<013808/authority_name>	 "Sandwell"	.
+<013808/rowId=223>	<013808/households>	 "118000"	.
+
+<013808/rowId=224>	rdf:type	q:013808	.
+<013808/rowId=224>	<013808/authority_name>	 "Scarborough"	.
+<013808/rowId=224>	<013808/households>	 "49000"	.
+
+<013808/rowId=225>	rdf:type	q:013808	.
+<013808/rowId=225>	<013808/authority_name>	 "Sedgemoor"	.
+<013808/rowId=225>	<013808/households>	 "48000"	.
+
+<013808/rowId=226>	rdf:type	q:013808	.
+<013808/rowId=226>	<013808/authority_name>	 "Sefton"	.
+<013808/rowId=226>	<013808/households>	 "117000"	.
+
+<013808/rowId=227>	rdf:type	q:013808	.
+<013808/rowId=227>	<013808/authority_name>	 "Selby"	.
+<013808/rowId=227>	<013808/households>	 "33000"	.
+
+<013808/rowId=228>	rdf:type	q:013808	.
+<013808/rowId=228>	<013808/authority_name>	 "Sevenoaks"	.
+<013808/rowId=228>	<013808/households>	 "46000"	.
+
+<013808/rowId=229>	rdf:type	q:013808	.
+<013808/rowId=229>	<013808/authority_name>	 "Sheffield"	.
+<013808/rowId=229>	<013808/households>	 "230000"	.
+
+<013808/rowId=230>	rdf:type	q:013808	.
+<013808/rowId=230>	<013808/authority_name>	 "Shepway"	.
+<013808/rowId=230>	<013808/households>	 "44000"	.
+
+<013808/rowId=231>	rdf:type	q:013808	.
+<013808/rowId=231>	<013808/authority_name>	 "Shropshire"	.
+<013808/rowId=231>	<013808/households>	 "123000"	.
+
+<013808/rowId=232>	rdf:type	q:013808	.
+<013808/rowId=232>	<013808/authority_name>	 "Slough"	.
+<013808/rowId=232>	<013808/households>	 "48000"	.
+
+<013808/rowId=233>	rdf:type	q:013808	.
+<013808/rowId=233>	<013808/authority_name>	 "Solihull"	.
+<013808/rowId=233>	<013808/households>	 "84000"	.
+
+<013808/rowId=234>	rdf:type	q:013808	.
+<013808/rowId=234>	<013808/authority_name>	 "South Bucks"	.
+<013808/rowId=234>	<013808/households>	 "26000"	.
+
+<013808/rowId=235>	rdf:type	q:013808	.
+<013808/rowId=235>	<013808/authority_name>	 "South Cambridgeshire"	.
+<013808/rowId=235>	<013808/households>	 "58000"	.
+
+<013808/rowId=236>	rdf:type	q:013808	.
+<013808/rowId=236>	<013808/authority_name>	 "South Derbyshire"	.
+<013808/rowId=236>	<013808/households>	 "37000"	.
+
+<013808/rowId=237>	rdf:type	q:013808	.
+<013808/rowId=237>	<013808/authority_name>	 "South Gloucestershire"	.
+<013808/rowId=237>	<013808/households>	 "107000"	.
+
+<013808/rowId=238>	rdf:type	q:013808	.
+<013808/rowId=238>	<013808/authority_name>	 "South Hams"	.
+<013808/rowId=238>	<013808/households>	 "36000"	.
+
+<013808/rowId=239>	rdf:type	q:013808	.
+<013808/rowId=239>	<013808/authority_name>	 "South Holland"	.
+<013808/rowId=239>	<013808/households>	 "36000"	.
+
+<013808/rowId=240>	rdf:type	q:013808	.
+<013808/rowId=240>	<013808/authority_name>	 "South Kesteven"	.
+<013808/rowId=240>	<013808/households>	 "55000"	.
+
+<013808/rowId=241>	rdf:type	q:013808	.
+<013808/rowId=241>	<013808/authority_name>	 "South Lakeland"	.
+<013808/rowId=241>	<013808/households>	 "46000"	.
+
+<013808/rowId=242>	rdf:type	q:013808	.
+<013808/rowId=242>	<013808/authority_name>	 "South Norfolk"	.
+<013808/rowId=242>	<013808/households>	 "50000"	.
+
+<013808/rowId=243>	rdf:type	q:013808	.
+<013808/rowId=243>	<013808/authority_name>	 "South Northamptonshire"	.
+<013808/rowId=243>	<013808/households>	 "36000"	.
+
+<013808/rowId=244>	rdf:type	q:013808	.
+<013808/rowId=244>	<013808/authority_name>	 "South Oxfordshire"	.
+<013808/rowId=244>	<013808/households>	 "54000"	.
+
+<013808/rowId=245>	rdf:type	q:013808	.
+<013808/rowId=245>	<013808/authority_name>	 "South Ribble"	.
+<013808/rowId=245>	<013808/households>	 "45000"	.
+
+<013808/rowId=246>	rdf:type	q:013808	.
+<013808/rowId=246>	<013808/authority_name>	 "South Somerset"	.
+<013808/rowId=246>	<013808/households>	 "69000"	.
+
+<013808/rowId=247>	rdf:type	q:013808	.
+<013808/rowId=247>	<013808/authority_name>	 "South Staffordshire"	.
+<013808/rowId=247>	<013808/households>	 "43000"	.
+
+<013808/rowId=248>	rdf:type	q:013808	.
+<013808/rowId=248>	<013808/authority_name>	 "South Tyneside"	.
+<013808/rowId=248>	<013808/households>	 "68000"	.
+
+<013808/rowId=249>	rdf:type	q:013808	.
+<013808/rowId=249>	<013808/authority_name>	 "Southampton"	.
+<013808/rowId=249>	<013808/households>	 "98000"	.
+
+<013808/rowId=250>	rdf:type	q:013808	.
+<013808/rowId=250>	<013808/authority_name>	 "Southend-on-Sea"	.
+<013808/rowId=250>	<013808/households>	 "74000"	.
+
+<013808/rowId=251>	rdf:type	q:013808	.
+<013808/rowId=251>	<013808/authority_name>	 "Southwark"	.
+<013808/rowId=251>	<013808/households>	 "124000"	.
+
+<013808/rowId=252>	rdf:type	q:013808	.
+<013808/rowId=252>	<013808/authority_name>	 "Spelthorne"	.
+<013808/rowId=252>	<013808/households>	 "39000"	.
+
+<013808/rowId=253>	rdf:type	q:013808	.
+<013808/rowId=253>	<013808/authority_name>	 "St Albans"	.
+<013808/rowId=253>	<013808/households>	 "56000"	.
+
+<013808/rowId=254>	rdf:type	q:013808	.
+<013808/rowId=254>	<013808/authority_name>	 "St Edmundsbury"	.
+<013808/rowId=254>	<013808/households>	 "44000"	.
+
+<013808/rowId=255>	rdf:type	q:013808	.
+<013808/rowId=255>	<013808/authority_name>	 "St. Helens"	.
+<013808/rowId=255>	<013808/households>	 "75000"	.
+
+<013808/rowId=256>	rdf:type	q:013808	.
+<013808/rowId=256>	<013808/authority_name>	 "Stafford"	.
+<013808/rowId=256>	<013808/households>	 "53000"	.
+
+<013808/rowId=257>	rdf:type	q:013808	.
+<013808/rowId=257>	<013808/authority_name>	 "Staffordshire Moorlands"	.
+<013808/rowId=257>	<013808/households>	 "40000"	.
+
+<013808/rowId=258>	rdf:type	q:013808	.
+<013808/rowId=258>	<013808/authority_name>	 "Stevenage"	.
+<013808/rowId=258>	<013808/households>	 "34000"	.
+
+<013808/rowId=259>	rdf:type	q:013808	.
+<013808/rowId=259>	<013808/authority_name>	 "Stockport"	.
+<013808/rowId=259>	<013808/households>	 "123000"	.
+
+<013808/rowId=260>	rdf:type	q:013808	.
+<013808/rowId=260>	<013808/authority_name>	 "Stockton-on-Tees"	.
+<013808/rowId=260>	<013808/households>	 "79000"	.
+
+<013808/rowId=261>	rdf:type	q:013808	.
+<013808/rowId=261>	<013808/authority_name>	 "Stoke-on-Trent"	.
+<013808/rowId=261>	<013808/households>	 "104000"	.
+
+<013808/rowId=262>	rdf:type	q:013808	.
+<013808/rowId=262>	<013808/authority_name>	 "Stratford-on-Avon"	.
+<013808/rowId=262>	<013808/households>	 "51000"	.
+
+<013808/rowId=263>	rdf:type	q:013808	.
+<013808/rowId=263>	<013808/authority_name>	 "Stroud"	.
+<013808/rowId=263>	<013808/households>	 "47000"	.
+
+<013808/rowId=264>	rdf:type	q:013808	.
+<013808/rowId=264>	<013808/authority_name>	 "Suffolk Coastal"	.
+<013808/rowId=264>	<013808/households>	 "54000"	.
+
+<013808/rowId=265>	rdf:type	q:013808	.
+<013808/rowId=265>	<013808/authority_name>	 "Sunderland"	.
+<013808/rowId=265>	<013808/households>	 "121000"	.
+
+<013808/rowId=266>	rdf:type	q:013808	.
+<013808/rowId=266>	<013808/authority_name>	 "Surrey Heath"	.
+<013808/rowId=266>	<013808/households>	 "33000"	.
+
+<013808/rowId=267>	rdf:type	q:013808	.
+<013808/rowId=267>	<013808/authority_name>	 "Sutton"	.
+<013808/rowId=267>	<013808/households>	 "82000"	.
+
+<013808/rowId=268>	rdf:type	q:013808	.
+<013808/rowId=268>	<013808/authority_name>	 "Swale"	.
+<013808/rowId=268>	<013808/households>	 "53000"	.
+
+<013808/rowId=269>	rdf:type	q:013808	.
+<013808/rowId=269>	<013808/authority_name>	 "Swindon"	.
+<013808/rowId=269>	<013808/households>	 "84000"	.
+
+<013808/rowId=270>	rdf:type	q:013808	.
+<013808/rowId=270>	<013808/authority_name>	 "Tameside"	.
+<013808/rowId=270>	<013808/households>	 "92000"	.
+
+<013808/rowId=271>	rdf:type	q:013808	.
+<013808/rowId=271>	<013808/authority_name>	 "Tamworth"	.
+<013808/rowId=271>	<013808/households>	 "31000"	.
+
+<013808/rowId=272>	rdf:type	q:013808	.
+<013808/rowId=272>	<013808/authority_name>	 "Tandridge"	.
+<013808/rowId=272>	<013808/households>	 "33000"	.
+
+<013808/rowId=273>	rdf:type	q:013808	.
+<013808/rowId=273>	<013808/authority_name>	 "Taunton Deane"	.
+<013808/rowId=273>	<013808/households>	 "47000"	.
+
+<013808/rowId=274>	rdf:type	q:013808	.
+<013808/rowId=274>	<013808/authority_name>	 "Teignbridge"	.
+<013808/rowId=274>	<013808/households>	 "55000"	.
+
+<013808/rowId=275>	rdf:type	q:013808	.
+<013808/rowId=275>	<013808/authority_name>	 "Telford and Wrekin"	.
+<013808/rowId=275>	<013808/households>	 "67000"	.
+
+<013808/rowId=276>	rdf:type	q:013808	.
+<013808/rowId=276>	<013808/authority_name>	 "Tendring"	.
+<013808/rowId=276>	<013808/households>	 "66000"	.
+
+<013808/rowId=277>	rdf:type	q:013808	.
+<013808/rowId=277>	<013808/authority_name>	 "Test Valley"	.
+<013808/rowId=277>	<013808/households>	 "47000"	.
+
+<013808/rowId=278>	rdf:type	q:013808	.
+<013808/rowId=278>	<013808/authority_name>	 "Tewkesbury"	.
+<013808/rowId=278>	<013808/households>	 "35000"	.
+
+<013808/rowId=279>	rdf:type	q:013808	.
+<013808/rowId=279>	<013808/authority_name>	 "Thanet"	.
+<013808/rowId=279>	<013808/households>	 "58000"	.
+
+<013808/rowId=280>	rdf:type	q:013808	.
+<013808/rowId=280>	<013808/authority_name>	 "Three Rivers"	.
+<013808/rowId=280>	<013808/households>	 "35000"	.
+
+<013808/rowId=281>	rdf:type	q:013808	.
+<013808/rowId=281>	<013808/authority_name>	 "Thurrock"	.
+<013808/rowId=281>	<013808/households>	 "64000"	.
+
+<013808/rowId=282>	rdf:type	q:013808	.
+<013808/rowId=282>	<013808/authority_name>	 "Tonbridge and Malling"	.
+<013808/rowId=282>	<013808/households>	 "47000"	.
+
+<013808/rowId=283>	rdf:type	q:013808	.
+<013808/rowId=283>	<013808/authority_name>	 "Torbay"	.
+<013808/rowId=283>	<013808/households>	 "61000"	.
+
+<013808/rowId=284>	rdf:type	q:013808	.
+<013808/rowId=284>	<013808/authority_name>	 "Torridge"	.
+<013808/rowId=284>	<013808/households>	 "28000"	.
+
+<013808/rowId=285>	rdf:type	q:013808	.
+<013808/rowId=285>	<013808/authority_name>	 "Tower Hamlets"	.
+<013808/rowId=285>	<013808/households>	 "93000"	.
+
+<013808/rowId=286>	rdf:type	q:013808	.
+<013808/rowId=286>	<013808/authority_name>	 "Trafford"	.
+<013808/rowId=286>	<013808/households>	 "93000"	.
+
+<013808/rowId=287>	rdf:type	q:013808	.
+<013808/rowId=287>	<013808/authority_name>	 "Tunbridge Wells"	.
+<013808/rowId=287>	<013808/households>	 "45000"	.
+
+<013808/rowId=288>	rdf:type	q:013808	.
+<013808/rowId=288>	<013808/authority_name>	 "Uttlesford"	.
+<013808/rowId=288>	<013808/households>	 "30000"	.
+
+<013808/rowId=289>	rdf:type	q:013808	.
+<013808/rowId=289>	<013808/authority_name>	 "Vale of White Horse"	.
+<013808/rowId=289>	<013808/households>	 "47000"	.
+
+<013808/rowId=290>	rdf:type	q:013808	.
+<013808/rowId=290>	<013808/authority_name>	 "Wakefield"	.
+<013808/rowId=290>	<013808/households>	 "139000"	.
+
+<013808/rowId=291>	rdf:type	q:013808	.
+<013808/rowId=291>	<013808/authority_name>	 "Walsall"	.
+<013808/rowId=291>	<013808/households>	 "103000"	.
+
+<013808/rowId=292>	rdf:type	q:013808	.
+<013808/rowId=292>	<013808/authority_name>	 "Waltham Forest"	.
+<013808/rowId=292>	<013808/households>	 "91000"	.
+
+<013808/rowId=293>	rdf:type	q:013808	.
+<013808/rowId=293>	<013808/authority_name>	 "Wandsworth"	.
+<013808/rowId=293>	<013808/households>	 "126000"	.
+
+<013808/rowId=294>	rdf:type	q:013808	.
+<013808/rowId=294>	<013808/authority_name>	 "Warrington"	.
+<013808/rowId=294>	<013808/households>	 "82000"	.
+
+<013808/rowId=295>	rdf:type	q:013808	.
+<013808/rowId=295>	<013808/authority_name>	 "Warwick"	.
+<013808/rowId=295>	<013808/households>	 "60000"	.
+
+<013808/rowId=296>	rdf:type	q:013808	.
+<013808/rowId=296>	<013808/authority_name>	 "Watford"	.
+<013808/rowId=296>	<013808/households>	 "34000"	.
+
+<013808/rowId=297>	rdf:type	q:013808	.
+<013808/rowId=297>	<013808/authority_name>	 "Waveney"	.
+<013808/rowId=297>	<013808/households>	 "52000"	.
+
+<013808/rowId=298>	rdf:type	q:013808	.
+<013808/rowId=298>	<013808/authority_name>	 "Waverley"	.
+<013808/rowId=298>	<013808/households>	 "48000"	.
+
+<013808/rowId=299>	rdf:type	q:013808	.
+<013808/rowId=299>	<013808/authority_name>	 "Wealden"	.
+<013808/rowId=299>	<013808/households>	 "61000"	.
+
+<013808/rowId=300>	rdf:type	q:013808	.
+<013808/rowId=300>	<013808/authority_name>	 "Wellingborough"	.
+<013808/rowId=300>	<013808/households>	 "32000"	.
+
+<013808/rowId=301>	rdf:type	q:013808	.
+<013808/rowId=301>	<013808/authority_name>	 "Welwyn Hatfield"	.
+<013808/rowId=301>	<013808/households>	 "45000"	.
+
+<013808/rowId=302>	rdf:type	q:013808	.
+<013808/rowId=302>	<013808/authority_name>	 "West Berkshire"	.
+<013808/rowId=302>	<013808/households>	 "61000"	.
+
+<013808/rowId=303>	rdf:type	q:013808	.
+<013808/rowId=303>	<013808/authority_name>	 "West Devon"	.
+<013808/rowId=303>	<013808/households>	 "22000"	.
+
+<013808/rowId=304>	rdf:type	q:013808	.
+<013808/rowId=304>	<013808/authority_name>	 "West Dorset"	.
+<013808/rowId=304>	<013808/households>	 "43000"	.
+
+<013808/rowId=305>	rdf:type	q:013808	.
+<013808/rowId=305>	<013808/authority_name>	 "West Lancashire"	.
+<013808/rowId=305>	<013808/households>	 "46000"	.
+
+<013808/rowId=306>	rdf:type	q:013808	.
+<013808/rowId=306>	<013808/authority_name>	 "West Lindsey"	.
+<013808/rowId=306>	<013808/households>	 "37000"	.
+
+<013808/rowId=307>	rdf:type	q:013808	.
+<013808/rowId=307>	<013808/authority_name>	 "West Oxfordshire"	.
+<013808/rowId=307>	<013808/households>	 "42000"	.
+
+<013808/rowId=308>	rdf:type	q:013808	.
+<013808/rowId=308>	<013808/authority_name>	 "West Somerset"	.
+<013808/rowId=308>	<013808/households>	 "16000"	.
+
+<013808/rowId=309>	rdf:type	q:013808	.
+<013808/rowId=309>	<013808/authority_name>	 "Westminster"	.
+<013808/rowId=309>	<013808/households>	 "120000"	.
+
+<013808/rowId=310>	rdf:type	q:013808	.
+<013808/rowId=310>	<013808/authority_name>	 "Weymouth and Portland"	.
+<013808/rowId=310>	<013808/households>	 "28000"	.
+
+<013808/rowId=311>	rdf:type	q:013808	.
+<013808/rowId=311>	<013808/authority_name>	 "Wigan"	.
+<013808/rowId=311>	<013808/households>	 "130000"	.
+
+<013808/rowId=312>	rdf:type	q:013808	.
+<013808/rowId=312>	<013808/authority_name>	 "Wiltshire"	.
+<013808/rowId=312>	<013808/households>	 "187000"	.
+
+<013808/rowId=313>	rdf:type	q:013808	.
+<013808/rowId=313>	<013808/authority_name>	 "Winchester"	.
+<013808/rowId=313>	<013808/households>	 "45000"	.
+
+<013808/rowId=314>	rdf:type	q:013808	.
+<013808/rowId=314>	<013808/authority_name>	 "Windsor and Maidenhead"	.
+<013808/rowId=314>	<013808/households>	 "57000"	.
+
+<013808/rowId=315>	rdf:type	q:013808	.
+<013808/rowId=315>	<013808/authority_name>	 "Wirral"	.
+<013808/rowId=315>	<013808/households>	 "135000"	.
+
+<013808/rowId=316>	rdf:type	q:013808	.
+<013808/rowId=316>	<013808/authority_name>	 "Woking"	.
+<013808/rowId=316>	<013808/households>	 "38000"	.
+
+<013808/rowId=317>	rdf:type	q:013808	.
+<013808/rowId=317>	<013808/authority_name>	 "Wokingham"	.
+<013808/rowId=317>	<013808/households>	 "62000"	.
+
+<013808/rowId=318>	rdf:type	q:013808	.
+<013808/rowId=318>	<013808/authority_name>	 "Wolverhampton"	.
+<013808/rowId=318>	<013808/households>	 "99000"	.
+
+<013808/rowId=319>	rdf:type	q:013808	.
+<013808/rowId=319>	<013808/authority_name>	 "Worcester"	.
+<013808/rowId=319>	<013808/households>	 "40000"	.
+
+<013808/rowId=320>	rdf:type	q:013808	.
+<013808/rowId=320>	<013808/authority_name>	 "Worthing"	.
+<013808/rowId=320>	<013808/households>	 "47000"	.
+
+<013808/rowId=321>	rdf:type	q:013808	.
+<013808/rowId=321>	<013808/authority_name>	 "Wychavon"	.
+<013808/rowId=321>	<013808/households>	 "49000"	.
+
+<013808/rowId=322>	rdf:type	q:013808	.
+<013808/rowId=322>	<013808/authority_name>	 "Wycombe"	.
+<013808/rowId=322>	<013808/households>	 "65000"	.
+
+<013808/rowId=323>	rdf:type	q:013808	.
+<013808/rowId=323>	<013808/authority_name>	 "Wyre"	.
+<013808/rowId=323>	<013808/households>	 "49000"	.
+
+<013808/rowId=324>	rdf:type	q:013808	.
+<013808/rowId=324>	<013808/authority_name>	 "Wyre Forest"	.
+<013808/rowId=324>	<013808/households>	 "42000"	.
+
+<013808/rowId=325>	rdf:type	q:013808	.
+<013808/rowId=325>	<013808/authority_name>	 "York"	.
+<013808/rowId=325>	<013808/households>	 "84000"	.
+
+<013808>	q:QuerySPARQL	"SELECT ?authority_name ?households
+WHERE {
+	?row <http://sparqlr.co.uk/IS/013808/authority_name> ?authority_name . 
+	OPTIONAL { ?row <http://sparqlr.co.uk/IS/013808/households> ?households . } .
+}" . 
+

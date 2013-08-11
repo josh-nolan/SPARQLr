@@ -1,0 +1,35 @@
+# RDF file for QUERY: HousingDataforManchester.ttl
+@base <http://sparqlr.co.uk/q/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> . 
+@prefix q: <http://sparqlr.co.uk/q/> . 
+<HousingDataforManchester>	q:QueryId	"HousingDataforManchester" . 
+<HousingDataforManchester>	q:Title	"Housing Data for Manchester" . 
+<HousingDataforManchester>	q:Endpoint	"http://landregistry.data.gov.uk/landregistry/sparql" . 
+<HousingDataforManchester>	q:Classification	"Government" . 
+<HousingDataforManchester>	q:DateSaved	"1359502603" . 
+<HousingDataforManchester>	q:Description	"Data taken from the LandRegistry for housing data in Manchester" . 
+<HousingDataforManchester>	q:QuerySPARQL	"PREFIX xsd:     <http://www.w3.org/2001/XMLSchema#>
+PREFIX rdf:     <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+PREFIX rdfs:    <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX owl:     <http://www.w3.org/2002/07/owl#>
+PREFIX lrppi:   <http://landregistry.data.gov.uk/def/ppi/>
+PREFIX skos:    <http://www.w3.org/2004/02/skos/core#>
+PREFIX lrcommon: <http://landregistry.data.gov.uk/def/common/>
+SELECT ?amount?street ?postcode  ?date
+WHERE
+{    
+  ?transx  lrppi:pricePaid ?amount .
+  ?transx  lrppi:transactionDate ?date .
+  ?transx  lrppi:propertyAddress ?addr.
+  ?addr lrcommon:street ?street .
+  ?addr lrcommon:town \"MANCHESTER\"^^xsd:string.
+  ?addr lrcommon:postcode ?postcode .
+}
+ORDER BY ?amount
+LIMIT 2700" . 
+<HousingDataforManchester>	rdf:type	q:Query .
+<HousingDataforManchester>	q:Tag	"HOUSING" . 
+<HousingDataforManchester>	q:Tag	"MANCHESTER" . 
+<HousingDataforManchester>	q:Tag	"LANDREGISTRY" . 
+<HousingDataforManchester>	q:Tag	"POSTCODE" . 
+<HousingDataforManchester>	q:Tag	"STREET" . 

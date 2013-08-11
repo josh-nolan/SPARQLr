@@ -1,0 +1,29 @@
+# RDF file for vw_WikiPeopleperhouseholdpercounty.ttl
+@base <http://sparqlr.co.uk/q/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> . 
+@prefix q: <http://sparqlr.co.uk/q/> . 
+<vw_WikiPeopleperhouseholdpercounty>	rdf:type	q:View .
+<vw_WikiPeopleperhouseholdpercounty>	q:QueryId	"vw_WikiPeopleperhouseholdpercounty" . 
+<vw_WikiPeopleperhouseholdpercounty>	q:Title	"vw_WikiPeopleperhouseholdpercounty" . 
+<vw_WikiPeopleperhouseholdpercounty>	q:Endpoint	"http://sparqlr.co.uk/endpoint.php" . 
+<vw_WikiPeopleperhouseholdpercounty>	q:DateSaved	"1362914012" . 
+
+<vw_WikiPeopleperhouseholdpercounty>	q:ViewOfQuery	"WikiPeopleperhouseholdpercounty" . 
+
+<vw_WikiPeopleperhouseholdpercounty/rowId=0>	rdf:type	q:vw_WikiPeopleperhouseholdpercounty	.
+<vw_WikiPeopleperhouseholdpercounty/rowId=0>	<vw_WikiPeopleperhouseholdpercounty/name>	 "Isle of Wight"	.
+<vw_WikiPeopleperhouseholdpercounty/rowId=0>	<vw_WikiPeopleperhouseholdpercounty/households>	 "62000"	.
+<vw_WikiPeopleperhouseholdpercounty/rowId=0>	<vw_WikiPeopleperhouseholdpercounty/wikiEntries>	 "79"	.
+
+<vw_WikiPeopleperhouseholdpercounty/rowId=1>	rdf:type	q:vw_WikiPeopleperhouseholdpercounty	.
+<vw_WikiPeopleperhouseholdpercounty/rowId=1>	<vw_WikiPeopleperhouseholdpercounty/name>	 "Rutland"	.
+<vw_WikiPeopleperhouseholdpercounty/rowId=1>	<vw_WikiPeopleperhouseholdpercounty/households>	 "15000"	.
+<vw_WikiPeopleperhouseholdpercounty/rowId=1>	<vw_WikiPeopleperhouseholdpercounty/wikiEntries>	 "13"	.
+
+<vw_WikiPeopleperhouseholdpercounty>	q:QuerySPARQL	"SELECT ?name ?households ?wikiEntries
+WHERE {
+	?row <http://sparqlr.co.uk/q/vw_WikiPeopleperhouseholdpercounty/name> ?name . 
+	OPTIONAL { ?row <http://sparqlr.co.uk/q/vw_WikiPeopleperhouseholdpercounty/households> ?households . } .
+	OPTIONAL { ?row <http://sparqlr.co.uk/q/vw_WikiPeopleperhouseholdpercounty/wikiEntries> ?wikiEntries . } .
+}" . 
+

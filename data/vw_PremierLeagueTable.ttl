@@ -1,0 +1,217 @@
+# RDF file for vw_PremierLeagueTable.ttl
+@base <http://sparqlr.co.uk/q/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> . 
+@prefix q: <http://sparqlr.co.uk/q/> . 
+<vw_PremierLeagueTable>	rdf:type	q:View .
+<vw_PremierLeagueTable>	q:QueryId	"vw_PremierLeagueTable" . 
+<vw_PremierLeagueTable>	q:Title	"vw_PremierLeagueTable" . 
+<vw_PremierLeagueTable>	q:Endpoint	"http://sparqlr.co.uk/endpoint.php" . 
+<vw_PremierLeagueTable>	q:DateSaved	"1362913984" . 
+
+<vw_PremierLeagueTable>	q:ViewOfQuery	"PremierLeagueTable" . 
+
+<vw_PremierLeagueTable/rowId=0>	rdf:type	q:vw_PremierLeagueTable	.
+<vw_PremierLeagueTable/rowId=0>	<vw_PremierLeagueTable/team>	 "http://dbpedia.org/resource/Arsenal_F.C."	.
+<vw_PremierLeagueTable/rowId=0>	<vw_PremierLeagueTable/position>	 "Premier League, 3rd"	.
+<vw_PremierLeagueTable/rowId=0>	<vw_PremierLeagueTable/manager>	 "http://dbpedia.org/resource/Arsène_Wenger"	.
+<vw_PremierLeagueTable/rowId=0>	<vw_PremierLeagueTable/ground>	 "http://dbpedia.org/resource/Emirates_Stadium"	.
+<vw_PremierLeagueTable/rowId=0>	<vw_PremierLeagueTable/capacity2>	 "60361"	.
+
+<vw_PremierLeagueTable/rowId=1>	rdf:type	q:vw_PremierLeagueTable	.
+<vw_PremierLeagueTable/rowId=1>	<vw_PremierLeagueTable/team>	 "http://dbpedia.org/resource/Aston_Villa_F.C."	.
+<vw_PremierLeagueTable/rowId=1>	<vw_PremierLeagueTable/position>	 "Premier League, 16th"	.
+<vw_PremierLeagueTable/rowId=1>	<vw_PremierLeagueTable/manager>	 "http://dbpedia.org/resource/Paul_Lambert"	.
+<vw_PremierLeagueTable/rowId=1>	<vw_PremierLeagueTable/ground>	 "http://dbpedia.org/resource/Villa_Park"	.
+<vw_PremierLeagueTable/rowId=1>	<vw_PremierLeagueTable/capacity2>	 "42788"	.
+
+<vw_PremierLeagueTable/rowId=2>	rdf:type	q:vw_PremierLeagueTable	.
+<vw_PremierLeagueTable/rowId=2>	<vw_PremierLeagueTable/team>	 "http://dbpedia.org/resource/Aston_Villa_F.C."	.
+<vw_PremierLeagueTable/rowId=2>	<vw_PremierLeagueTable/position>	 "Premier League, 16th"	.
+<vw_PremierLeagueTable/rowId=2>	<vw_PremierLeagueTable/manager>	 "Vacant"	.
+<vw_PremierLeagueTable/rowId=2>	<vw_PremierLeagueTable/ground>	 "http://dbpedia.org/resource/Villa_Park"	.
+<vw_PremierLeagueTable/rowId=2>	<vw_PremierLeagueTable/capacity2>	 "42788"	.
+
+<vw_PremierLeagueTable/rowId=3>	rdf:type	q:vw_PremierLeagueTable	.
+<vw_PremierLeagueTable/rowId=3>	<vw_PremierLeagueTable/team>	 "http://dbpedia.org/resource/Chelsea_F.C."	.
+<vw_PremierLeagueTable/rowId=3>	<vw_PremierLeagueTable/position>	 "Premier League, 6th"	.
+<vw_PremierLeagueTable/rowId=3>	<vw_PremierLeagueTable/manager>	 "http://dbpedia.org/resource/Rafael_Benítez"	.
+<vw_PremierLeagueTable/rowId=3>	<vw_PremierLeagueTable/ground>	 "http://dbpedia.org/resource/Stamford_Bridge_(stadium)"	.
+<vw_PremierLeagueTable/rowId=3>	<vw_PremierLeagueTable/capacity>	 "41837"	.
+
+<vw_PremierLeagueTable/rowId=4>	rdf:type	q:vw_PremierLeagueTable	.
+<vw_PremierLeagueTable/rowId=4>	<vw_PremierLeagueTable/team>	 "http://dbpedia.org/resource/Everton_F.C."	.
+<vw_PremierLeagueTable/rowId=4>	<vw_PremierLeagueTable/position>	 "21.0"	.
+<vw_PremierLeagueTable/rowId=4>	<vw_PremierLeagueTable/manager>	 "http://dbpedia.org/resource/David_Moyes"	.
+<vw_PremierLeagueTable/rowId=4>	<vw_PremierLeagueTable/ground>	 "http://dbpedia.org/resource/Goodison_Park"	.
+<vw_PremierLeagueTable/rowId=4>	<vw_PremierLeagueTable/capacity>	 "40157"	.
+
+<vw_PremierLeagueTable/rowId=5>	rdf:type	q:vw_PremierLeagueTable	.
+<vw_PremierLeagueTable/rowId=5>	<vw_PremierLeagueTable/team>	 "http://dbpedia.org/resource/Everton_F.C."	.
+<vw_PremierLeagueTable/rowId=5>	<vw_PremierLeagueTable/position>	 "Premier League, 7th"	.
+<vw_PremierLeagueTable/rowId=5>	<vw_PremierLeagueTable/manager>	 "http://dbpedia.org/resource/David_Moyes"	.
+<vw_PremierLeagueTable/rowId=5>	<vw_PremierLeagueTable/ground>	 "http://dbpedia.org/resource/Goodison_Park"	.
+<vw_PremierLeagueTable/rowId=5>	<vw_PremierLeagueTable/capacity>	 "40157"	.
+
+<vw_PremierLeagueTable/rowId=6>	rdf:type	q:vw_PremierLeagueTable	.
+<vw_PremierLeagueTable/rowId=6>	<vw_PremierLeagueTable/team>	 "http://dbpedia.org/resource/Fulham_F.C."	.
+<vw_PremierLeagueTable/rowId=6>	<vw_PremierLeagueTable/position>	 "Premier League, 9th"	.
+<vw_PremierLeagueTable/rowId=6>	<vw_PremierLeagueTable/manager>	 "http://dbpedia.org/resource/Martin_Jol"	.
+<vw_PremierLeagueTable/rowId=6>	<vw_PremierLeagueTable/ground>	 "http://dbpedia.org/resource/Craven_Cottage"	.
+<vw_PremierLeagueTable/rowId=6>	<vw_PremierLeagueTable/capacity>	 "25700"	.
+
+<vw_PremierLeagueTable/rowId=7>	rdf:type	q:vw_PremierLeagueTable	.
+<vw_PremierLeagueTable/rowId=7>	<vw_PremierLeagueTable/team>	 "http://dbpedia.org/resource/Liverpool_F.C."	.
+<vw_PremierLeagueTable/rowId=7>	<vw_PremierLeagueTable/position>	 "Premier League, 8th"	.
+<vw_PremierLeagueTable/rowId=7>	<vw_PremierLeagueTable/manager>	 "http://dbpedia.org/resource/Brendan_Rodgers"	.
+<vw_PremierLeagueTable/rowId=7>	<vw_PremierLeagueTable/ground>	 "http://dbpedia.org/resource/Anfield"	.
+<vw_PremierLeagueTable/rowId=7>	<vw_PremierLeagueTable/capacity>	 "45276"	.
+
+<vw_PremierLeagueTable/rowId=8>	rdf:type	q:vw_PremierLeagueTable	.
+<vw_PremierLeagueTable/rowId=8>	<vw_PremierLeagueTable/team>	 "http://dbpedia.org/resource/Manchester_City_F.C."	.
+<vw_PremierLeagueTable/rowId=8>	<vw_PremierLeagueTable/position>	 "1.0"	.
+<vw_PremierLeagueTable/rowId=8>	<vw_PremierLeagueTable/manager>	 "http://dbpedia.org/resource/Roberto_Mancini"	.
+<vw_PremierLeagueTable/rowId=8>	<vw_PremierLeagueTable/ground>	 "http://dbpedia.org/resource/City_of_Manchester_Stadium"	.
+<vw_PremierLeagueTable/rowId=8>	<vw_PremierLeagueTable/capacity>	 "41000"	.
+
+<vw_PremierLeagueTable/rowId=9>	rdf:type	q:vw_PremierLeagueTable	.
+<vw_PremierLeagueTable/rowId=9>	<vw_PremierLeagueTable/team>	 "http://dbpedia.org/resource/Manchester_City_F.C."	.
+<vw_PremierLeagueTable/rowId=9>	<vw_PremierLeagueTable/position>	 "1.0"	.
+<vw_PremierLeagueTable/rowId=9>	<vw_PremierLeagueTable/manager>	 "http://dbpedia.org/resource/Roberto_Mancini"	.
+<vw_PremierLeagueTable/rowId=9>	<vw_PremierLeagueTable/ground>	 "http://dbpedia.org/resource/City_of_Manchester_Stadium"	.
+<vw_PremierLeagueTable/rowId=9>	<vw_PremierLeagueTable/capacity>	 "45500"	.
+
+<vw_PremierLeagueTable/rowId=10>	rdf:type	q:vw_PremierLeagueTable	.
+<vw_PremierLeagueTable/rowId=10>	<vw_PremierLeagueTable/team>	 "http://dbpedia.org/resource/Manchester_City_F.C."	.
+<vw_PremierLeagueTable/rowId=10>	<vw_PremierLeagueTable/position>	 "1.0"	.
+<vw_PremierLeagueTable/rowId=10>	<vw_PremierLeagueTable/manager>	 "http://dbpedia.org/resource/Roberto_Mancini"	.
+<vw_PremierLeagueTable/rowId=10>	<vw_PremierLeagueTable/ground>	 "http://dbpedia.org/resource/City_of_Manchester_Stadium"	.
+<vw_PremierLeagueTable/rowId=10>	<vw_PremierLeagueTable/capacity>	 "47805"	.
+
+<vw_PremierLeagueTable/rowId=11>	rdf:type	q:vw_PremierLeagueTable	.
+<vw_PremierLeagueTable/rowId=11>	<vw_PremierLeagueTable/team>	 "http://dbpedia.org/resource/Manchester_City_F.C."	.
+<vw_PremierLeagueTable/rowId=11>	<vw_PremierLeagueTable/position>	 "1.0"	.
+<vw_PremierLeagueTable/rowId=11>	<vw_PremierLeagueTable/manager>	 "http://dbpedia.org/resource/Roberto_Mancini"	.
+<vw_PremierLeagueTable/rowId=11>	<vw_PremierLeagueTable/ground>	 "http://dbpedia.org/resource/City_of_Manchester_Stadium"	.
+<vw_PremierLeagueTable/rowId=11>	<vw_PremierLeagueTable/capacity>	 "60000"	.
+
+<vw_PremierLeagueTable/rowId=12>	rdf:type	q:vw_PremierLeagueTable	.
+<vw_PremierLeagueTable/rowId=12>	<vw_PremierLeagueTable/team>	 "http://dbpedia.org/resource/Manchester_United_F.C."	.
+<vw_PremierLeagueTable/rowId=12>	<vw_PremierLeagueTable/position>	 "Premier League, 2nd"	.
+<vw_PremierLeagueTable/rowId=12>	<vw_PremierLeagueTable/manager>	 "http://dbpedia.org/resource/Alex_Ferguson"	.
+<vw_PremierLeagueTable/rowId=12>	<vw_PremierLeagueTable/ground>	 "http://dbpedia.org/resource/Old_Trafford"	.
+<vw_PremierLeagueTable/rowId=12>	<vw_PremierLeagueTable/capacity2>	 "75765"	.
+
+<vw_PremierLeagueTable/rowId=13>	rdf:type	q:vw_PremierLeagueTable	.
+<vw_PremierLeagueTable/rowId=13>	<vw_PremierLeagueTable/team>	 "http://dbpedia.org/resource/Newcastle_United_F.C."	.
+<vw_PremierLeagueTable/rowId=13>	<vw_PremierLeagueTable/position>	 "Premier League, 5th"	.
+<vw_PremierLeagueTable/rowId=13>	<vw_PremierLeagueTable/manager>	 "http://dbpedia.org/resource/Alan_Pardew"	.
+<vw_PremierLeagueTable/rowId=13>	<vw_PremierLeagueTable/ground>	 "http://dbpedia.org/resource/St_James'_Park"	.
+<vw_PremierLeagueTable/rowId=13>	<vw_PremierLeagueTable/capacity>	 "52387"	.
+
+<vw_PremierLeagueTable/rowId=14>	rdf:type	q:vw_PremierLeagueTable	.
+<vw_PremierLeagueTable/rowId=14>	<vw_PremierLeagueTable/team>	 "http://dbpedia.org/resource/Norwich_City_F.C."	.
+<vw_PremierLeagueTable/rowId=14>	<vw_PremierLeagueTable/position>	 "Premier League, 12th"	.
+<vw_PremierLeagueTable/rowId=14>	<vw_PremierLeagueTable/manager>	 "http://dbpedia.org/resource/Paul_Lambert"	.
+<vw_PremierLeagueTable/rowId=14>	<vw_PremierLeagueTable/ground>	 "http://dbpedia.org/resource/Carrow_Road"	.
+<vw_PremierLeagueTable/rowId=14>	<vw_PremierLeagueTable/capacity>	 "27220"	.
+
+<vw_PremierLeagueTable/rowId=15>	rdf:type	q:vw_PremierLeagueTable	.
+<vw_PremierLeagueTable/rowId=15>	<vw_PremierLeagueTable/team>	 "http://dbpedia.org/resource/Norwich_City_F.C."	.
+<vw_PremierLeagueTable/rowId=15>	<vw_PremierLeagueTable/position>	 "Premier League, 12th"	.
+<vw_PremierLeagueTable/rowId=15>	<vw_PremierLeagueTable/manager>	 "http://dbpedia.org/resource/Chris_Hughton"	.
+<vw_PremierLeagueTable/rowId=15>	<vw_PremierLeagueTable/ground>	 "http://dbpedia.org/resource/Carrow_Road"	.
+<vw_PremierLeagueTable/rowId=15>	<vw_PremierLeagueTable/capacity>	 "27220"	.
+
+<vw_PremierLeagueTable/rowId=16>	rdf:type	q:vw_PremierLeagueTable	.
+<vw_PremierLeagueTable/rowId=16>	<vw_PremierLeagueTable/team>	 "http://dbpedia.org/resource/Queens_Park_Rangers_F.C."	.
+<vw_PremierLeagueTable/rowId=16>	<vw_PremierLeagueTable/position>	 "Premier League, 17th"	.
+<vw_PremierLeagueTable/rowId=16>	<vw_PremierLeagueTable/manager>	 "http://dbpedia.org/resource/Harry_Redknapp"	.
+<vw_PremierLeagueTable/rowId=16>	<vw_PremierLeagueTable/ground>	 "http://dbpedia.org/resource/Loftus_Road"	.
+<vw_PremierLeagueTable/rowId=16>	<vw_PremierLeagueTable/capacity>	 "18500"	.
+
+<vw_PremierLeagueTable/rowId=17>	rdf:type	q:vw_PremierLeagueTable	.
+<vw_PremierLeagueTable/rowId=17>	<vw_PremierLeagueTable/team>	 "http://dbpedia.org/resource/Reading_F.C."	.
+<vw_PremierLeagueTable/rowId=17>	<vw_PremierLeagueTable/position>	 "1.0"	.
+<vw_PremierLeagueTable/rowId=17>	<vw_PremierLeagueTable/manager>	 "http://dbpedia.org/resource/Brian_McDermott_(footballer)"	.
+<vw_PremierLeagueTable/rowId=17>	<vw_PremierLeagueTable/ground>	 "http://dbpedia.org/resource/Madejski_Stadium"	.
+<vw_PremierLeagueTable/rowId=17>	<vw_PremierLeagueTable/capacity>	 "24161"	.
+
+<vw_PremierLeagueTable/rowId=18>	rdf:type	q:vw_PremierLeagueTable	.
+<vw_PremierLeagueTable/rowId=18>	<vw_PremierLeagueTable/team>	 "http://dbpedia.org/resource/Southampton_F.C."	.
+<vw_PremierLeagueTable/rowId=18>	<vw_PremierLeagueTable/position>	 "The Championship, 2nd"	.
+<vw_PremierLeagueTable/rowId=18>	<vw_PremierLeagueTable/manager>	 "http://dbpedia.org/resource/Mauricio_Pochettino"	.
+<vw_PremierLeagueTable/rowId=18>	<vw_PremierLeagueTable/ground>	 "http://dbpedia.org/resource/St_Mary's_Stadium"	.
+<vw_PremierLeagueTable/rowId=18>	<vw_PremierLeagueTable/capacity>	 "32689"	.
+
+<vw_PremierLeagueTable/rowId=19>	rdf:type	q:vw_PremierLeagueTable	.
+<vw_PremierLeagueTable/rowId=19>	<vw_PremierLeagueTable/team>	 "http://dbpedia.org/resource/Stoke_City_F.C."	.
+<vw_PremierLeagueTable/rowId=19>	<vw_PremierLeagueTable/position>	 "Premier League, 14th"	.
+<vw_PremierLeagueTable/rowId=19>	<vw_PremierLeagueTable/manager>	 "http://dbpedia.org/resource/Tony_Pulis"	.
+<vw_PremierLeagueTable/rowId=19>	<vw_PremierLeagueTable/ground>	 "http://dbpedia.org/resource/Britannia_Stadium"	.
+<vw_PremierLeagueTable/rowId=19>	<vw_PremierLeagueTable/capacity>	 "27740"	.
+
+<vw_PremierLeagueTable/rowId=20>	rdf:type	q:vw_PremierLeagueTable	.
+<vw_PremierLeagueTable/rowId=20>	<vw_PremierLeagueTable/team>	 "http://dbpedia.org/resource/Sunderland_A.F.C."	.
+<vw_PremierLeagueTable/rowId=20>	<vw_PremierLeagueTable/position>	 "Premier League, 13th"	.
+<vw_PremierLeagueTable/rowId=20>	<vw_PremierLeagueTable/manager>	 "http://dbpedia.org/resource/Martin_O'Neill"	.
+<vw_PremierLeagueTable/rowId=20>	<vw_PremierLeagueTable/ground>	 "http://dbpedia.org/resource/Stadium_of_Light"	.
+<vw_PremierLeagueTable/rowId=20>	<vw_PremierLeagueTable/capacity>	 "49000"	.
+
+<vw_PremierLeagueTable/rowId=21>	rdf:type	q:vw_PremierLeagueTable	.
+<vw_PremierLeagueTable/rowId=21>	<vw_PremierLeagueTable/team>	 "http://dbpedia.org/resource/Swansea_City_A.F.C."	.
+<vw_PremierLeagueTable/rowId=21>	<vw_PremierLeagueTable/position>	 "Premier League, 11th"	.
+<vw_PremierLeagueTable/rowId=21>	<vw_PremierLeagueTable/manager>	 "Vacant"	.
+<vw_PremierLeagueTable/rowId=21>	<vw_PremierLeagueTable/ground>	 "http://dbpedia.org/resource/Liberty_Stadium,_Swansea"	.
+
+<vw_PremierLeagueTable/rowId=22>	rdf:type	q:vw_PremierLeagueTable	.
+<vw_PremierLeagueTable/rowId=22>	<vw_PremierLeagueTable/team>	 "http://dbpedia.org/resource/Swansea_City_A.F.C."	.
+<vw_PremierLeagueTable/rowId=22>	<vw_PremierLeagueTable/position>	 "Premier League, 11th"	.
+<vw_PremierLeagueTable/rowId=22>	<vw_PremierLeagueTable/manager>	 "http://dbpedia.org/resource/Michael_Laudrup"	.
+<vw_PremierLeagueTable/rowId=22>	<vw_PremierLeagueTable/ground>	 "http://dbpedia.org/resource/Liberty_Stadium,_Swansea"	.
+
+<vw_PremierLeagueTable/rowId=23>	rdf:type	q:vw_PremierLeagueTable	.
+<vw_PremierLeagueTable/rowId=23>	<vw_PremierLeagueTable/team>	 "http://dbpedia.org/resource/Tottenham_Hotspur_F.C."	.
+<vw_PremierLeagueTable/rowId=23>	<vw_PremierLeagueTable/position>	 "Premier League, 4th"	.
+<vw_PremierLeagueTable/rowId=23>	<vw_PremierLeagueTable/manager>	 "http://dbpedia.org/resource/André_Villas-Boas"	.
+<vw_PremierLeagueTable/rowId=23>	<vw_PremierLeagueTable/ground>	 "http://dbpedia.org/resource/White_Hart_Lane"	.
+<vw_PremierLeagueTable/rowId=23>	<vw_PremierLeagueTable/capacity>	 "36240"	.
+
+<vw_PremierLeagueTable/rowId=24>	rdf:type	q:vw_PremierLeagueTable	.
+<vw_PremierLeagueTable/rowId=24>	<vw_PremierLeagueTable/team>	 "http://dbpedia.org/resource/Tottenham_Hotspur_F.C."	.
+<vw_PremierLeagueTable/rowId=24>	<vw_PremierLeagueTable/position>	 "Premier League, 4th"	.
+<vw_PremierLeagueTable/rowId=24>	<vw_PremierLeagueTable/manager>	 "http://dbpedia.org/resource/Harry_Redknapp"	.
+<vw_PremierLeagueTable/rowId=24>	<vw_PremierLeagueTable/ground>	 "http://dbpedia.org/resource/White_Hart_Lane"	.
+<vw_PremierLeagueTable/rowId=24>	<vw_PremierLeagueTable/capacity>	 "36240"	.
+
+<vw_PremierLeagueTable/rowId=25>	rdf:type	q:vw_PremierLeagueTable	.
+<vw_PremierLeagueTable/rowId=25>	<vw_PremierLeagueTable/team>	 "http://dbpedia.org/resource/West_Bromwich_Albion_F.C."	.
+<vw_PremierLeagueTable/rowId=25>	<vw_PremierLeagueTable/position>	 "Premier League, 10th"	.
+<vw_PremierLeagueTable/rowId=25>	<vw_PremierLeagueTable/manager>	 "Vacant"	.
+<vw_PremierLeagueTable/rowId=25>	<vw_PremierLeagueTable/ground>	 "http://dbpedia.org/resource/The_Hawthorns"	.
+<vw_PremierLeagueTable/rowId=25>	<vw_PremierLeagueTable/capacity>	 "26272"	.
+
+<vw_PremierLeagueTable/rowId=26>	rdf:type	q:vw_PremierLeagueTable	.
+<vw_PremierLeagueTable/rowId=26>	<vw_PremierLeagueTable/team>	 "http://dbpedia.org/resource/West_Bromwich_Albion_F.C."	.
+<vw_PremierLeagueTable/rowId=26>	<vw_PremierLeagueTable/position>	 "Premier League, 10th"	.
+<vw_PremierLeagueTable/rowId=26>	<vw_PremierLeagueTable/manager>	 "http://dbpedia.org/resource/Steve_Clarke"	.
+<vw_PremierLeagueTable/rowId=26>	<vw_PremierLeagueTable/ground>	 "http://dbpedia.org/resource/The_Hawthorns"	.
+<vw_PremierLeagueTable/rowId=26>	<vw_PremierLeagueTable/capacity>	 "26272"	.
+
+<vw_PremierLeagueTable/rowId=27>	rdf:type	q:vw_PremierLeagueTable	.
+<vw_PremierLeagueTable/rowId=27>	<vw_PremierLeagueTable/team>	 "http://dbpedia.org/resource/West_Ham_United_F.C."	.
+<vw_PremierLeagueTable/rowId=27>	<vw_PremierLeagueTable/position>	 "The Championship, 3rd"	.
+<vw_PremierLeagueTable/rowId=27>	<vw_PremierLeagueTable/manager>	 "http://dbpedia.org/resource/Sam_Allardyce"	.
+<vw_PremierLeagueTable/rowId=27>	<vw_PremierLeagueTable/ground>	 "http://dbpedia.org/resource/Boleyn_Ground"	.
+<vw_PremierLeagueTable/rowId=27>	<vw_PremierLeagueTable/capacity>	 "35333"	.
+<vw_PremierLeagueTable/rowId=27>	<vw_PremierLeagueTable/capacity2>	 "35016"	.
+
+<vw_PremierLeagueTable>	q:QuerySPARQL	"SELECT ?team ?position ?manager ?ground ?capacity2 ?capacity
+WHERE {
+	?row <http://sparqlr.co.uk/q/vw_PremierLeagueTable/team> ?team . 
+	OPTIONAL { ?row <http://sparqlr.co.uk/q/vw_PremierLeagueTable/position> ?position . } .
+	OPTIONAL { ?row <http://sparqlr.co.uk/q/vw_PremierLeagueTable/manager> ?manager . } .
+	OPTIONAL { ?row <http://sparqlr.co.uk/q/vw_PremierLeagueTable/ground> ?ground . } .
+	OPTIONAL { ?row <http://sparqlr.co.uk/q/vw_PremierLeagueTable/capacity2> ?capacity2 . } .
+	OPTIONAL { ?row <http://sparqlr.co.uk/q/vw_PremierLeagueTable/capacity> ?capacity . } .
+}" . 
+

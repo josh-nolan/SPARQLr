@@ -1,0 +1,36 @@
+# RDF file for QUERY: HouseholdPricePaidgivenPostcode.ttl
+@base <http://sparqlr.co.uk/q/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> . 
+@prefix q: <http://sparqlr.co.uk/q/> . 
+<HouseholdPricePaidgivenPostcode>	q:QueryId	"HouseholdPricePaidgivenPostcode" . 
+<HouseholdPricePaidgivenPostcode>	q:Title	"Household PricePaid given Postcode" . 
+<HouseholdPricePaidgivenPostcode>	q:Endpoint	"http://landregistry.data.gov.uk/landregistry/sparql" . 
+<HouseholdPricePaidgivenPostcode>	q:Classification	"Media" . 
+<HouseholdPricePaidgivenPostcode>	q:DateSaved	"1360002350" . 
+<HouseholdPricePaidgivenPostcode>	q:Description	"Given a UK postcode get any data available for houses bought in that area. " . 
+<HouseholdPricePaidgivenPostcode>	q:QuerySPARQL	"PREFIX xsd:     <http://www.w3.org/2001/XMLSchema#>
+PREFIX rdf:     <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+PREFIX rdfs:    <http://www.w3.org/2000/01/rdf-schema#>
+PREFIX owl:     <http://www.w3.org/2002/07/owl#>
+PREFIX lrppi:   <http://landregistry.data.gov.uk/def/ppi/>
+PREFIX skos:    <http://www.w3.org/2004/02/skos/core#>
+PREFIX lrcommon: <http://landregistry.data.gov.uk/def/common/>
+SELECT ?amount?street ?date
+WHERE
+{    
+  ?transx  lrppi:pricePaid ?amount .
+  ?transx  lrppi:transactionDate ?date .
+  ?transx  lrppi:propertyAddress ?addr.
+  ?addr lrcommon:street ?street .
+  ?addr lrcommon:postcode \"<%postcode>\"^^xsd:string .
+}
+ORDER BY ?amount
+LIMIT 2700" . 
+<HouseholdPricePaidgivenPostcode>	rdf:type	q:Query .
+<HouseholdPricePaidgivenPostcode>	q:HasParameters	1 .
+<HouseholdPricePaidgivenPostcode>	q:Tag	"HOUSEHOLD" . 
+<HouseholdPricePaidgivenPostcode>	q:Tag	"PRICEPAID" . 
+<HouseholdPricePaidgivenPostcode>	q:Tag	"POSTCODE" . 
+<HouseholdPricePaidgivenPostcode>	q:Tag	"HOUSING" . 
+<HouseholdPricePaidgivenPostcode>	q:Tag	"UK" . 
+<HouseholdPricePaidgivenPostcode>	q:Tag	"PARAMETERS" . 
